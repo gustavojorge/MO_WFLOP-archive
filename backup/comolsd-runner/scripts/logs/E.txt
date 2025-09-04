@@ -1,0 +1,80 @@
+Running COMOLS/D with instance E, Run: 1
+Executing COMOLS/D with: Instance=E, Run=1
+COMOLS/D has been executed for instance: E, Run: 1.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 2
+Executing COMOLS/D with: Instance=E, Run=2
+COMOLS/D has been executed for instance: E, Run: 2.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 3
+Executing COMOLS/D with: Instance=E, Run=3
+COMOLS/D has been executed for instance: E, Run: 3.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 4
+Executing COMOLS/D with: Instance=E, Run=4
+COMOLS/D has been executed for instance: E, Run: 4.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 5
+Executing COMOLS/D with: Instance=E, Run=5
+COMOLS/D has been executed for instance: E, Run: 5.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 6
+Executing COMOLS/D with: Instance=E, Run=6
+COMOLS/D has been executed for instance: E, Run: 6.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 7
+Executing COMOLS/D with: Instance=E, Run=7
+COMOLS/D has been executed for instance: E, Run: 7.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 8
+Executing COMOLS/D with: Instance=E, Run=8
+COMOLS/D has been executed for instance: E, Run: 8.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 9
+Executing COMOLS/D with: Instance=E, Run=9
+COMOLS/D has been executed for instance: E, Run: 9.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 10
+Executing COMOLS/D with: Instance=E, Run=10
+COMOLS/D has been executed for instance: E, Run: 10.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 11
+Executing COMOLS/D with: Instance=E, Run=11
+COMOLS/D has been executed for instance: E, Run: 11.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 12
+Executing COMOLS/D with: Instance=E, Run=12
+COMOLS/D has been executed for instance: E, Run: 12.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 13
+Executing COMOLS/D with: Instance=E, Run=13
+COMOLS/D has been executed for instance: E, Run: 13.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 14
+Executing COMOLS/D with: Instance=E, Run=14
+COMOLS/D has been executed for instance: E, Run: 14.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 15
+Executing COMOLS/D with: Instance=E, Run=15
+COMOLS/D has been executed for instance: E, Run: 15.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 16
+Executing COMOLS/D with: Instance=E, Run=16
+COMOLS/D has been executed for instance: E, Run: 16.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 17
+Executing COMOLS/D with: Instance=E, Run=17
+COMOLS/D has been executed for instance: E, Run: 17.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 18
+Executing COMOLS/D with: Instance=E, Run=18
+COMOLS/D has been executed for instance: E, Run: 18.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 19
+Executing COMOLS/D with: Instance=E, Run=19
+COMOLS/D has been executed for instance: E, Run: 19.
+---------------------------------------------
+Running COMOLS/D with instance E, Run: 20
+Executing COMOLS/D with: Instance=E, Run=20
+COMOLS/D has been executed for instance: E, Run: 20.
+---------------------------------------------

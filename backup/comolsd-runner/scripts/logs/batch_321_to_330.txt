@@ -1,0 +1,141 @@
+Using batch: 321 322 323 324 325 326 327 328 329 330
+Using instance: 321, Run: 1
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 1. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 2
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 2. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 3
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 3. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 4
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 4. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 5
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 5. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 6
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 6. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 7
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 7. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 8
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 8. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 9
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 9. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 10
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 10. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 11
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 11. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 12
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 12. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 13
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 13. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 14
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 14. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 15
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 15. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 16
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 16. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 17
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 17. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 18
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 18. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 19
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 19. Logs appended to ./logs/321.txt.
+Using instance: 321, Run: 20
+Appending to log file: ./logs/321.txt
+Finished instance: 321, Run: 20. Logs appended to ./logs/321.txt.
+Using instance: 322, Run: 1
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 1. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 2
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 2. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 3
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 3. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 4
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 4. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 5
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 5. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 6
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 6. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 7
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 7. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 8
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 8. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 9
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 9. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 10
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 10. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 11
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 11. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 12
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 12. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 13
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 13. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 14
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 14. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 15
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 15. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 16
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 16. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 17
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 17. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 18
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 18. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 19
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 19. Logs appended to ./logs/322.txt.
+Using instance: 322, Run: 20
+Appending to log file: ./logs/322.txt
+Finished instance: 322, Run: 20. Logs appended to ./logs/322.txt.
+Using instance: 323, Run: 1
+Appending to log file: ./logs/323.txt
+Finished instance: 323, Run: 1. Logs appended to ./logs/323.txt.
+Using instance: 323, Run: 2
+Appending to log file: ./logs/323.txt
+Finished instance: 323, Run: 2. Logs appended to ./logs/323.txt.
+Using instance: 323, Run: 3
+Appending to log file: ./logs/323.txt
+Finished instance: 323, Run: 3. Logs appended to ./logs/323.txt.
+Using instance: 323, Run: 4
+Appending to log file: ./logs/323.txt
+Finished instance: 323, Run: 4. Logs appended to ./logs/323.txt.
+Using instance: 323, Run: 5
+Appending to log file: ./logs/323.txt
+Finished instance: 323, Run: 5. Logs appended to ./logs/323.txt.
+Using instance: 323, Run: 6
+Appending to log file: ./logs/323.txt
+Finished instance: 323, Run: 6. Logs appended to ./logs/323.txt.
+Using instance: 323, Run: 7
+Appending to log file: ./logs/323.txt

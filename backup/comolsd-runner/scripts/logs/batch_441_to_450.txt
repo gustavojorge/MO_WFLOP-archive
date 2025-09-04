@@ -1,0 +1,222 @@
+Using batch: 441 442 443 444 445 446 447 448 449 450
+Using instance: 441, Run: 1
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 1. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 2
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 2. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 3
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 3. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 4
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 4. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 5
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 5. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 6
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 6. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 7
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 7. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 8
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 8. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 9
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 9. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 10
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 10. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 11
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 11. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 12
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 12. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 13
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 13. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 14
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 14. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 15
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 15. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 16
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 16. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 17
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 17. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 18
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 18. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 19
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 19. Logs appended to ./logs/441.txt.
+Using instance: 441, Run: 20
+Appending to log file: ./logs/441.txt
+Finished instance: 441, Run: 20. Logs appended to ./logs/441.txt.
+Using instance: 442, Run: 1
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 1. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 2
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 2. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 3
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 3. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 4
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 4. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 5
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 5. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 6
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 6. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 7
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 7. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 8
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 8. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 9
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 9. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 10
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 10. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 11
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 11. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 12
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 12. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 13
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 13. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 14
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 14. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 15
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 15. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 16
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 16. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 17
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 17. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 18
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 18. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 19
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 19. Logs appended to ./logs/442.txt.
+Using instance: 442, Run: 20
+Appending to log file: ./logs/442.txt
+Finished instance: 442, Run: 20. Logs appended to ./logs/442.txt.
+Using instance: 443, Run: 1
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 1. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 2
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 2. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 3
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 3. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 4
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 4. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 5
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 5. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 6
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 6. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 7
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 7. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 8
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 8. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 9
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 9. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 10
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 10. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 11
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 11. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 12
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 12. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 13
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 13. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 14
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 14. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 15
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 15. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 16
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 16. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 17
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 17. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 18
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 18. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 19
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 19. Logs appended to ./logs/443.txt.
+Using instance: 443, Run: 20
+Appending to log file: ./logs/443.txt
+Finished instance: 443, Run: 20. Logs appended to ./logs/443.txt.
+Using instance: 444, Run: 1
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 1. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 2
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 2. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 3
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 3. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 4
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 4. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 5
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 5. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 6
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 6. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 7
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 7. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 8
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 8. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 9
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 9. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 10
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 10. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 11
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 11. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 12
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 12. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 13
+Appending to log file: ./logs/444.txt
+Finished instance: 444, Run: 13. Logs appended to ./logs/444.txt.
+Using instance: 444, Run: 14
+Appending to log file: ./logs/444.txt

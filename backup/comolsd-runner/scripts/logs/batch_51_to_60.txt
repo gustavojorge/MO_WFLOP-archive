@@ -1,0 +1,120 @@
+Using batch: 51 52 53 54 55 56 57 58 59 60
+Using instance: 51, Run: 1
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 1. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 2
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 2. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 3
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 3. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 4
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 4. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 5
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 5. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 6
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 6. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 7
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 7. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 8
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 8. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 9
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 9. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 10
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 10. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 11
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 11. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 12
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 12. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 13
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 13. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 14
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 14. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 15
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 15. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 16
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 16. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 17
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 17. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 18
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 18. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 19
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 19. Logs appended to ./logs/51.txt.
+Using instance: 51, Run: 20
+Appending to log file: ./logs/51.txt
+Finished instance: 51, Run: 20. Logs appended to ./logs/51.txt.
+Using instance: 52, Run: 1
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 1. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 2
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 2. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 3
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 3. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 4
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 4. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 5
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 5. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 6
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 6. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 7
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 7. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 8
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 8. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 9
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 9. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 10
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 10. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 11
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 11. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 12
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 12. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 13
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 13. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 14
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 14. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 15
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 15. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 16
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 16. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 17
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 17. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 18
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 18. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 19
+Appending to log file: ./logs/52.txt
+Finished instance: 52, Run: 19. Logs appended to ./logs/52.txt.
+Using instance: 52, Run: 20
+Appending to log file: ./logs/52.txt

@@ -1,0 +1,50 @@
+Running COMOLS/D with instance 423, Run: 1
+Executing COMOLS/D with: Instance=423, Run=1
+COMOLS/D has been executed for instance: 423, Run: 1.
+---------------------------------------------
+Running COMOLS/D with instance 423, Run: 2
+Executing COMOLS/D with: Instance=423, Run=2
+COMOLS/D has been executed for instance: 423, Run: 2.
+---------------------------------------------
+Running COMOLS/D with instance 423, Run: 3
+Executing COMOLS/D with: Instance=423, Run=3
+COMOLS/D has been executed for instance: 423, Run: 3.
+---------------------------------------------
+Running COMOLS/D with instance 423, Run: 4
+Executing COMOLS/D with: Instance=423, Run=4
+COMOLS/D has been executed for instance: 423, Run: 4.
+---------------------------------------------
+Running COMOLS/D with instance 423, Run: 5
+Executing COMOLS/D with: Instance=423, Run=5
+COMOLS/D has been executed for instance: 423, Run: 5.
+---------------------------------------------
+Running COMOLS/D with instance 423, Run: 6
+Executing COMOLS/D with: Instance=423, Run=6
+COMOLS/D has been executed for instance: 423, Run: 6.
+---------------------------------------------
+Running COMOLS/D with instance 423, Run: 7
+Executing COMOLS/D with: Instance=423, Run=7
+COMOLS/D has been executed for instance: 423, Run: 7.
+---------------------------------------------
+Running COMOLS/D with instance 423, Run: 8
+Executing COMOLS/D with: Instance=423, Run=8
+COMOLS/D has been executed for instance: 423, Run: 8.
+---------------------------------------------
+Running COMOLS/D with instance 423, Run: 9
+Executing COMOLS/D with: Instance=423, Run=9
+COMOLS/D has been executed for instance: 423, Run: 9.
+---------------------------------------------
+Running COMOLS/D with instance 423, Run: 10
+Executing COMOLS/D with: Instance=423, Run=10
+COMOLS/D has been executed for instance: 423, Run: 10.
+---------------------------------------------
+Running COMOLS/D with instance 423, Run: 11
+Executing COMOLS/D with: Instance=423, Run=11
+COMOLS/D has been executed for instance: 423, Run: 11.
+---------------------------------------------
+Running COMOLS/D with instance 423, Run: 12
+Executing COMOLS/D with: Instance=423, Run=12
+COMOLS/D has been executed for instance: 423, Run: 12.
+---------------------------------------------
+Running COMOLS/D with instance 423, Run: 13
+Executing COMOLS/D with: Instance=423, Run=13

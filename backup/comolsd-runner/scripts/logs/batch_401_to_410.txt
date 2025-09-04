@@ -1,0 +1,138 @@
+Using batch: 401 402 403 404 405 406 407 408 409 410
+Using instance: 401, Run: 1
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 1. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 2
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 2. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 3
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 3. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 4
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 4. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 5
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 5. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 6
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 6. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 7
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 7. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 8
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 8. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 9
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 9. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 10
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 10. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 11
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 11. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 12
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 12. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 13
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 13. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 14
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 14. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 15
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 15. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 16
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 16. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 17
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 17. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 18
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 18. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 19
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 19. Logs appended to ./logs/401.txt.
+Using instance: 401, Run: 20
+Appending to log file: ./logs/401.txt
+Finished instance: 401, Run: 20. Logs appended to ./logs/401.txt.
+Using instance: 402, Run: 1
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 1. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 2
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 2. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 3
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 3. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 4
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 4. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 5
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 5. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 6
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 6. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 7
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 7. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 8
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 8. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 9
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 9. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 10
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 10. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 11
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 11. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 12
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 12. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 13
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 13. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 14
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 14. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 15
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 15. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 16
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 16. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 17
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 17. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 18
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 18. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 19
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 19. Logs appended to ./logs/402.txt.
+Using instance: 402, Run: 20
+Appending to log file: ./logs/402.txt
+Finished instance: 402, Run: 20. Logs appended to ./logs/402.txt.
+Using instance: 403, Run: 1
+Appending to log file: ./logs/403.txt
+Finished instance: 403, Run: 1. Logs appended to ./logs/403.txt.
+Using instance: 403, Run: 2
+Appending to log file: ./logs/403.txt
+Finished instance: 403, Run: 2. Logs appended to ./logs/403.txt.
+Using instance: 403, Run: 3
+Appending to log file: ./logs/403.txt
+Finished instance: 403, Run: 3. Logs appended to ./logs/403.txt.
+Using instance: 403, Run: 4
+Appending to log file: ./logs/403.txt
+Finished instance: 403, Run: 4. Logs appended to ./logs/403.txt.
+Using instance: 403, Run: 5
+Appending to log file: ./logs/403.txt
+Finished instance: 403, Run: 5. Logs appended to ./logs/403.txt.
+Using instance: 403, Run: 6
+Appending to log file: ./logs/403.txt

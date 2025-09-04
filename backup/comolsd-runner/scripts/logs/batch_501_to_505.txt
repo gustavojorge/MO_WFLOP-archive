@@ -1,0 +1,302 @@
+Using batch: 501 502 503 504 505
+Using instance: 501, Run: 1
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 1. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 2
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 2. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 3
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 3. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 4
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 4. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 5
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 5. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 6
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 6. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 7
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 7. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 8
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 8. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 9
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 9. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 10
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 10. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 11
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 11. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 12
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 12. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 13
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 13. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 14
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 14. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 15
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 15. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 16
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 16. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 17
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 17. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 18
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 18. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 19
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 19. Logs appended to ./logs/501.txt.
+Using instance: 501, Run: 20
+Appending to log file: ./logs/501.txt
+Finished instance: 501, Run: 20. Logs appended to ./logs/501.txt.
+Using instance: 502, Run: 1
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 1. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 2
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 2. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 3
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 3. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 4
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 4. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 5
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 5. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 6
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 6. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 7
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 7. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 8
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 8. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 9
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 9. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 10
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 10. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 11
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 11. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 12
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 12. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 13
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 13. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 14
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 14. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 15
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 15. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 16
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 16. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 17
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 17. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 18
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 18. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 19
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 19. Logs appended to ./logs/502.txt.
+Using instance: 502, Run: 20
+Appending to log file: ./logs/502.txt
+Finished instance: 502, Run: 20. Logs appended to ./logs/502.txt.
+Using instance: 503, Run: 1
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 1. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 2
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 2. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 3
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 3. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 4
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 4. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 5
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 5. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 6
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 6. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 7
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 7. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 8
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 8. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 9
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 9. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 10
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 10. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 11
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 11. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 12
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 12. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 13
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 13. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 14
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 14. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 15
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 15. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 16
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 16. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 17
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 17. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 18
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 18. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 19
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 19. Logs appended to ./logs/503.txt.
+Using instance: 503, Run: 20
+Appending to log file: ./logs/503.txt
+Finished instance: 503, Run: 20. Logs appended to ./logs/503.txt.
+Using instance: 504, Run: 1
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 1. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 2
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 2. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 3
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 3. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 4
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 4. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 5
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 5. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 6
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 6. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 7
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 7. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 8
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 8. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 9
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 9. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 10
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 10. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 11
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 11. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 12
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 12. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 13
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 13. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 14
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 14. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 15
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 15. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 16
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 16. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 17
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 17. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 18
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 18. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 19
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 19. Logs appended to ./logs/504.txt.
+Using instance: 504, Run: 20
+Appending to log file: ./logs/504.txt
+Finished instance: 504, Run: 20. Logs appended to ./logs/504.txt.
+Using instance: 505, Run: 1
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 1. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 2
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 2. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 3
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 3. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 4
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 4. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 5
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 5. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 6
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 6. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 7
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 7. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 8
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 8. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 9
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 9. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 10
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 10. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 11
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 11. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 12
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 12. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 13
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 13. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 14
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 14. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 15
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 15. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 16
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 16. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 17
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 17. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 18
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 18. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 19
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 19. Logs appended to ./logs/505.txt.
+Using instance: 505, Run: 20
+Appending to log file: ./logs/505.txt
+Finished instance: 505, Run: 20. Logs appended to ./logs/505.txt.
+All instances in the batch have been processed.

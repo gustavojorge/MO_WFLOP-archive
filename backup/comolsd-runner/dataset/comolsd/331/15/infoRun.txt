@@ -1,0 +1,9 @@
+Generation 0 | Revalues: 100 | GridSize: 7
+Generation 1 | Revalues: 73350 | GridSize: 300
+Generation 2 | Revalues: 86850 | GridSize: 300
+Generation 3 | Revalues: 101370 | GridSize: 300
+Generation 4 | Revalues: 110830 | GridSize: 300
+Generation 5 | Revalues: 117900 | GridSize: 300
+Generation 6 | Revalues: 126000 | GridSize: 300
+Generation 7 | Revalues: 129330 | GridSize: 300
+Generation 8 | Revalues: 131020 | GridSize: 300

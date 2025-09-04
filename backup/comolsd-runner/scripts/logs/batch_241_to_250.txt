@@ -1,0 +1,600 @@
+Using batch: 241 242 243 244 245 246 247 248 249 250
+Using instance: 241, Run: 1
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 1. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 2
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 2. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 3
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 3. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 4
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 4. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 5
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 5. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 6
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 6. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 7
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 7. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 8
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 8. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 9
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 9. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 10
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 10. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 11
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 11. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 12
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 12. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 13
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 13. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 14
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 14. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 15
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 15. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 16
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 16. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 17
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 17. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 18
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 18. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 19
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 19. Logs appended to ./logs/241.txt.
+Using instance: 241, Run: 20
+Appending to log file: ./logs/241.txt
+Finished instance: 241, Run: 20. Logs appended to ./logs/241.txt.
+Using instance: 242, Run: 1
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 1. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 2
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 2. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 3
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 3. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 4
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 4. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 5
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 5. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 6
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 6. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 7
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 7. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 8
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 8. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 9
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 9. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 10
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 10. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 11
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 11. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 12
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 12. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 13
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 13. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 14
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 14. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 15
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 15. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 16
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 16. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 17
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 17. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 18
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 18. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 19
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 19. Logs appended to ./logs/242.txt.
+Using instance: 242, Run: 20
+Appending to log file: ./logs/242.txt
+Finished instance: 242, Run: 20. Logs appended to ./logs/242.txt.
+Using instance: 243, Run: 1
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 1. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 2
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 2. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 3
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 3. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 4
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 4. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 5
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 5. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 6
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 6. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 7
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 7. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 8
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 8. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 9
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 9. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 10
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 10. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 11
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 11. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 12
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 12. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 13
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 13. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 14
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 14. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 15
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 15. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 16
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 16. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 17
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 17. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 18
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 18. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 19
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 19. Logs appended to ./logs/243.txt.
+Using instance: 243, Run: 20
+Appending to log file: ./logs/243.txt
+Finished instance: 243, Run: 20. Logs appended to ./logs/243.txt.
+Using instance: 244, Run: 1
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 1. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 2
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 2. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 3
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 3. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 4
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 4. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 5
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 5. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 6
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 6. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 7
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 7. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 8
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 8. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 9
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 9. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 10
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 10. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 11
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 11. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 12
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 12. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 13
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 13. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 14
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 14. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 15
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 15. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 16
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 16. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 17
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 17. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 18
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 18. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 19
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 19. Logs appended to ./logs/244.txt.
+Using instance: 244, Run: 20
+Appending to log file: ./logs/244.txt
+Finished instance: 244, Run: 20. Logs appended to ./logs/244.txt.
+Using instance: 245, Run: 1
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 1. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 2
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 2. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 3
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 3. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 4
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 4. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 5
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 5. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 6
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 6. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 7
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 7. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 8
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 8. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 9
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 9. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 10
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 10. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 11
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 11. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 12
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 12. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 13
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 13. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 14
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 14. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 15
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 15. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 16
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 16. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 17
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 17. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 18
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 18. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 19
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 19. Logs appended to ./logs/245.txt.
+Using instance: 245, Run: 20
+Appending to log file: ./logs/245.txt
+Finished instance: 245, Run: 20. Logs appended to ./logs/245.txt.
+Using instance: 246, Run: 1
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 1. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 2
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 2. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 3
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 3. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 4
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 4. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 5
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 5. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 6
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 6. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 7
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 7. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 8
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 8. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 9
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 9. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 10
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 10. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 11
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 11. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 12
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 12. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 13
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 13. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 14
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 14. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 15
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 15. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 16
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 16. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 17
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 17. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 18
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 18. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 19
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 19. Logs appended to ./logs/246.txt.
+Using instance: 246, Run: 20
+Appending to log file: ./logs/246.txt
+Finished instance: 246, Run: 20. Logs appended to ./logs/246.txt.
+Using instance: 247, Run: 1
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 1. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 2
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 2. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 3
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 3. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 4
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 4. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 5
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 5. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 6
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 6. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 7
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 7. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 8
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 8. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 9
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 9. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 10
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 10. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 11
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 11. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 12
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 12. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 13
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 13. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 14
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 14. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 15
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 15. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 16
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 16. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 17
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 17. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 18
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 18. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 19
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 19. Logs appended to ./logs/247.txt.
+Using instance: 247, Run: 20
+Appending to log file: ./logs/247.txt
+Finished instance: 247, Run: 20. Logs appended to ./logs/247.txt.
+Using instance: 248, Run: 1
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 1. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 2
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 2. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 3
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 3. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 4
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 4. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 5
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 5. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 6
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 6. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 7
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 7. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 8
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 8. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 9
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 9. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 10
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 10. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 11
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 11. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 12
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 12. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 13
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 13. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 14
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 14. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 15
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 15. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 16
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 16. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 17
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 17. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 18
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 18. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 19
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 19. Logs appended to ./logs/248.txt.
+Using instance: 248, Run: 20
+Appending to log file: ./logs/248.txt
+Finished instance: 248, Run: 20. Logs appended to ./logs/248.txt.
+Using instance: 249, Run: 1
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 1. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 2
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 2. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 3
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 3. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 4
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 4. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 5
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 5. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 6
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 6. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 7
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 7. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 8
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 8. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 9
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 9. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 10
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 10. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 11
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 11. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 12
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 12. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 13
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 13. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 14
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 14. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 15
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 15. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 16
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 16. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 17
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 17. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 18
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 18. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 19
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 19. Logs appended to ./logs/249.txt.
+Using instance: 249, Run: 20
+Appending to log file: ./logs/249.txt
+Finished instance: 249, Run: 20. Logs appended to ./logs/249.txt.
+Using instance: 250, Run: 1
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 1. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 2
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 2. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 3
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 3. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 4
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 4. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 5
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 5. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 6
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 6. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 7
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 7. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 8
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 8. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 9
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 9. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 10
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 10. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 11
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 11. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 12
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 12. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 13
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 13. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 14
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 14. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 15
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 15. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 16
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 16. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 17
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 17. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 18
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 18. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 19
+Appending to log file: ./logs/250.txt
+Finished instance: 250, Run: 19. Logs appended to ./logs/250.txt.
+Using instance: 250, Run: 20
+Appending to log file: ./logs/250.txt

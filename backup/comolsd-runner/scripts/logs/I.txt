@@ -1,0 +1,26 @@
+Running COMOLS/D with instance I, Run: 1
+Executing COMOLS/D with: Instance=I, Run=1
+COMOLS/D has been executed for instance: I, Run: 1.
+---------------------------------------------
+Running COMOLS/D with instance I, Run: 2
+Executing COMOLS/D with: Instance=I, Run=2
+COMOLS/D has been executed for instance: I, Run: 2.
+---------------------------------------------
+Running COMOLS/D with instance I, Run: 3
+Executing COMOLS/D with: Instance=I, Run=3
+COMOLS/D has been executed for instance: I, Run: 3.
+---------------------------------------------
+Running COMOLS/D with instance I, Run: 4
+Executing COMOLS/D with: Instance=I, Run=4
+COMOLS/D has been executed for instance: I, Run: 4.
+---------------------------------------------
+Running COMOLS/D with instance I, Run: 5
+Executing COMOLS/D with: Instance=I, Run=5
+COMOLS/D has been executed for instance: I, Run: 5.
+---------------------------------------------
+Running COMOLS/D with instance I, Run: 6
+Executing COMOLS/D with: Instance=I, Run=6
+COMOLS/D has been executed for instance: I, Run: 6.
+---------------------------------------------
+Running COMOLS/D with instance I, Run: 7
+Executing COMOLS/D with: Instance=I, Run=7

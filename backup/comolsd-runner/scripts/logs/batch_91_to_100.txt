@@ -1,0 +1,144 @@
+Using batch: 91 92 93 94 95 96 97 98 99 100
+Using instance: 91, Run: 1
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 1. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 2
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 2. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 3
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 3. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 4
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 4. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 5
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 5. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 6
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 6. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 7
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 7. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 8
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 8. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 9
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 9. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 10
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 10. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 11
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 11. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 12
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 12. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 13
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 13. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 14
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 14. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 15
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 15. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 16
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 16. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 17
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 17. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 18
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 18. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 19
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 19. Logs appended to ./logs/91.txt.
+Using instance: 91, Run: 20
+Appending to log file: ./logs/91.txt
+Finished instance: 91, Run: 20. Logs appended to ./logs/91.txt.
+Using instance: 92, Run: 1
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 1. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 2
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 2. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 3
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 3. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 4
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 4. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 5
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 5. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 6
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 6. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 7
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 7. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 8
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 8. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 9
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 9. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 10
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 10. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 11
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 11. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 12
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 12. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 13
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 13. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 14
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 14. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 15
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 15. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 16
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 16. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 17
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 17. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 18
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 18. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 19
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 19. Logs appended to ./logs/92.txt.
+Using instance: 92, Run: 20
+Appending to log file: ./logs/92.txt
+Finished instance: 92, Run: 20. Logs appended to ./logs/92.txt.
+Using instance: 93, Run: 1
+Appending to log file: ./logs/93.txt
+Finished instance: 93, Run: 1. Logs appended to ./logs/93.txt.
+Using instance: 93, Run: 2
+Appending to log file: ./logs/93.txt
+Finished instance: 93, Run: 2. Logs appended to ./logs/93.txt.
+Using instance: 93, Run: 3
+Appending to log file: ./logs/93.txt
+Finished instance: 93, Run: 3. Logs appended to ./logs/93.txt.
+Using instance: 93, Run: 4
+Appending to log file: ./logs/93.txt
+Finished instance: 93, Run: 4. Logs appended to ./logs/93.txt.
+Using instance: 93, Run: 5
+Appending to log file: ./logs/93.txt
+Finished instance: 93, Run: 5. Logs appended to ./logs/93.txt.
+Using instance: 93, Run: 6
+Appending to log file: ./logs/93.txt
+Finished instance: 93, Run: 6. Logs appended to ./logs/93.txt.
+Using instance: 93, Run: 7
+Appending to log file: ./logs/93.txt
+Finished instance: 93, Run: 7. Logs appended to ./logs/93.txt.
+Using instance: 93, Run: 8
+Appending to log file: ./logs/93.txt
