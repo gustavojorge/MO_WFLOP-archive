@@ -1,0 +1,21 @@
+============================== LOG ==============================
+Instance: 420
+Run: 10
+Metaheuristic: NSGA-II
+Execution started at: Sat Feb  8 02:31:04 AM UTC 2025
+5
+
+Number of subproblems: 100
+Number of neighbors: 10
+Number of fixed turbines: 70
+Number of mobile turbines: 373
+Wind: 10.000000000000
+Angle: 0.000000000000
+
+Run time:
+
+real	149m30.137s
+user	149m6.296s
+sys	0m23.169s
+Execution ended at: Sat Feb  8 05:00:35 AM UTC 2025
+=================================================================
