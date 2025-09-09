@@ -1,0 +1,21 @@
+============================== LOG ==============================
+Instance: 146
+
+Maximum neighbors: 200
+Percentage of neighbors: 1.000000000000
+Total number of neighbors analyzed: 200.000000000000
+
+Number of subproblems: 20
+
+Number of fixed turbines: 40
+Number of mobile turbines: 127
+Wind: 8.000000000000
+Angle: 150.000000000000
+
+Run time: 
+./smaller_scripts/adaptative_walk_decomposition.sh: line 7: 728345 Segmentation fault      (core dumped) ./exe/adaptative_walk_decomposition "$instance" "$R"
+
+real	14m15.825s
+user	14m8.652s
+sys	0m7.048s
+=================================================================
