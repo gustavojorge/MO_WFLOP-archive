@@ -1,0 +1,21 @@
+============================== LOG ==============================
+Instance: 392
+
+Walk lengh: 5
+Maximum neighbors: 200
+Percentage of neighbors: 0.500000000000
+Total number of neighbors analyzed: 100.000000000000
+
+Number of subproblems: 20
+
+Number of fixed turbines: 22
+Number of mobile turbines: 230
+Wind: 10.000000000000
+Angle: 60.000000000000
+
+Run time: 
+TOTAL NUMBER OF AVALIATIONS: 10023
+real	0m26.187s
+user	0m26.042s
+sys	0m0.144s
+=================================================================
