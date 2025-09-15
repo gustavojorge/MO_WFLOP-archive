@@ -1,0 +1,20 @@
+============================== LOG ==============================
+Instance: 454
+Run: 2
+Metaheuristic: MOEA/D
+Execution started at: Thu Jan 16 08:56:32 AM UTC 2025
+
+Number of subproblems: 100
+Number of neighbors: 10
+Number of fixed turbines: 12
+Number of mobile turbines: 571
+Wind: 9.000000000000
+Angle: 120.000000000000
+
+Run time:
+
+real	190m57.219s
+user	190m56.448s
+sys	0m0.633s
+Execution ended at: Thu Jan 16 12:07:29 PM UTC 2025
+=================================================================
