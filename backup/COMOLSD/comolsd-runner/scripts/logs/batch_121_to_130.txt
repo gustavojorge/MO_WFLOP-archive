@@ -1,0 +1,69 @@
+Using batch: 121 122 123 124 125 126 127 128 129 130
+Using instance: 121, Run: 1
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 1. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 2
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 2. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 3
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 3. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 4
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 4. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 5
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 5. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 6
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 6. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 7
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 7. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 8
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 8. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 9
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 9. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 10
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 10. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 11
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 11. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 12
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 12. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 13
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 13. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 14
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 14. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 15
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 15. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 16
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 16. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 17
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 17. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 18
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 18. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 19
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 19. Logs appended to ./logs/121.txt.
+Using instance: 121, Run: 20
+Appending to log file: ./logs/121.txt
+Finished instance: 121, Run: 20. Logs appended to ./logs/121.txt.
+Using instance: 122, Run: 1
+Appending to log file: ./logs/122.txt
+Finished instance: 122, Run: 1. Logs appended to ./logs/122.txt.
+Using instance: 122, Run: 2
+Appending to log file: ./logs/122.txt
+Finished instance: 122, Run: 2. Logs appended to ./logs/122.txt.
+Using instance: 122, Run: 3
+Appending to log file: ./logs/122.txt

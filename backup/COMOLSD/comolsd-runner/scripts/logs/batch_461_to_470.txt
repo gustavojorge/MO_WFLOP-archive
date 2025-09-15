@@ -1,0 +1,159 @@
+Using batch: 461 462 463 464 465 466 467 468 469 470
+Using instance: 461, Run: 1
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 1. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 2
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 2. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 3
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 3. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 4
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 4. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 5
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 5. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 6
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 6. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 7
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 7. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 8
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 8. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 9
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 9. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 10
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 10. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 11
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 11. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 12
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 12. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 13
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 13. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 14
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 14. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 15
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 15. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 16
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 16. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 17
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 17. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 18
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 18. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 19
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 19. Logs appended to ./logs/461.txt.
+Using instance: 461, Run: 20
+Appending to log file: ./logs/461.txt
+Finished instance: 461, Run: 20. Logs appended to ./logs/461.txt.
+Using instance: 462, Run: 1
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 1. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 2
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 2. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 3
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 3. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 4
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 4. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 5
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 5. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 6
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 6. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 7
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 7. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 8
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 8. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 9
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 9. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 10
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 10. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 11
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 11. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 12
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 12. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 13
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 13. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 14
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 14. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 15
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 15. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 16
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 16. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 17
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 17. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 18
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 18. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 19
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 19. Logs appended to ./logs/462.txt.
+Using instance: 462, Run: 20
+Appending to log file: ./logs/462.txt
+Finished instance: 462, Run: 20. Logs appended to ./logs/462.txt.
+Using instance: 463, Run: 1
+Appending to log file: ./logs/463.txt
+Finished instance: 463, Run: 1. Logs appended to ./logs/463.txt.
+Using instance: 463, Run: 2
+Appending to log file: ./logs/463.txt
+Finished instance: 463, Run: 2. Logs appended to ./logs/463.txt.
+Using instance: 463, Run: 3
+Appending to log file: ./logs/463.txt
+Finished instance: 463, Run: 3. Logs appended to ./logs/463.txt.
+Using instance: 463, Run: 4
+Appending to log file: ./logs/463.txt
+Finished instance: 463, Run: 4. Logs appended to ./logs/463.txt.
+Using instance: 463, Run: 5
+Appending to log file: ./logs/463.txt
+Finished instance: 463, Run: 5. Logs appended to ./logs/463.txt.
+Using instance: 463, Run: 6
+Appending to log file: ./logs/463.txt
+Finished instance: 463, Run: 6. Logs appended to ./logs/463.txt.
+Using instance: 463, Run: 7
+Appending to log file: ./logs/463.txt
+Finished instance: 463, Run: 7. Logs appended to ./logs/463.txt.
+Using instance: 463, Run: 8
+Appending to log file: ./logs/463.txt
+Finished instance: 463, Run: 8. Logs appended to ./logs/463.txt.
+Using instance: 463, Run: 9
+Appending to log file: ./logs/463.txt
+Finished instance: 463, Run: 9. Logs appended to ./logs/463.txt.
+Using instance: 463, Run: 10
+Appending to log file: ./logs/463.txt
+Finished instance: 463, Run: 10. Logs appended to ./logs/463.txt.
+Using instance: 463, Run: 11
+Appending to log file: ./logs/463.txt
+Finished instance: 463, Run: 11. Logs appended to ./logs/463.txt.
+Using instance: 463, Run: 12
+Appending to log file: ./logs/463.txt
+Finished instance: 463, Run: 12. Logs appended to ./logs/463.txt.
+Using instance: 463, Run: 13
+Appending to log file: ./logs/463.txt

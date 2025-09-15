@@ -1,0 +1,255 @@
+Using batch: 141 142 143 144 145 146 147 148 149 150
+Using instance: 141, Run: 1
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 1. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 2
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 2. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 3
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 3. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 4
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 4. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 5
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 5. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 6
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 6. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 7
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 7. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 8
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 8. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 9
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 9. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 10
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 10. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 11
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 11. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 12
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 12. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 13
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 13. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 14
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 14. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 15
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 15. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 16
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 16. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 17
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 17. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 18
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 18. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 19
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 19. Logs appended to ./logs/141.txt.
+Using instance: 141, Run: 20
+Appending to log file: ./logs/141.txt
+Finished instance: 141, Run: 20. Logs appended to ./logs/141.txt.
+Using instance: 142, Run: 1
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 1. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 2
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 2. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 3
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 3. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 4
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 4. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 5
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 5. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 6
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 6. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 7
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 7. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 8
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 8. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 9
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 9. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 10
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 10. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 11
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 11. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 12
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 12. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 13
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 13. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 14
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 14. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 15
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 15. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 16
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 16. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 17
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 17. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 18
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 18. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 19
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 19. Logs appended to ./logs/142.txt.
+Using instance: 142, Run: 20
+Appending to log file: ./logs/142.txt
+Finished instance: 142, Run: 20. Logs appended to ./logs/142.txt.
+Using instance: 143, Run: 1
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 1. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 2
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 2. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 3
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 3. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 4
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 4. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 5
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 5. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 6
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 6. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 7
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 7. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 8
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 8. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 9
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 9. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 10
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 10. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 11
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 11. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 12
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 12. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 13
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 13. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 14
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 14. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 15
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 15. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 16
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 16. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 17
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 17. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 18
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 18. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 19
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 19. Logs appended to ./logs/143.txt.
+Using instance: 143, Run: 20
+Appending to log file: ./logs/143.txt
+Finished instance: 143, Run: 20. Logs appended to ./logs/143.txt.
+Using instance: 144, Run: 1
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 1. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 2
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 2. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 3
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 3. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 4
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 4. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 5
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 5. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 6
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 6. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 7
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 7. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 8
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 8. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 9
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 9. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 10
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 10. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 11
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 11. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 12
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 12. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 13
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 13. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 14
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 14. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 15
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 15. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 16
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 16. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 17
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 17. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 18
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 18. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 19
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 19. Logs appended to ./logs/144.txt.
+Using instance: 144, Run: 20
+Appending to log file: ./logs/144.txt
+Finished instance: 144, Run: 20. Logs appended to ./logs/144.txt.
+Using instance: 145, Run: 1
+Appending to log file: ./logs/145.txt
+Finished instance: 145, Run: 1. Logs appended to ./logs/145.txt.
+Using instance: 145, Run: 2
+Appending to log file: ./logs/145.txt
+Finished instance: 145, Run: 2. Logs appended to ./logs/145.txt.
+Using instance: 145, Run: 3
+Appending to log file: ./logs/145.txt
+Finished instance: 145, Run: 3. Logs appended to ./logs/145.txt.
+Using instance: 145, Run: 4
+Appending to log file: ./logs/145.txt
+Finished instance: 145, Run: 4. Logs appended to ./logs/145.txt.
+Using instance: 145, Run: 5
+Appending to log file: ./logs/145.txt

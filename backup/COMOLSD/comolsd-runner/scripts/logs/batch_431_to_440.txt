@@ -1,0 +1,168 @@
+Using batch: 431 432 433 434 435 436 437 438 439 440
+Using instance: 431, Run: 1
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 1. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 2
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 2. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 3
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 3. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 4
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 4. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 5
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 5. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 6
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 6. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 7
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 7. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 8
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 8. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 9
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 9. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 10
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 10. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 11
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 11. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 12
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 12. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 13
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 13. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 14
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 14. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 15
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 15. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 16
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 16. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 17
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 17. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 18
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 18. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 19
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 19. Logs appended to ./logs/431.txt.
+Using instance: 431, Run: 20
+Appending to log file: ./logs/431.txt
+Finished instance: 431, Run: 20. Logs appended to ./logs/431.txt.
+Using instance: 432, Run: 1
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 1. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 2
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 2. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 3
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 3. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 4
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 4. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 5
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 5. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 6
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 6. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 7
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 7. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 8
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 8. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 9
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 9. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 10
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 10. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 11
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 11. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 12
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 12. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 13
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 13. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 14
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 14. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 15
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 15. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 16
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 16. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 17
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 17. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 18
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 18. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 19
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 19. Logs appended to ./logs/432.txt.
+Using instance: 432, Run: 20
+Appending to log file: ./logs/432.txt
+Finished instance: 432, Run: 20. Logs appended to ./logs/432.txt.
+Using instance: 433, Run: 1
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 1. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 2
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 2. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 3
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 3. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 4
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 4. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 5
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 5. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 6
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 6. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 7
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 7. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 8
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 8. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 9
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 9. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 10
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 10. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 11
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 11. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 12
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 12. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 13
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 13. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 14
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 14. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 15
+Appending to log file: ./logs/433.txt
+Finished instance: 433, Run: 15. Logs appended to ./logs/433.txt.
+Using instance: 433, Run: 16
+Appending to log file: ./logs/433.txt

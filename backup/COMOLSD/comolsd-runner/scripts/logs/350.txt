@@ -1,0 +1,6 @@
+Running COMOLS/D with instance 350, Run: 1
+Executing COMOLS/D with: Instance=350, Run=1
+COMOLS/D has been executed for instance: 350, Run: 1.
+---------------------------------------------
+Running COMOLS/D with instance 350, Run: 2
+Executing COMOLS/D with: Instance=350, Run=2

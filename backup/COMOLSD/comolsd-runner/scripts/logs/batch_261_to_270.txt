@@ -1,0 +1,81 @@
+Using batch: 261 262 263 264 265 266 267 268 269 270
+Using instance: 261, Run: 1
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 1. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 2
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 2. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 3
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 3. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 4
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 4. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 5
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 5. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 6
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 6. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 7
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 7. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 8
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 8. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 9
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 9. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 10
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 10. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 11
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 11. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 12
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 12. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 13
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 13. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 14
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 14. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 15
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 15. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 16
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 16. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 17
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 17. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 18
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 18. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 19
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 19. Logs appended to ./logs/261.txt.
+Using instance: 261, Run: 20
+Appending to log file: ./logs/261.txt
+Finished instance: 261, Run: 20. Logs appended to ./logs/261.txt.
+Using instance: 262, Run: 1
+Appending to log file: ./logs/262.txt
+Finished instance: 262, Run: 1. Logs appended to ./logs/262.txt.
+Using instance: 262, Run: 2
+Appending to log file: ./logs/262.txt
+Finished instance: 262, Run: 2. Logs appended to ./logs/262.txt.
+Using instance: 262, Run: 3
+Appending to log file: ./logs/262.txt
+Finished instance: 262, Run: 3. Logs appended to ./logs/262.txt.
+Using instance: 262, Run: 4
+Appending to log file: ./logs/262.txt
+Finished instance: 262, Run: 4. Logs appended to ./logs/262.txt.
+Using instance: 262, Run: 5
+Appending to log file: ./logs/262.txt
+Finished instance: 262, Run: 5. Logs appended to ./logs/262.txt.
+Using instance: 262, Run: 6
+Appending to log file: ./logs/262.txt
+Finished instance: 262, Run: 6. Logs appended to ./logs/262.txt.
+Using instance: 262, Run: 7
+Appending to log file: ./logs/262.txt

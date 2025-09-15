@@ -1,0 +1,18 @@
+Running COMOLS/D with instance 252, Run: 1
+Executing COMOLS/D with: Instance=252, Run=1
+COMOLS/D has been executed for instance: 252, Run: 1.
+---------------------------------------------
+Running COMOLS/D with instance 252, Run: 2
+Executing COMOLS/D with: Instance=252, Run=2
+COMOLS/D has been executed for instance: 252, Run: 2.
+---------------------------------------------
+Running COMOLS/D with instance 252, Run: 3
+Executing COMOLS/D with: Instance=252, Run=3
+COMOLS/D has been executed for instance: 252, Run: 3.
+---------------------------------------------
+Running COMOLS/D with instance 252, Run: 4
+Executing COMOLS/D with: Instance=252, Run=4
+COMOLS/D has been executed for instance: 252, Run: 4.
+---------------------------------------------
+Running COMOLS/D with instance 252, Run: 5
+Executing COMOLS/D with: Instance=252, Run=5
