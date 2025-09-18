@@ -1,0 +1,21 @@
+============================== LOG ==============================
+Instance: 344
+Run: 10
+Metaheuristic: COMOLS/D
+Execution started at: Thu Sep  4 01:07:25 PM UTC 2025
+5
+
+Number of subproblems: 100
+Number of neighbors: 10
+Number of fixed turbines: 28
+Number of mobile turbines: 58
+Wind: 12.000000000000
+Angle: 120.000000000000
+
+Run time:
+
+real	15m40.203s
+user	4m18.320s
+sys	0m0.532s
+Execution ended at: Thu Sep  4 01:23:05 PM UTC 2025
+=================================================================
