@@ -1,0 +1,4263 @@
+[BUILDING FILES]
+--> Compiling bound
+--> Compiling normalize
+--> Compiling filter
+--> Compiling eps_ind
+--> Compiling hyp_ind
+--> Compiling dcdflib
+g++  -Wall -pedantic -O2 -c utils/dcdflib/dcdflib.cc -o utils/dcdflib/dcdflib.o >/dev/null 2>&1
+--> Compiling mann-whit
+--> Compiling kruskal-wallis
+--> Compiling wilcoxon-sign
+Compilation complete.
+ 
+[Empty instance file. Processing all instances].
+--- [Processing instance: 0]
+- [RUNNING] bound for instance 0
+- [RUNNING] normalize for instance 0
+- [RUNNING] filter for instance 0
+- [RUNNING] hyp_ind for instance 0
+- [RUNNING] eps_ind for instance 0
+- [RUNNING] igd.py for instance 0
+- [RUNNING] kruskal-wallis for instance 0
+--- [Processing instance: 1]
+- [RUNNING] bound for instance 1
+- [RUNNING] normalize for instance 1
+- [RUNNING] filter for instance 1
+- [RUNNING] hyp_ind for instance 1
+- [RUNNING] eps_ind for instance 1
+- [RUNNING] igd.py for instance 1
+- [RUNNING] kruskal-wallis for instance 1
+--- [Processing instance: 10]
+- [RUNNING] bound for instance 10
+- [RUNNING] normalize for instance 10
+- [RUNNING] filter for instance 10
+- [RUNNING] hyp_ind for instance 10
+- [RUNNING] eps_ind for instance 10
+- [RUNNING] igd.py for instance 10
+- [RUNNING] kruskal-wallis for instance 10
+--- [Processing instance: 100]
+- [RUNNING] bound for instance 100
+- [RUNNING] normalize for instance 100
+- [RUNNING] filter for instance 100
+- [RUNNING] hyp_ind for instance 100
+- [RUNNING] eps_ind for instance 100
+- [RUNNING] igd.py for instance 100
+- [RUNNING] kruskal-wallis for instance 100
+--- [Processing instance: 101]
+- [RUNNING] bound for instance 101
+- [RUNNING] normalize for instance 101
+- [RUNNING] filter for instance 101
+- [RUNNING] hyp_ind for instance 101
+- [RUNNING] eps_ind for instance 101
+- [RUNNING] igd.py for instance 101
+- [RUNNING] kruskal-wallis for instance 101
+--- [Processing instance: 102]
+- [RUNNING] bound for instance 102
+- [RUNNING] normalize for instance 102
+- [RUNNING] filter for instance 102
+- [RUNNING] hyp_ind for instance 102
+- [RUNNING] eps_ind for instance 102
+- [RUNNING] igd.py for instance 102
+- [RUNNING] kruskal-wallis for instance 102
+--- [Processing instance: 103]
+- [RUNNING] bound for instance 103
+- [RUNNING] normalize for instance 103
+- [RUNNING] filter for instance 103
+- [RUNNING] hyp_ind for instance 103
+- [RUNNING] eps_ind for instance 103
+- [RUNNING] igd.py for instance 103
+- [RUNNING] kruskal-wallis for instance 103
+--- [Processing instance: 104]
+- [RUNNING] bound for instance 104
+- [RUNNING] normalize for instance 104
+- [RUNNING] filter for instance 104
+- [RUNNING] hyp_ind for instance 104
+- [RUNNING] eps_ind for instance 104
+- [RUNNING] igd.py for instance 104
+- [RUNNING] kruskal-wallis for instance 104
+--- [Processing instance: 105]
+- [RUNNING] bound for instance 105
+- [RUNNING] normalize for instance 105
+- [RUNNING] filter for instance 105
+- [RUNNING] hyp_ind for instance 105
+- [RUNNING] eps_ind for instance 105
+- [RUNNING] igd.py for instance 105
+- [RUNNING] kruskal-wallis for instance 105
+--- [Processing instance: 106]
+- [RUNNING] bound for instance 106
+- [RUNNING] normalize for instance 106
+- [RUNNING] filter for instance 106
+- [RUNNING] hyp_ind for instance 106
+- [RUNNING] eps_ind for instance 106
+- [RUNNING] igd.py for instance 106
+- [RUNNING] kruskal-wallis for instance 106
+--- [Processing instance: 107]
+- [RUNNING] bound for instance 107
+- [RUNNING] normalize for instance 107
+- [RUNNING] filter for instance 107
+- [RUNNING] hyp_ind for instance 107
+- [RUNNING] eps_ind for instance 107
+- [RUNNING] igd.py for instance 107
+- [RUNNING] kruskal-wallis for instance 107
+--- [Processing instance: 108]
+- [RUNNING] bound for instance 108
+- [RUNNING] normalize for instance 108
+- [RUNNING] filter for instance 108
+- [RUNNING] hyp_ind for instance 108
+- [RUNNING] eps_ind for instance 108
+- [RUNNING] igd.py for instance 108
+- [RUNNING] kruskal-wallis for instance 108
+--- [Processing instance: 109]
+- [RUNNING] bound for instance 109
+- [RUNNING] normalize for instance 109
+- [RUNNING] filter for instance 109
+- [RUNNING] hyp_ind for instance 109
+- [RUNNING] eps_ind for instance 109
+- [RUNNING] igd.py for instance 109
+- [RUNNING] kruskal-wallis for instance 109
+--- [Processing instance: 11]
+- [RUNNING] bound for instance 11
+- [RUNNING] normalize for instance 11
+- [RUNNING] filter for instance 11
+- [RUNNING] hyp_ind for instance 11
+- [RUNNING] eps_ind for instance 11
+- [RUNNING] igd.py for instance 11
+- [RUNNING] kruskal-wallis for instance 11
+--- [Processing instance: 110]
+- [RUNNING] bound for instance 110
+- [RUNNING] normalize for instance 110
+- [RUNNING] filter for instance 110
+- [RUNNING] hyp_ind for instance 110
+- [RUNNING] eps_ind for instance 110
+- [RUNNING] igd.py for instance 110
+- [RUNNING] kruskal-wallis for instance 110
+--- [Processing instance: 111]
+- [RUNNING] bound for instance 111
+- [RUNNING] normalize for instance 111
+- [RUNNING] filter for instance 111
+- [RUNNING] hyp_ind for instance 111
+- [RUNNING] eps_ind for instance 111
+- [RUNNING] igd.py for instance 111
+- [RUNNING] kruskal-wallis for instance 111
+--- [Processing instance: 112]
+- [RUNNING] bound for instance 112
+- [RUNNING] normalize for instance 112
+- [RUNNING] filter for instance 112
+- [RUNNING] hyp_ind for instance 112
+- [RUNNING] eps_ind for instance 112
+- [RUNNING] igd.py for instance 112
+- [RUNNING] kruskal-wallis for instance 112
+--- [Processing instance: 113]
+- [RUNNING] bound for instance 113
+- [RUNNING] normalize for instance 113
+- [RUNNING] filter for instance 113
+- [RUNNING] hyp_ind for instance 113
+- [RUNNING] eps_ind for instance 113
+- [RUNNING] igd.py for instance 113
+- [RUNNING] kruskal-wallis for instance 113
+--- [Processing instance: 114]
+- [RUNNING] bound for instance 114
+- [RUNNING] normalize for instance 114
+- [RUNNING] filter for instance 114
+- [RUNNING] hyp_ind for instance 114
+- [RUNNING] eps_ind for instance 114
+- [RUNNING] igd.py for instance 114
+- [RUNNING] kruskal-wallis for instance 114
+--- [Processing instance: 115]
+- [RUNNING] bound for instance 115
+- [RUNNING] normalize for instance 115
+- [RUNNING] filter for instance 115
+- [RUNNING] hyp_ind for instance 115
+- [RUNNING] eps_ind for instance 115
+- [RUNNING] igd.py for instance 115
+- [RUNNING] kruskal-wallis for instance 115
+--- [Processing instance: 116]
+- [RUNNING] bound for instance 116
+- [RUNNING] normalize for instance 116
+- [RUNNING] filter for instance 116
+- [RUNNING] hyp_ind for instance 116
+- [RUNNING] eps_ind for instance 116
+- [RUNNING] igd.py for instance 116
+- [RUNNING] kruskal-wallis for instance 116
+--- [Processing instance: 117]
+- [RUNNING] bound for instance 117
+- [RUNNING] normalize for instance 117
+- [RUNNING] filter for instance 117
+- [RUNNING] hyp_ind for instance 117
+- [RUNNING] eps_ind for instance 117
+- [RUNNING] igd.py for instance 117
+- [RUNNING] kruskal-wallis for instance 117
+--- [Processing instance: 118]
+- [RUNNING] bound for instance 118
+- [RUNNING] normalize for instance 118
+- [RUNNING] filter for instance 118
+- [RUNNING] hyp_ind for instance 118
+- [RUNNING] eps_ind for instance 118
+- [RUNNING] igd.py for instance 118
+- [RUNNING] kruskal-wallis for instance 118
+--- [Processing instance: 119]
+- [RUNNING] bound for instance 119
+- [RUNNING] normalize for instance 119
+- [RUNNING] filter for instance 119
+- [RUNNING] hyp_ind for instance 119
+- [RUNNING] eps_ind for instance 119
+- [RUNNING] igd.py for instance 119
+- [RUNNING] kruskal-wallis for instance 119
+--- [Processing instance: 12]
+- [RUNNING] bound for instance 12
+- [RUNNING] normalize for instance 12
+- [RUNNING] filter for instance 12
+- [RUNNING] hyp_ind for instance 12
+- [RUNNING] eps_ind for instance 12
+- [RUNNING] igd.py for instance 12
+- [RUNNING] kruskal-wallis for instance 12
+--- [Processing instance: 120]
+- [RUNNING] bound for instance 120
+- [RUNNING] normalize for instance 120
+- [RUNNING] filter for instance 120
+- [RUNNING] hyp_ind for instance 120
+- [RUNNING] eps_ind for instance 120
+- [RUNNING] igd.py for instance 120
+- [RUNNING] kruskal-wallis for instance 120
+--- [Processing instance: 121]
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/121/1/121_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/121/2/121_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/121/3/121_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/121/4/121_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/121/5/121_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/121/6/121_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/121/7/121_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/121/8/121_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/121/9/121_comolsd_1000000.txt: Arquivo ou diretório inexistente
+- [RUNNING] bound for instance 121
+- [RUNNING] normalize for instance 121
+- [RUNNING] filter for instance 121
+- [RUNNING] hyp_ind for instance 121
+- [RUNNING] eps_ind for instance 121
+- [RUNNING] igd.py for instance 121
+- [RUNNING] kruskal-wallis for instance 121
+--- [Processing instance: 122]
+- [RUNNING] bound for instance 122
+- [RUNNING] normalize for instance 122
+- [RUNNING] filter for instance 122
+- [RUNNING] hyp_ind for instance 122
+- [RUNNING] eps_ind for instance 122
+- [RUNNING] igd.py for instance 122
+- [RUNNING] kruskal-wallis for instance 122
+--- [Processing instance: 123]
+- [RUNNING] bound for instance 123
+- [RUNNING] normalize for instance 123
+- [RUNNING] filter for instance 123
+- [RUNNING] hyp_ind for instance 123
+- [RUNNING] eps_ind for instance 123
+- [RUNNING] igd.py for instance 123
+- [RUNNING] kruskal-wallis for instance 123
+--- [Processing instance: 124]
+- [RUNNING] bound for instance 124
+- [RUNNING] normalize for instance 124
+- [RUNNING] filter for instance 124
+- [RUNNING] hyp_ind for instance 124
+- [RUNNING] eps_ind for instance 124
+- [RUNNING] igd.py for instance 124
+- [RUNNING] kruskal-wallis for instance 124
+--- [Processing instance: 125]
+- [RUNNING] bound for instance 125
+- [RUNNING] normalize for instance 125
+- [RUNNING] filter for instance 125
+- [RUNNING] hyp_ind for instance 125
+- [RUNNING] eps_ind for instance 125
+- [RUNNING] igd.py for instance 125
+- [RUNNING] kruskal-wallis for instance 125
+--- [Processing instance: 126]
+- [RUNNING] bound for instance 126
+- [RUNNING] normalize for instance 126
+- [RUNNING] filter for instance 126
+- [RUNNING] hyp_ind for instance 126
+- [RUNNING] eps_ind for instance 126
+- [RUNNING] igd.py for instance 126
+- [RUNNING] kruskal-wallis for instance 126
+--- [Processing instance: 127]
+- [RUNNING] bound for instance 127
+- [RUNNING] normalize for instance 127
+- [RUNNING] filter for instance 127
+- [RUNNING] hyp_ind for instance 127
+- [RUNNING] eps_ind for instance 127
+- [RUNNING] igd.py for instance 127
+- [RUNNING] kruskal-wallis for instance 127
+--- [Processing instance: 128]
+- [RUNNING] bound for instance 128
+- [RUNNING] normalize for instance 128
+- [RUNNING] filter for instance 128
+- [RUNNING] hyp_ind for instance 128
+- [RUNNING] eps_ind for instance 128
+- [RUNNING] igd.py for instance 128
+- [RUNNING] kruskal-wallis for instance 128
+--- [Processing instance: 129]
+- [RUNNING] bound for instance 129
+- [RUNNING] normalize for instance 129
+- [RUNNING] filter for instance 129
+- [RUNNING] hyp_ind for instance 129
+- [RUNNING] eps_ind for instance 129
+- [RUNNING] igd.py for instance 129
+- [RUNNING] kruskal-wallis for instance 129
+--- [Processing instance: 13]
+- [RUNNING] bound for instance 13
+- [RUNNING] normalize for instance 13
+- [RUNNING] filter for instance 13
+- [RUNNING] hyp_ind for instance 13
+- [RUNNING] eps_ind for instance 13
+- [RUNNING] igd.py for instance 13
+- [RUNNING] kruskal-wallis for instance 13
+--- [Processing instance: 130]
+- [RUNNING] bound for instance 130
+- [RUNNING] normalize for instance 130
+- [RUNNING] filter for instance 130
+- [RUNNING] hyp_ind for instance 130
+- [RUNNING] eps_ind for instance 130
+- [RUNNING] igd.py for instance 130
+- [RUNNING] kruskal-wallis for instance 130
+--- [Processing instance: 131]
+- [RUNNING] bound for instance 131
+- [RUNNING] normalize for instance 131
+- [RUNNING] filter for instance 131
+- [RUNNING] hyp_ind for instance 131
+- [RUNNING] eps_ind for instance 131
+- [RUNNING] igd.py for instance 131
+- [RUNNING] kruskal-wallis for instance 131
+--- [Processing instance: 132]
+- [RUNNING] bound for instance 132
+- [RUNNING] normalize for instance 132
+- [RUNNING] filter for instance 132
+- [RUNNING] hyp_ind for instance 132
+- [RUNNING] eps_ind for instance 132
+- [RUNNING] igd.py for instance 132
+- [RUNNING] kruskal-wallis for instance 132
+--- [Processing instance: 133]
+- [RUNNING] bound for instance 133
+- [RUNNING] normalize for instance 133
+- [RUNNING] filter for instance 133
+- [RUNNING] hyp_ind for instance 133
+- [RUNNING] eps_ind for instance 133
+- [RUNNING] igd.py for instance 133
+- [RUNNING] kruskal-wallis for instance 133
+--- [Processing instance: 134]
+- [RUNNING] bound for instance 134
+- [RUNNING] normalize for instance 134
+- [RUNNING] filter for instance 134
+- [RUNNING] hyp_ind for instance 134
+- [RUNNING] eps_ind for instance 134
+- [RUNNING] igd.py for instance 134
+- [RUNNING] kruskal-wallis for instance 134
+--- [Processing instance: 135]
+- [RUNNING] bound for instance 135
+- [RUNNING] normalize for instance 135
+- [RUNNING] filter for instance 135
+- [RUNNING] hyp_ind for instance 135
+- [RUNNING] eps_ind for instance 135
+- [RUNNING] igd.py for instance 135
+- [RUNNING] kruskal-wallis for instance 135
+--- [Processing instance: 136]
+- [RUNNING] bound for instance 136
+- [RUNNING] normalize for instance 136
+- [RUNNING] filter for instance 136
+- [RUNNING] hyp_ind for instance 136
+- [RUNNING] eps_ind for instance 136
+- [RUNNING] igd.py for instance 136
+- [RUNNING] kruskal-wallis for instance 136
+--- [Processing instance: 137]
+- [RUNNING] bound for instance 137
+- [RUNNING] normalize for instance 137
+- [RUNNING] filter for instance 137
+- [RUNNING] hyp_ind for instance 137
+- [RUNNING] eps_ind for instance 137
+- [RUNNING] igd.py for instance 137
+- [RUNNING] kruskal-wallis for instance 137
+--- [Processing instance: 138]
+- [RUNNING] bound for instance 138
+- [RUNNING] normalize for instance 138
+- [RUNNING] filter for instance 138
+- [RUNNING] hyp_ind for instance 138
+- [RUNNING] eps_ind for instance 138
+- [RUNNING] igd.py for instance 138
+- [RUNNING] kruskal-wallis for instance 138
+--- [Processing instance: 139]
+- [RUNNING] bound for instance 139
+- [RUNNING] normalize for instance 139
+- [RUNNING] filter for instance 139
+- [RUNNING] hyp_ind for instance 139
+- [RUNNING] eps_ind for instance 139
+- [RUNNING] igd.py for instance 139
+- [RUNNING] kruskal-wallis for instance 139
+--- [Processing instance: 14]
+- [RUNNING] bound for instance 14
+- [RUNNING] normalize for instance 14
+- [RUNNING] filter for instance 14
+- [RUNNING] hyp_ind for instance 14
+- [RUNNING] eps_ind for instance 14
+- [RUNNING] igd.py for instance 14
+- [RUNNING] kruskal-wallis for instance 14
+--- [Processing instance: 140]
+- [RUNNING] bound for instance 140
+- [RUNNING] normalize for instance 140
+- [RUNNING] filter for instance 140
+- [RUNNING] hyp_ind for instance 140
+- [RUNNING] eps_ind for instance 140
+- [RUNNING] igd.py for instance 140
+- [RUNNING] kruskal-wallis for instance 140
+--- [Processing instance: 141]
+- [RUNNING] bound for instance 141
+- [RUNNING] normalize for instance 141
+- [RUNNING] filter for instance 141
+- [RUNNING] hyp_ind for instance 141
+- [RUNNING] eps_ind for instance 141
+- [RUNNING] igd.py for instance 141
+- [RUNNING] kruskal-wallis for instance 141
+--- [Processing instance: 142]
+- [RUNNING] bound for instance 142
+- [RUNNING] normalize for instance 142
+- [RUNNING] filter for instance 142
+- [RUNNING] hyp_ind for instance 142
+- [RUNNING] eps_ind for instance 142
+- [RUNNING] igd.py for instance 142
+- [RUNNING] kruskal-wallis for instance 142
+--- [Processing instance: 143]
+- [RUNNING] bound for instance 143
+- [RUNNING] normalize for instance 143
+- [RUNNING] filter for instance 143
+- [RUNNING] hyp_ind for instance 143
+- [RUNNING] eps_ind for instance 143
+- [RUNNING] igd.py for instance 143
+- [RUNNING] kruskal-wallis for instance 143
+--- [Processing instance: 144]
+- [RUNNING] bound for instance 144
+- [RUNNING] normalize for instance 144
+- [RUNNING] filter for instance 144
+- [RUNNING] hyp_ind for instance 144
+- [RUNNING] eps_ind for instance 144
+- [RUNNING] igd.py for instance 144
+- [RUNNING] kruskal-wallis for instance 144
+--- [Processing instance: 145]
+- [RUNNING] bound for instance 145
+- [RUNNING] normalize for instance 145
+- [RUNNING] filter for instance 145
+- [RUNNING] hyp_ind for instance 145
+- [RUNNING] eps_ind for instance 145
+- [RUNNING] igd.py for instance 145
+- [RUNNING] kruskal-wallis for instance 145
+--- [Processing instance: 146]
+- [RUNNING] bound for instance 146
+- [RUNNING] normalize for instance 146
+- [RUNNING] filter for instance 146
+- [RUNNING] hyp_ind for instance 146
+- [RUNNING] eps_ind for instance 146
+- [RUNNING] igd.py for instance 146
+- [RUNNING] kruskal-wallis for instance 146
+--- [Processing instance: 147]
+- [RUNNING] bound for instance 147
+- [RUNNING] normalize for instance 147
+- [RUNNING] filter for instance 147
+- [RUNNING] hyp_ind for instance 147
+- [RUNNING] eps_ind for instance 147
+- [RUNNING] igd.py for instance 147
+- [RUNNING] kruskal-wallis for instance 147
+--- [Processing instance: 148]
+- [RUNNING] bound for instance 148
+- [RUNNING] normalize for instance 148
+- [RUNNING] filter for instance 148
+- [RUNNING] hyp_ind for instance 148
+- [RUNNING] eps_ind for instance 148
+- [RUNNING] igd.py for instance 148
+- [RUNNING] kruskal-wallis for instance 148
+--- [Processing instance: 149]
+- [RUNNING] bound for instance 149
+- [RUNNING] normalize for instance 149
+- [RUNNING] filter for instance 149
+- [RUNNING] hyp_ind for instance 149
+- [RUNNING] eps_ind for instance 149
+- [RUNNING] igd.py for instance 149
+- [RUNNING] kruskal-wallis for instance 149
+--- [Processing instance: 15]
+- [RUNNING] bound for instance 15
+- [RUNNING] normalize for instance 15
+- [RUNNING] filter for instance 15
+- [RUNNING] hyp_ind for instance 15
+- [RUNNING] eps_ind for instance 15
+- [RUNNING] igd.py for instance 15
+- [RUNNING] kruskal-wallis for instance 15
+--- [Processing instance: 150]
+- [RUNNING] bound for instance 150
+- [RUNNING] normalize for instance 150
+- [RUNNING] filter for instance 150
+- [RUNNING] hyp_ind for instance 150
+- [RUNNING] eps_ind for instance 150
+- [RUNNING] igd.py for instance 150
+- [RUNNING] kruskal-wallis for instance 150
+--- [Processing instance: 151]
+- [RUNNING] bound for instance 151
+- [RUNNING] normalize for instance 151
+- [RUNNING] filter for instance 151
+- [RUNNING] hyp_ind for instance 151
+- [RUNNING] eps_ind for instance 151
+- [RUNNING] igd.py for instance 151
+- [RUNNING] kruskal-wallis for instance 151
+--- [Processing instance: 152]
+- [RUNNING] bound for instance 152
+- [RUNNING] normalize for instance 152
+- [RUNNING] filter for instance 152
+- [RUNNING] hyp_ind for instance 152
+- [RUNNING] eps_ind for instance 152
+- [RUNNING] igd.py for instance 152
+- [RUNNING] kruskal-wallis for instance 152
+--- [Processing instance: 153]
+- [RUNNING] bound for instance 153
+- [RUNNING] normalize for instance 153
+- [RUNNING] filter for instance 153
+- [RUNNING] hyp_ind for instance 153
+- [RUNNING] eps_ind for instance 153
+- [RUNNING] igd.py for instance 153
+- [RUNNING] kruskal-wallis for instance 153
+--- [Processing instance: 154]
+- [RUNNING] bound for instance 154
+- [RUNNING] normalize for instance 154
+- [RUNNING] filter for instance 154
+- [RUNNING] hyp_ind for instance 154
+- [RUNNING] eps_ind for instance 154
+- [RUNNING] igd.py for instance 154
+- [RUNNING] kruskal-wallis for instance 154
+--- [Processing instance: 155]
+- [RUNNING] bound for instance 155
+- [RUNNING] normalize for instance 155
+- [RUNNING] filter for instance 155
+- [RUNNING] hyp_ind for instance 155
+- [RUNNING] eps_ind for instance 155
+- [RUNNING] igd.py for instance 155
+- [RUNNING] kruskal-wallis for instance 155
+--- [Processing instance: 156]
+- [RUNNING] bound for instance 156
+- [RUNNING] normalize for instance 156
+- [RUNNING] filter for instance 156
+- [RUNNING] hyp_ind for instance 156
+- [RUNNING] eps_ind for instance 156
+- [RUNNING] igd.py for instance 156
+- [RUNNING] kruskal-wallis for instance 156
+--- [Processing instance: 157]
+- [RUNNING] bound for instance 157
+- [RUNNING] normalize for instance 157
+- [RUNNING] filter for instance 157
+- [RUNNING] hyp_ind for instance 157
+- [RUNNING] eps_ind for instance 157
+- [RUNNING] igd.py for instance 157
+- [RUNNING] kruskal-wallis for instance 157
+--- [Processing instance: 158]
+- [RUNNING] bound for instance 158
+- [RUNNING] normalize for instance 158
+- [RUNNING] filter for instance 158
+- [RUNNING] hyp_ind for instance 158
+- [RUNNING] eps_ind for instance 158
+- [RUNNING] igd.py for instance 158
+- [RUNNING] kruskal-wallis for instance 158
+--- [Processing instance: 159]
+- [RUNNING] bound for instance 159
+- [RUNNING] normalize for instance 159
+- [RUNNING] filter for instance 159
+- [RUNNING] hyp_ind for instance 159
+- [RUNNING] eps_ind for instance 159
+- [RUNNING] igd.py for instance 159
+- [RUNNING] kruskal-wallis for instance 159
+--- [Processing instance: 16]
+- [RUNNING] bound for instance 16
+- [RUNNING] normalize for instance 16
+- [RUNNING] filter for instance 16
+- [RUNNING] hyp_ind for instance 16
+- [RUNNING] eps_ind for instance 16
+- [RUNNING] igd.py for instance 16
+- [RUNNING] kruskal-wallis for instance 16
+--- [Processing instance: 160]
+- [RUNNING] bound for instance 160
+- [RUNNING] normalize for instance 160
+- [RUNNING] filter for instance 160
+- [RUNNING] hyp_ind for instance 160
+- [RUNNING] eps_ind for instance 160
+- [RUNNING] igd.py for instance 160
+- [RUNNING] kruskal-wallis for instance 160
+--- [Processing instance: 161]
+- [RUNNING] bound for instance 161
+- [RUNNING] normalize for instance 161
+- [RUNNING] filter for instance 161
+- [RUNNING] hyp_ind for instance 161
+- [RUNNING] eps_ind for instance 161
+- [RUNNING] igd.py for instance 161
+- [RUNNING] kruskal-wallis for instance 161
+--- [Processing instance: 162]
+- [RUNNING] bound for instance 162
+- [RUNNING] normalize for instance 162
+- [RUNNING] filter for instance 162
+- [RUNNING] hyp_ind for instance 162
+- [RUNNING] eps_ind for instance 162
+- [RUNNING] igd.py for instance 162
+- [RUNNING] kruskal-wallis for instance 162
+--- [Processing instance: 163]
+- [RUNNING] bound for instance 163
+- [RUNNING] normalize for instance 163
+- [RUNNING] filter for instance 163
+- [RUNNING] hyp_ind for instance 163
+- [RUNNING] eps_ind for instance 163
+- [RUNNING] igd.py for instance 163
+- [RUNNING] kruskal-wallis for instance 163
+--- [Processing instance: 164]
+- [RUNNING] bound for instance 164
+- [RUNNING] normalize for instance 164
+- [RUNNING] filter for instance 164
+- [RUNNING] hyp_ind for instance 164
+- [RUNNING] eps_ind for instance 164
+- [RUNNING] igd.py for instance 164
+- [RUNNING] kruskal-wallis for instance 164
+--- [Processing instance: 165]
+- [RUNNING] bound for instance 165
+- [RUNNING] normalize for instance 165
+- [RUNNING] filter for instance 165
+- [RUNNING] hyp_ind for instance 165
+- [RUNNING] eps_ind for instance 165
+- [RUNNING] igd.py for instance 165
+- [RUNNING] kruskal-wallis for instance 165
+--- [Processing instance: 166]
+- [RUNNING] bound for instance 166
+- [RUNNING] normalize for instance 166
+- [RUNNING] filter for instance 166
+- [RUNNING] hyp_ind for instance 166
+- [RUNNING] eps_ind for instance 166
+- [RUNNING] igd.py for instance 166
+- [RUNNING] kruskal-wallis for instance 166
+--- [Processing instance: 167]
+- [RUNNING] bound for instance 167
+- [RUNNING] normalize for instance 167
+- [RUNNING] filter for instance 167
+- [RUNNING] hyp_ind for instance 167
+- [RUNNING] eps_ind for instance 167
+- [RUNNING] igd.py for instance 167
+- [RUNNING] kruskal-wallis for instance 167
+--- [Processing instance: 168]
+- [RUNNING] bound for instance 168
+- [RUNNING] normalize for instance 168
+- [RUNNING] filter for instance 168
+- [RUNNING] hyp_ind for instance 168
+- [RUNNING] eps_ind for instance 168
+- [RUNNING] igd.py for instance 168
+- [RUNNING] kruskal-wallis for instance 168
+--- [Processing instance: 169]
+- [RUNNING] bound for instance 169
+- [RUNNING] normalize for instance 169
+- [RUNNING] filter for instance 169
+- [RUNNING] hyp_ind for instance 169
+- [RUNNING] eps_ind for instance 169
+- [RUNNING] igd.py for instance 169
+- [RUNNING] kruskal-wallis for instance 169
+--- [Processing instance: 17]
+- [RUNNING] bound for instance 17
+- [RUNNING] normalize for instance 17
+- [RUNNING] filter for instance 17
+- [RUNNING] hyp_ind for instance 17
+- [RUNNING] eps_ind for instance 17
+- [RUNNING] igd.py for instance 17
+- [RUNNING] kruskal-wallis for instance 17
+--- [Processing instance: 170]
+- [RUNNING] bound for instance 170
+- [RUNNING] normalize for instance 170
+- [RUNNING] filter for instance 170
+- [RUNNING] hyp_ind for instance 170
+- [RUNNING] eps_ind for instance 170
+- [RUNNING] igd.py for instance 170
+- [RUNNING] kruskal-wallis for instance 170
+--- [Processing instance: 171]
+- [RUNNING] bound for instance 171
+- [RUNNING] normalize for instance 171
+- [RUNNING] filter for instance 171
+- [RUNNING] hyp_ind for instance 171
+- [RUNNING] eps_ind for instance 171
+- [RUNNING] igd.py for instance 171
+- [RUNNING] kruskal-wallis for instance 171
+--- [Processing instance: 172]
+- [RUNNING] bound for instance 172
+- [RUNNING] normalize for instance 172
+- [RUNNING] filter for instance 172
+- [RUNNING] hyp_ind for instance 172
+- [RUNNING] eps_ind for instance 172
+- [RUNNING] igd.py for instance 172
+- [RUNNING] kruskal-wallis for instance 172
+--- [Processing instance: 173]
+- [RUNNING] bound for instance 173
+- [RUNNING] normalize for instance 173
+- [RUNNING] filter for instance 173
+- [RUNNING] hyp_ind for instance 173
+- [RUNNING] eps_ind for instance 173
+- [RUNNING] igd.py for instance 173
+- [RUNNING] kruskal-wallis for instance 173
+--- [Processing instance: 174]
+- [RUNNING] bound for instance 174
+- [RUNNING] normalize for instance 174
+- [RUNNING] filter for instance 174
+- [RUNNING] hyp_ind for instance 174
+- [RUNNING] eps_ind for instance 174
+- [RUNNING] igd.py for instance 174
+- [RUNNING] kruskal-wallis for instance 174
+--- [Processing instance: 175]
+- [RUNNING] bound for instance 175
+- [RUNNING] normalize for instance 175
+- [RUNNING] filter for instance 175
+- [RUNNING] hyp_ind for instance 175
+- [RUNNING] eps_ind for instance 175
+- [RUNNING] igd.py for instance 175
+- [RUNNING] kruskal-wallis for instance 175
+--- [Processing instance: 176]
+- [RUNNING] bound for instance 176
+- [RUNNING] normalize for instance 176
+- [RUNNING] filter for instance 176
+- [RUNNING] hyp_ind for instance 176
+- [RUNNING] eps_ind for instance 176
+- [RUNNING] igd.py for instance 176
+- [RUNNING] kruskal-wallis for instance 176
+--- [Processing instance: 177]
+- [RUNNING] bound for instance 177
+- [RUNNING] normalize for instance 177
+- [RUNNING] filter for instance 177
+- [RUNNING] hyp_ind for instance 177
+- [RUNNING] eps_ind for instance 177
+- [RUNNING] igd.py for instance 177
+- [RUNNING] kruskal-wallis for instance 177
+--- [Processing instance: 178]
+- [RUNNING] bound for instance 178
+- [RUNNING] normalize for instance 178
+- [RUNNING] filter for instance 178
+- [RUNNING] hyp_ind for instance 178
+- [RUNNING] eps_ind for instance 178
+- [RUNNING] igd.py for instance 178
+- [RUNNING] kruskal-wallis for instance 178
+--- [Processing instance: 179]
+- [RUNNING] bound for instance 179
+- [RUNNING] normalize for instance 179
+- [RUNNING] filter for instance 179
+- [RUNNING] hyp_ind for instance 179
+- [RUNNING] eps_ind for instance 179
+- [RUNNING] igd.py for instance 179
+- [RUNNING] kruskal-wallis for instance 179
+--- [Processing instance: 18]
+- [RUNNING] bound for instance 18
+- [RUNNING] normalize for instance 18
+- [RUNNING] filter for instance 18
+- [RUNNING] hyp_ind for instance 18
+- [RUNNING] eps_ind for instance 18
+- [RUNNING] igd.py for instance 18
+- [RUNNING] kruskal-wallis for instance 18
+--- [Processing instance: 180]
+- [RUNNING] bound for instance 180
+- [RUNNING] normalize for instance 180
+- [RUNNING] filter for instance 180
+- [RUNNING] hyp_ind for instance 180
+- [RUNNING] eps_ind for instance 180
+- [RUNNING] igd.py for instance 180
+- [RUNNING] kruskal-wallis for instance 180
+--- [Processing instance: 181]
+- [RUNNING] bound for instance 181
+- [RUNNING] normalize for instance 181
+- [RUNNING] filter for instance 181
+- [RUNNING] hyp_ind for instance 181
+- [RUNNING] eps_ind for instance 181
+- [RUNNING] igd.py for instance 181
+- [RUNNING] kruskal-wallis for instance 181
+--- [Processing instance: 182]
+- [RUNNING] bound for instance 182
+- [RUNNING] normalize for instance 182
+- [RUNNING] filter for instance 182
+- [RUNNING] hyp_ind for instance 182
+- [RUNNING] eps_ind for instance 182
+- [RUNNING] igd.py for instance 182
+- [RUNNING] kruskal-wallis for instance 182
+--- [Processing instance: 183]
+- [RUNNING] bound for instance 183
+- [RUNNING] normalize for instance 183
+- [RUNNING] filter for instance 183
+- [RUNNING] hyp_ind for instance 183
+- [RUNNING] eps_ind for instance 183
+- [RUNNING] igd.py for instance 183
+- [RUNNING] kruskal-wallis for instance 183
+--- [Processing instance: 184]
+- [RUNNING] bound for instance 184
+- [RUNNING] normalize for instance 184
+- [RUNNING] filter for instance 184
+- [RUNNING] hyp_ind for instance 184
+- [RUNNING] eps_ind for instance 184
+- [RUNNING] igd.py for instance 184
+- [RUNNING] kruskal-wallis for instance 184
+--- [Processing instance: 185]
+- [RUNNING] bound for instance 185
+- [RUNNING] normalize for instance 185
+- [RUNNING] filter for instance 185
+- [RUNNING] hyp_ind for instance 185
+- [RUNNING] eps_ind for instance 185
+- [RUNNING] igd.py for instance 185
+- [RUNNING] kruskal-wallis for instance 185
+--- [Processing instance: 186]
+- [RUNNING] bound for instance 186
+- [RUNNING] normalize for instance 186
+- [RUNNING] filter for instance 186
+- [RUNNING] hyp_ind for instance 186
+- [RUNNING] eps_ind for instance 186
+- [RUNNING] igd.py for instance 186
+- [RUNNING] kruskal-wallis for instance 186
+--- [Processing instance: 187]
+- [RUNNING] bound for instance 187
+- [RUNNING] normalize for instance 187
+- [RUNNING] filter for instance 187
+- [RUNNING] hyp_ind for instance 187
+- [RUNNING] eps_ind for instance 187
+- [RUNNING] igd.py for instance 187
+- [RUNNING] kruskal-wallis for instance 187
+--- [Processing instance: 188]
+- [RUNNING] bound for instance 188
+- [RUNNING] normalize for instance 188
+- [RUNNING] filter for instance 188
+- [RUNNING] hyp_ind for instance 188
+- [RUNNING] eps_ind for instance 188
+- [RUNNING] igd.py for instance 188
+- [RUNNING] kruskal-wallis for instance 188
+--- [Processing instance: 189]
+- [RUNNING] bound for instance 189
+- [RUNNING] normalize for instance 189
+- [RUNNING] filter for instance 189
+- [RUNNING] hyp_ind for instance 189
+- [RUNNING] eps_ind for instance 189
+- [RUNNING] igd.py for instance 189
+- [RUNNING] kruskal-wallis for instance 189
+--- [Processing instance: 19]
+- [RUNNING] bound for instance 19
+- [RUNNING] normalize for instance 19
+- [RUNNING] filter for instance 19
+- [RUNNING] hyp_ind for instance 19
+- [RUNNING] eps_ind for instance 19
+- [RUNNING] igd.py for instance 19
+- [RUNNING] kruskal-wallis for instance 19
+--- [Processing instance: 190]
+- [RUNNING] bound for instance 190
+- [RUNNING] normalize for instance 190
+- [RUNNING] filter for instance 190
+- [RUNNING] hyp_ind for instance 190
+- [RUNNING] eps_ind for instance 190
+- [RUNNING] igd.py for instance 190
+- [RUNNING] kruskal-wallis for instance 190
+--- [Processing instance: 191]
+- [RUNNING] bound for instance 191
+- [RUNNING] normalize for instance 191
+- [RUNNING] filter for instance 191
+- [RUNNING] hyp_ind for instance 191
+- [RUNNING] eps_ind for instance 191
+- [RUNNING] igd.py for instance 191
+- [RUNNING] kruskal-wallis for instance 191
+--- [Processing instance: 192]
+- [RUNNING] bound for instance 192
+- [RUNNING] normalize for instance 192
+- [RUNNING] filter for instance 192
+- [RUNNING] hyp_ind for instance 192
+- [RUNNING] eps_ind for instance 192
+- [RUNNING] igd.py for instance 192
+- [RUNNING] kruskal-wallis for instance 192
+--- [Processing instance: 193]
+- [RUNNING] bound for instance 193
+- [RUNNING] normalize for instance 193
+- [RUNNING] filter for instance 193
+- [RUNNING] hyp_ind for instance 193
+- [RUNNING] eps_ind for instance 193
+- [RUNNING] igd.py for instance 193
+- [RUNNING] kruskal-wallis for instance 193
+--- [Processing instance: 194]
+- [RUNNING] bound for instance 194
+- [RUNNING] normalize for instance 194
+- [RUNNING] filter for instance 194
+- [RUNNING] hyp_ind for instance 194
+- [RUNNING] eps_ind for instance 194
+- [RUNNING] igd.py for instance 194
+- [RUNNING] kruskal-wallis for instance 194
+--- [Processing instance: 195]
+- [RUNNING] bound for instance 195
+- [RUNNING] normalize for instance 195
+- [RUNNING] filter for instance 195
+- [RUNNING] hyp_ind for instance 195
+- [RUNNING] eps_ind for instance 195
+- [RUNNING] igd.py for instance 195
+- [RUNNING] kruskal-wallis for instance 195
+--- [Processing instance: 196]
+- [RUNNING] bound for instance 196
+- [RUNNING] normalize for instance 196
+- [RUNNING] filter for instance 196
+- [RUNNING] hyp_ind for instance 196
+- [RUNNING] eps_ind for instance 196
+- [RUNNING] igd.py for instance 196
+- [RUNNING] kruskal-wallis for instance 196
+--- [Processing instance: 197]
+- [RUNNING] bound for instance 197
+- [RUNNING] normalize for instance 197
+- [RUNNING] filter for instance 197
+- [RUNNING] hyp_ind for instance 197
+- [RUNNING] eps_ind for instance 197
+- [RUNNING] igd.py for instance 197
+- [RUNNING] kruskal-wallis for instance 197
+--- [Processing instance: 198]
+- [RUNNING] bound for instance 198
+- [RUNNING] normalize for instance 198
+- [RUNNING] filter for instance 198
+- [RUNNING] hyp_ind for instance 198
+- [RUNNING] eps_ind for instance 198
+- [RUNNING] igd.py for instance 198
+- [RUNNING] kruskal-wallis for instance 198
+--- [Processing instance: 199]
+- [RUNNING] bound for instance 199
+- [RUNNING] normalize for instance 199
+- [RUNNING] filter for instance 199
+- [RUNNING] hyp_ind for instance 199
+- [RUNNING] eps_ind for instance 199
+- [RUNNING] igd.py for instance 199
+- [RUNNING] kruskal-wallis for instance 199
+--- [Processing instance: 2]
+- [RUNNING] bound for instance 2
+- [RUNNING] normalize for instance 2
+- [RUNNING] filter for instance 2
+- [RUNNING] hyp_ind for instance 2
+- [RUNNING] eps_ind for instance 2
+- [RUNNING] igd.py for instance 2
+- [RUNNING] kruskal-wallis for instance 2
+--- [Processing instance: 20]
+- [RUNNING] bound for instance 20
+- [RUNNING] normalize for instance 20
+- [RUNNING] filter for instance 20
+- [RUNNING] hyp_ind for instance 20
+- [RUNNING] eps_ind for instance 20
+- [RUNNING] igd.py for instance 20
+- [RUNNING] kruskal-wallis for instance 20
+--- [Processing instance: 200]
+- [RUNNING] bound for instance 200
+- [RUNNING] normalize for instance 200
+- [RUNNING] filter for instance 200
+- [RUNNING] hyp_ind for instance 200
+- [RUNNING] eps_ind for instance 200
+- [RUNNING] igd.py for instance 200
+- [RUNNING] kruskal-wallis for instance 200
+--- [Processing instance: 201]
+- [RUNNING] bound for instance 201
+- [RUNNING] normalize for instance 201
+- [RUNNING] filter for instance 201
+- [RUNNING] hyp_ind for instance 201
+- [RUNNING] eps_ind for instance 201
+- [RUNNING] igd.py for instance 201
+- [RUNNING] kruskal-wallis for instance 201
+--- [Processing instance: 202]
+- [RUNNING] bound for instance 202
+- [RUNNING] normalize for instance 202
+- [RUNNING] filter for instance 202
+- [RUNNING] hyp_ind for instance 202
+- [RUNNING] eps_ind for instance 202
+- [RUNNING] igd.py for instance 202
+- [RUNNING] kruskal-wallis for instance 202
+--- [Processing instance: 203]
+- [RUNNING] bound for instance 203
+- [RUNNING] normalize for instance 203
+- [RUNNING] filter for instance 203
+- [RUNNING] hyp_ind for instance 203
+- [RUNNING] eps_ind for instance 203
+- [RUNNING] igd.py for instance 203
+- [RUNNING] kruskal-wallis for instance 203
+--- [Processing instance: 204]
+- [RUNNING] bound for instance 204
+- [RUNNING] normalize for instance 204
+- [RUNNING] filter for instance 204
+- [RUNNING] hyp_ind for instance 204
+- [RUNNING] eps_ind for instance 204
+- [RUNNING] igd.py for instance 204
+- [RUNNING] kruskal-wallis for instance 204
+--- [Processing instance: 205]
+- [RUNNING] bound for instance 205
+- [RUNNING] normalize for instance 205
+- [RUNNING] filter for instance 205
+- [RUNNING] hyp_ind for instance 205
+- [RUNNING] eps_ind for instance 205
+- [RUNNING] igd.py for instance 205
+- [RUNNING] kruskal-wallis for instance 205
+--- [Processing instance: 206]
+- [RUNNING] bound for instance 206
+- [RUNNING] normalize for instance 206
+- [RUNNING] filter for instance 206
+- [RUNNING] hyp_ind for instance 206
+- [RUNNING] eps_ind for instance 206
+- [RUNNING] igd.py for instance 206
+- [RUNNING] kruskal-wallis for instance 206
+--- [Processing instance: 207]
+- [RUNNING] bound for instance 207
+- [RUNNING] normalize for instance 207
+- [RUNNING] filter for instance 207
+- [RUNNING] hyp_ind for instance 207
+- [RUNNING] eps_ind for instance 207
+- [RUNNING] igd.py for instance 207
+- [RUNNING] kruskal-wallis for instance 207
+--- [Processing instance: 208]
+- [RUNNING] bound for instance 208
+- [RUNNING] normalize for instance 208
+- [RUNNING] filter for instance 208
+- [RUNNING] hyp_ind for instance 208
+- [RUNNING] eps_ind for instance 208
+- [RUNNING] igd.py for instance 208
+- [RUNNING] kruskal-wallis for instance 208
+--- [Processing instance: 209]
+- [RUNNING] bound for instance 209
+- [RUNNING] normalize for instance 209
+- [RUNNING] filter for instance 209
+- [RUNNING] hyp_ind for instance 209
+- [RUNNING] eps_ind for instance 209
+- [RUNNING] igd.py for instance 209
+- [RUNNING] kruskal-wallis for instance 209
+--- [Processing instance: 21]
+- [RUNNING] bound for instance 21
+- [RUNNING] normalize for instance 21
+- [RUNNING] filter for instance 21
+- [RUNNING] hyp_ind for instance 21
+- [RUNNING] eps_ind for instance 21
+- [RUNNING] igd.py for instance 21
+- [RUNNING] kruskal-wallis for instance 21
+--- [Processing instance: 210]
+- [RUNNING] bound for instance 210
+- [RUNNING] normalize for instance 210
+- [RUNNING] filter for instance 210
+- [RUNNING] hyp_ind for instance 210
+- [RUNNING] eps_ind for instance 210
+- [RUNNING] igd.py for instance 210
+- [RUNNING] kruskal-wallis for instance 210
+--- [Processing instance: 211]
+- [RUNNING] bound for instance 211
+- [RUNNING] normalize for instance 211
+- [RUNNING] filter for instance 211
+- [RUNNING] hyp_ind for instance 211
+- [RUNNING] eps_ind for instance 211
+- [RUNNING] igd.py for instance 211
+- [RUNNING] kruskal-wallis for instance 211
+--- [Processing instance: 212]
+- [RUNNING] bound for instance 212
+- [RUNNING] normalize for instance 212
+- [RUNNING] filter for instance 212
+- [RUNNING] hyp_ind for instance 212
+- [RUNNING] eps_ind for instance 212
+- [RUNNING] igd.py for instance 212
+- [RUNNING] kruskal-wallis for instance 212
+--- [Processing instance: 213]
+- [RUNNING] bound for instance 213
+- [RUNNING] normalize for instance 213
+- [RUNNING] filter for instance 213
+- [RUNNING] hyp_ind for instance 213
+- [RUNNING] eps_ind for instance 213
+- [RUNNING] igd.py for instance 213
+- [RUNNING] kruskal-wallis for instance 213
+--- [Processing instance: 214]
+- [RUNNING] bound for instance 214
+- [RUNNING] normalize for instance 214
+- [RUNNING] filter for instance 214
+- [RUNNING] hyp_ind for instance 214
+- [RUNNING] eps_ind for instance 214
+- [RUNNING] igd.py for instance 214
+- [RUNNING] kruskal-wallis for instance 214
+--- [Processing instance: 215]
+- [RUNNING] bound for instance 215
+- [RUNNING] normalize for instance 215
+- [RUNNING] filter for instance 215
+- [RUNNING] hyp_ind for instance 215
+- [RUNNING] eps_ind for instance 215
+- [RUNNING] igd.py for instance 215
+- [RUNNING] kruskal-wallis for instance 215
+--- [Processing instance: 216]
+- [RUNNING] bound for instance 216
+- [RUNNING] normalize for instance 216
+- [RUNNING] filter for instance 216
+- [RUNNING] hyp_ind for instance 216
+- [RUNNING] eps_ind for instance 216
+- [RUNNING] igd.py for instance 216
+- [RUNNING] kruskal-wallis for instance 216
+--- [Processing instance: 217]
+- [RUNNING] bound for instance 217
+- [RUNNING] normalize for instance 217
+- [RUNNING] filter for instance 217
+- [RUNNING] hyp_ind for instance 217
+- [RUNNING] eps_ind for instance 217
+- [RUNNING] igd.py for instance 217
+- [RUNNING] kruskal-wallis for instance 217
+--- [Processing instance: 218]
+- [RUNNING] bound for instance 218
+- [RUNNING] normalize for instance 218
+- [RUNNING] filter for instance 218
+- [RUNNING] hyp_ind for instance 218
+- [RUNNING] eps_ind for instance 218
+- [RUNNING] igd.py for instance 218
+- [RUNNING] kruskal-wallis for instance 218
+--- [Processing instance: 219]
+- [RUNNING] bound for instance 219
+- [RUNNING] normalize for instance 219
+- [RUNNING] filter for instance 219
+- [RUNNING] hyp_ind for instance 219
+- [RUNNING] eps_ind for instance 219
+- [RUNNING] igd.py for instance 219
+- [RUNNING] kruskal-wallis for instance 219
+--- [Processing instance: 22]
+- [RUNNING] bound for instance 22
+- [RUNNING] normalize for instance 22
+- [RUNNING] filter for instance 22
+- [RUNNING] hyp_ind for instance 22
+- [RUNNING] eps_ind for instance 22
+- [RUNNING] igd.py for instance 22
+- [RUNNING] kruskal-wallis for instance 22
+--- [Processing instance: 220]
+- [RUNNING] bound for instance 220
+- [RUNNING] normalize for instance 220
+- [RUNNING] filter for instance 220
+- [RUNNING] hyp_ind for instance 220
+- [RUNNING] eps_ind for instance 220
+- [RUNNING] igd.py for instance 220
+- [RUNNING] kruskal-wallis for instance 220
+--- [Processing instance: 221]
+- [RUNNING] bound for instance 221
+- [RUNNING] normalize for instance 221
+- [RUNNING] filter for instance 221
+- [RUNNING] hyp_ind for instance 221
+- [RUNNING] eps_ind for instance 221
+- [RUNNING] igd.py for instance 221
+- [RUNNING] kruskal-wallis for instance 221
+--- [Processing instance: 222]
+- [RUNNING] bound for instance 222
+- [RUNNING] normalize for instance 222
+- [RUNNING] filter for instance 222
+- [RUNNING] hyp_ind for instance 222
+- [RUNNING] eps_ind for instance 222
+- [RUNNING] igd.py for instance 222
+- [RUNNING] kruskal-wallis for instance 222
+--- [Processing instance: 223]
+- [RUNNING] bound for instance 223
+- [RUNNING] normalize for instance 223
+- [RUNNING] filter for instance 223
+- [RUNNING] hyp_ind for instance 223
+- [RUNNING] eps_ind for instance 223
+- [RUNNING] igd.py for instance 223
+- [RUNNING] kruskal-wallis for instance 223
+--- [Processing instance: 224]
+- [RUNNING] bound for instance 224
+- [RUNNING] normalize for instance 224
+- [RUNNING] filter for instance 224
+- [RUNNING] hyp_ind for instance 224
+- [RUNNING] eps_ind for instance 224
+- [RUNNING] igd.py for instance 224
+- [RUNNING] kruskal-wallis for instance 224
+--- [Processing instance: 225]
+- [RUNNING] bound for instance 225
+- [RUNNING] normalize for instance 225
+- [RUNNING] filter for instance 225
+- [RUNNING] hyp_ind for instance 225
+- [RUNNING] eps_ind for instance 225
+- [RUNNING] igd.py for instance 225
+- [RUNNING] kruskal-wallis for instance 225
+--- [Processing instance: 226]
+- [RUNNING] bound for instance 226
+- [RUNNING] normalize for instance 226
+- [RUNNING] filter for instance 226
+- [RUNNING] hyp_ind for instance 226
+- [RUNNING] eps_ind for instance 226
+- [RUNNING] igd.py for instance 226
+- [RUNNING] kruskal-wallis for instance 226
+--- [Processing instance: 227]
+- [RUNNING] bound for instance 227
+- [RUNNING] normalize for instance 227
+- [RUNNING] filter for instance 227
+- [RUNNING] hyp_ind for instance 227
+- [RUNNING] eps_ind for instance 227
+- [RUNNING] igd.py for instance 227
+- [RUNNING] kruskal-wallis for instance 227
+--- [Processing instance: 228]
+- [RUNNING] bound for instance 228
+- [RUNNING] normalize for instance 228
+- [RUNNING] filter for instance 228
+- [RUNNING] hyp_ind for instance 228
+- [RUNNING] eps_ind for instance 228
+- [RUNNING] igd.py for instance 228
+- [RUNNING] kruskal-wallis for instance 228
+--- [Processing instance: 229]
+- [RUNNING] bound for instance 229
+- [RUNNING] normalize for instance 229
+- [RUNNING] filter for instance 229
+- [RUNNING] hyp_ind for instance 229
+- [RUNNING] eps_ind for instance 229
+- [RUNNING] igd.py for instance 229
+- [RUNNING] kruskal-wallis for instance 229
+--- [Processing instance: 23]
+- [RUNNING] bound for instance 23
+- [RUNNING] normalize for instance 23
+- [RUNNING] filter for instance 23
+- [RUNNING] hyp_ind for instance 23
+- [RUNNING] eps_ind for instance 23
+- [RUNNING] igd.py for instance 23
+- [RUNNING] kruskal-wallis for instance 23
+--- [Processing instance: 230]
+- [RUNNING] bound for instance 230
+- [RUNNING] normalize for instance 230
+- [RUNNING] filter for instance 230
+- [RUNNING] hyp_ind for instance 230
+- [RUNNING] eps_ind for instance 230
+- [RUNNING] igd.py for instance 230
+- [RUNNING] kruskal-wallis for instance 230
+--- [Processing instance: 231]
+- [RUNNING] bound for instance 231
+- [RUNNING] normalize for instance 231
+- [RUNNING] filter for instance 231
+- [RUNNING] hyp_ind for instance 231
+- [RUNNING] eps_ind for instance 231
+- [RUNNING] igd.py for instance 231
+- [RUNNING] kruskal-wallis for instance 231
+--- [Processing instance: 232]
+- [RUNNING] bound for instance 232
+- [RUNNING] normalize for instance 232
+- [RUNNING] filter for instance 232
+- [RUNNING] hyp_ind for instance 232
+- [RUNNING] eps_ind for instance 232
+- [RUNNING] igd.py for instance 232
+- [RUNNING] kruskal-wallis for instance 232
+--- [Processing instance: 233]
+- [RUNNING] bound for instance 233
+- [RUNNING] normalize for instance 233
+- [RUNNING] filter for instance 233
+- [RUNNING] hyp_ind for instance 233
+- [RUNNING] eps_ind for instance 233
+- [RUNNING] igd.py for instance 233
+- [RUNNING] kruskal-wallis for instance 233
+--- [Processing instance: 234]
+- [RUNNING] bound for instance 234
+- [RUNNING] normalize for instance 234
+- [RUNNING] filter for instance 234
+- [RUNNING] hyp_ind for instance 234
+- [RUNNING] eps_ind for instance 234
+- [RUNNING] igd.py for instance 234
+- [RUNNING] kruskal-wallis for instance 234
+--- [Processing instance: 235]
+- [RUNNING] bound for instance 235
+- [RUNNING] normalize for instance 235
+- [RUNNING] filter for instance 235
+- [RUNNING] hyp_ind for instance 235
+- [RUNNING] eps_ind for instance 235
+- [RUNNING] igd.py for instance 235
+- [RUNNING] kruskal-wallis for instance 235
+--- [Processing instance: 236]
+- [RUNNING] bound for instance 236
+- [RUNNING] normalize for instance 236
+- [RUNNING] filter for instance 236
+- [RUNNING] hyp_ind for instance 236
+- [RUNNING] eps_ind for instance 236
+- [RUNNING] igd.py for instance 236
+- [RUNNING] kruskal-wallis for instance 236
+--- [Processing instance: 237]
+- [RUNNING] bound for instance 237
+- [RUNNING] normalize for instance 237
+- [RUNNING] filter for instance 237
+- [RUNNING] hyp_ind for instance 237
+- [RUNNING] eps_ind for instance 237
+- [RUNNING] igd.py for instance 237
+- [RUNNING] kruskal-wallis for instance 237
+--- [Processing instance: 238]
+- [RUNNING] bound for instance 238
+- [RUNNING] normalize for instance 238
+- [RUNNING] filter for instance 238
+- [RUNNING] hyp_ind for instance 238
+- [RUNNING] eps_ind for instance 238
+- [RUNNING] igd.py for instance 238
+- [RUNNING] kruskal-wallis for instance 238
+--- [Processing instance: 239]
+- [RUNNING] bound for instance 239
+- [RUNNING] normalize for instance 239
+- [RUNNING] filter for instance 239
+- [RUNNING] hyp_ind for instance 239
+- [RUNNING] eps_ind for instance 239
+- [RUNNING] igd.py for instance 239
+- [RUNNING] kruskal-wallis for instance 239
+--- [Processing instance: 24]
+- [RUNNING] bound for instance 24
+- [RUNNING] normalize for instance 24
+- [RUNNING] filter for instance 24
+- [RUNNING] hyp_ind for instance 24
+- [RUNNING] eps_ind for instance 24
+- [RUNNING] igd.py for instance 24
+- [RUNNING] kruskal-wallis for instance 24
+--- [Processing instance: 240]
+- [RUNNING] bound for instance 240
+- [RUNNING] normalize for instance 240
+- [RUNNING] filter for instance 240
+- [RUNNING] hyp_ind for instance 240
+- [RUNNING] eps_ind for instance 240
+- [RUNNING] igd.py for instance 240
+- [RUNNING] kruskal-wallis for instance 240
+--- [Processing instance: 241]
+- [RUNNING] bound for instance 241
+- [RUNNING] normalize for instance 241
+- [RUNNING] filter for instance 241
+- [RUNNING] hyp_ind for instance 241
+- [RUNNING] eps_ind for instance 241
+- [RUNNING] igd.py for instance 241
+- [RUNNING] kruskal-wallis for instance 241
+--- [Processing instance: 242]
+- [RUNNING] bound for instance 242
+- [RUNNING] normalize for instance 242
+- [RUNNING] filter for instance 242
+- [RUNNING] hyp_ind for instance 242
+- [RUNNING] eps_ind for instance 242
+- [RUNNING] igd.py for instance 242
+- [RUNNING] kruskal-wallis for instance 242
+--- [Processing instance: 243]
+- [RUNNING] bound for instance 243
+- [RUNNING] normalize for instance 243
+- [RUNNING] filter for instance 243
+- [RUNNING] hyp_ind for instance 243
+- [RUNNING] eps_ind for instance 243
+- [RUNNING] igd.py for instance 243
+- [RUNNING] kruskal-wallis for instance 243
+--- [Processing instance: 244]
+- [RUNNING] bound for instance 244
+- [RUNNING] normalize for instance 244
+- [RUNNING] filter for instance 244
+- [RUNNING] hyp_ind for instance 244
+- [RUNNING] eps_ind for instance 244
+- [RUNNING] igd.py for instance 244
+- [RUNNING] kruskal-wallis for instance 244
+--- [Processing instance: 245]
+- [RUNNING] bound for instance 245
+- [RUNNING] normalize for instance 245
+- [RUNNING] filter for instance 245
+- [RUNNING] hyp_ind for instance 245
+- [RUNNING] eps_ind for instance 245
+- [RUNNING] igd.py for instance 245
+- [RUNNING] kruskal-wallis for instance 245
+--- [Processing instance: 246]
+- [RUNNING] bound for instance 246
+- [RUNNING] normalize for instance 246
+- [RUNNING] filter for instance 246
+- [RUNNING] hyp_ind for instance 246
+- [RUNNING] eps_ind for instance 246
+- [RUNNING] igd.py for instance 246
+- [RUNNING] kruskal-wallis for instance 246
+--- [Processing instance: 247]
+- [RUNNING] bound for instance 247
+- [RUNNING] normalize for instance 247
+- [RUNNING] filter for instance 247
+- [RUNNING] hyp_ind for instance 247
+- [RUNNING] eps_ind for instance 247
+- [RUNNING] igd.py for instance 247
+- [RUNNING] kruskal-wallis for instance 247
+--- [Processing instance: 248]
+- [RUNNING] bound for instance 248
+- [RUNNING] normalize for instance 248
+- [RUNNING] filter for instance 248
+- [RUNNING] hyp_ind for instance 248
+- [RUNNING] eps_ind for instance 248
+- [RUNNING] igd.py for instance 248
+- [RUNNING] kruskal-wallis for instance 248
+--- [Processing instance: 249]
+- [RUNNING] bound for instance 249
+- [RUNNING] normalize for instance 249
+- [RUNNING] filter for instance 249
+- [RUNNING] hyp_ind for instance 249
+- [RUNNING] eps_ind for instance 249
+- [RUNNING] igd.py for instance 249
+- [RUNNING] kruskal-wallis for instance 249
+--- [Processing instance: 25]
+- [RUNNING] bound for instance 25
+- [RUNNING] normalize for instance 25
+- [RUNNING] filter for instance 25
+- [RUNNING] hyp_ind for instance 25
+- [RUNNING] eps_ind for instance 25
+- [RUNNING] igd.py for instance 25
+- [RUNNING] kruskal-wallis for instance 25
+--- [Processing instance: 250]
+- [RUNNING] bound for instance 250
+- [RUNNING] normalize for instance 250
+- [RUNNING] filter for instance 250
+- [RUNNING] hyp_ind for instance 250
+- [RUNNING] eps_ind for instance 250
+- [RUNNING] igd.py for instance 250
+- [RUNNING] kruskal-wallis for instance 250
+--- [Processing instance: 251]
+- [RUNNING] bound for instance 251
+- [RUNNING] normalize for instance 251
+- [RUNNING] filter for instance 251
+- [RUNNING] hyp_ind for instance 251
+- [RUNNING] eps_ind for instance 251
+- [RUNNING] igd.py for instance 251
+- [RUNNING] kruskal-wallis for instance 251
+--- [Processing instance: 252]
+- [RUNNING] bound for instance 252
+- [RUNNING] normalize for instance 252
+- [RUNNING] filter for instance 252
+- [RUNNING] hyp_ind for instance 252
+- [RUNNING] eps_ind for instance 252
+- [RUNNING] igd.py for instance 252
+- [RUNNING] kruskal-wallis for instance 252
+--- [Processing instance: 253]
+- [RUNNING] bound for instance 253
+- [RUNNING] normalize for instance 253
+- [RUNNING] filter for instance 253
+- [RUNNING] hyp_ind for instance 253
+- [RUNNING] eps_ind for instance 253
+- [RUNNING] igd.py for instance 253
+- [RUNNING] kruskal-wallis for instance 253
+--- [Processing instance: 254]
+- [RUNNING] bound for instance 254
+- [RUNNING] normalize for instance 254
+- [RUNNING] filter for instance 254
+- [RUNNING] hyp_ind for instance 254
+- [RUNNING] eps_ind for instance 254
+- [RUNNING] igd.py for instance 254
+- [RUNNING] kruskal-wallis for instance 254
+--- [Processing instance: 255]
+- [RUNNING] bound for instance 255
+- [RUNNING] normalize for instance 255
+- [RUNNING] filter for instance 255
+- [RUNNING] hyp_ind for instance 255
+- [RUNNING] eps_ind for instance 255
+- [RUNNING] igd.py for instance 255
+- [RUNNING] kruskal-wallis for instance 255
+--- [Processing instance: 256]
+- [RUNNING] bound for instance 256
+- [RUNNING] normalize for instance 256
+- [RUNNING] filter for instance 256
+- [RUNNING] hyp_ind for instance 256
+- [RUNNING] eps_ind for instance 256
+- [RUNNING] igd.py for instance 256
+- [RUNNING] kruskal-wallis for instance 256
+--- [Processing instance: 257]
+- [RUNNING] bound for instance 257
+- [RUNNING] normalize for instance 257
+- [RUNNING] filter for instance 257
+- [RUNNING] hyp_ind for instance 257
+- [RUNNING] eps_ind for instance 257
+- [RUNNING] igd.py for instance 257
+- [RUNNING] kruskal-wallis for instance 257
+--- [Processing instance: 258]
+- [RUNNING] bound for instance 258
+- [RUNNING] normalize for instance 258
+- [RUNNING] filter for instance 258
+- [RUNNING] hyp_ind for instance 258
+- [RUNNING] eps_ind for instance 258
+- [RUNNING] igd.py for instance 258
+- [RUNNING] kruskal-wallis for instance 258
+--- [Processing instance: 259]
+- [RUNNING] bound for instance 259
+- [RUNNING] normalize for instance 259
+- [RUNNING] filter for instance 259
+- [RUNNING] hyp_ind for instance 259
+- [RUNNING] eps_ind for instance 259
+- [RUNNING] igd.py for instance 259
+- [RUNNING] kruskal-wallis for instance 259
+--- [Processing instance: 26]
+- [RUNNING] bound for instance 26
+- [RUNNING] normalize for instance 26
+- [RUNNING] filter for instance 26
+- [RUNNING] hyp_ind for instance 26
+- [RUNNING] eps_ind for instance 26
+- [RUNNING] igd.py for instance 26
+- [RUNNING] kruskal-wallis for instance 26
+--- [Processing instance: 260]
+- [RUNNING] bound for instance 260
+- [RUNNING] normalize for instance 260
+- [RUNNING] filter for instance 260
+- [RUNNING] hyp_ind for instance 260
+- [RUNNING] eps_ind for instance 260
+- [RUNNING] igd.py for instance 260
+- [RUNNING] kruskal-wallis for instance 260
+--- [Processing instance: 261]
+- [RUNNING] bound for instance 261
+- [RUNNING] normalize for instance 261
+- [RUNNING] filter for instance 261
+- [RUNNING] hyp_ind for instance 261
+- [RUNNING] eps_ind for instance 261
+- [RUNNING] igd.py for instance 261
+- [RUNNING] kruskal-wallis for instance 261
+--- [Processing instance: 262]
+- [RUNNING] bound for instance 262
+- [RUNNING] normalize for instance 262
+- [RUNNING] filter for instance 262
+- [RUNNING] hyp_ind for instance 262
+- [RUNNING] eps_ind for instance 262
+- [RUNNING] igd.py for instance 262
+- [RUNNING] kruskal-wallis for instance 262
+--- [Processing instance: 263]
+- [RUNNING] bound for instance 263
+- [RUNNING] normalize for instance 263
+- [RUNNING] filter for instance 263
+- [RUNNING] hyp_ind for instance 263
+- [RUNNING] eps_ind for instance 263
+- [RUNNING] igd.py for instance 263
+- [RUNNING] kruskal-wallis for instance 263
+--- [Processing instance: 264]
+- [RUNNING] bound for instance 264
+- [RUNNING] normalize for instance 264
+- [RUNNING] filter for instance 264
+- [RUNNING] hyp_ind for instance 264
+- [RUNNING] eps_ind for instance 264
+- [RUNNING] igd.py for instance 264
+- [RUNNING] kruskal-wallis for instance 264
+--- [Processing instance: 265]
+- [RUNNING] bound for instance 265
+- [RUNNING] normalize for instance 265
+- [RUNNING] filter for instance 265
+- [RUNNING] hyp_ind for instance 265
+- [RUNNING] eps_ind for instance 265
+- [RUNNING] igd.py for instance 265
+- [RUNNING] kruskal-wallis for instance 265
+--- [Processing instance: 266]
+- [RUNNING] bound for instance 266
+- [RUNNING] normalize for instance 266
+- [RUNNING] filter for instance 266
+- [RUNNING] hyp_ind for instance 266
+- [RUNNING] eps_ind for instance 266
+- [RUNNING] igd.py for instance 266
+- [RUNNING] kruskal-wallis for instance 266
+--- [Processing instance: 267]
+- [RUNNING] bound for instance 267
+- [RUNNING] normalize for instance 267
+- [RUNNING] filter for instance 267
+- [RUNNING] hyp_ind for instance 267
+- [RUNNING] eps_ind for instance 267
+- [RUNNING] igd.py for instance 267
+- [RUNNING] kruskal-wallis for instance 267
+--- [Processing instance: 268]
+- [RUNNING] bound for instance 268
+- [RUNNING] normalize for instance 268
+- [RUNNING] filter for instance 268
+- [RUNNING] hyp_ind for instance 268
+- [RUNNING] eps_ind for instance 268
+- [RUNNING] igd.py for instance 268
+- [RUNNING] kruskal-wallis for instance 268
+--- [Processing instance: 269]
+- [RUNNING] bound for instance 269
+- [RUNNING] normalize for instance 269
+- [RUNNING] filter for instance 269
+- [RUNNING] hyp_ind for instance 269
+- [RUNNING] eps_ind for instance 269
+- [RUNNING] igd.py for instance 269
+- [RUNNING] kruskal-wallis for instance 269
+--- [Processing instance: 27]
+- [RUNNING] bound for instance 27
+- [RUNNING] normalize for instance 27
+- [RUNNING] filter for instance 27
+- [RUNNING] hyp_ind for instance 27
+- [RUNNING] eps_ind for instance 27
+- [RUNNING] igd.py for instance 27
+- [RUNNING] kruskal-wallis for instance 27
+--- [Processing instance: 270]
+- [RUNNING] bound for instance 270
+- [RUNNING] normalize for instance 270
+- [RUNNING] filter for instance 270
+- [RUNNING] hyp_ind for instance 270
+- [RUNNING] eps_ind for instance 270
+- [RUNNING] igd.py for instance 270
+- [RUNNING] kruskal-wallis for instance 270
+--- [Processing instance: 271]
+- [RUNNING] bound for instance 271
+- [RUNNING] normalize for instance 271
+- [RUNNING] filter for instance 271
+- [RUNNING] hyp_ind for instance 271
+- [RUNNING] eps_ind for instance 271
+- [RUNNING] igd.py for instance 271
+- [RUNNING] kruskal-wallis for instance 271
+--- [Processing instance: 272]
+- [RUNNING] bound for instance 272
+- [RUNNING] normalize for instance 272
+- [RUNNING] filter for instance 272
+- [RUNNING] hyp_ind for instance 272
+- [RUNNING] eps_ind for instance 272
+- [RUNNING] igd.py for instance 272
+- [RUNNING] kruskal-wallis for instance 272
+--- [Processing instance: 273]
+- [RUNNING] bound for instance 273
+- [RUNNING] normalize for instance 273
+- [RUNNING] filter for instance 273
+- [RUNNING] hyp_ind for instance 273
+- [RUNNING] eps_ind for instance 273
+- [RUNNING] igd.py for instance 273
+- [RUNNING] kruskal-wallis for instance 273
+--- [Processing instance: 274]
+- [RUNNING] bound for instance 274
+- [RUNNING] normalize for instance 274
+- [RUNNING] filter for instance 274
+- [RUNNING] hyp_ind for instance 274
+- [RUNNING] eps_ind for instance 274
+- [RUNNING] igd.py for instance 274
+- [RUNNING] kruskal-wallis for instance 274
+--- [Processing instance: 275]
+- [RUNNING] bound for instance 275
+- [RUNNING] normalize for instance 275
+- [RUNNING] filter for instance 275
+- [RUNNING] hyp_ind for instance 275
+- [RUNNING] eps_ind for instance 275
+- [RUNNING] igd.py for instance 275
+- [RUNNING] kruskal-wallis for instance 275
+--- [Processing instance: 276]
+- [RUNNING] bound for instance 276
+- [RUNNING] normalize for instance 276
+- [RUNNING] filter for instance 276
+- [RUNNING] hyp_ind for instance 276
+- [RUNNING] eps_ind for instance 276
+- [RUNNING] igd.py for instance 276
+- [RUNNING] kruskal-wallis for instance 276
+--- [Processing instance: 277]
+- [RUNNING] bound for instance 277
+- [RUNNING] normalize for instance 277
+- [RUNNING] filter for instance 277
+- [RUNNING] hyp_ind for instance 277
+- [RUNNING] eps_ind for instance 277
+- [RUNNING] igd.py for instance 277
+- [RUNNING] kruskal-wallis for instance 277
+--- [Processing instance: 278]
+- [RUNNING] bound for instance 278
+- [RUNNING] normalize for instance 278
+- [RUNNING] filter for instance 278
+- [RUNNING] hyp_ind for instance 278
+- [RUNNING] eps_ind for instance 278
+- [RUNNING] igd.py for instance 278
+- [RUNNING] kruskal-wallis for instance 278
+--- [Processing instance: 279]
+- [RUNNING] bound for instance 279
+- [RUNNING] normalize for instance 279
+- [RUNNING] filter for instance 279
+- [RUNNING] hyp_ind for instance 279
+- [RUNNING] eps_ind for instance 279
+- [RUNNING] igd.py for instance 279
+- [RUNNING] kruskal-wallis for instance 279
+--- [Processing instance: 28]
+- [RUNNING] bound for instance 28
+- [RUNNING] normalize for instance 28
+- [RUNNING] filter for instance 28
+- [RUNNING] hyp_ind for instance 28
+- [RUNNING] eps_ind for instance 28
+- [RUNNING] igd.py for instance 28
+- [RUNNING] kruskal-wallis for instance 28
+--- [Processing instance: 280]
+- [RUNNING] bound for instance 280
+- [RUNNING] normalize for instance 280
+- [RUNNING] filter for instance 280
+- [RUNNING] hyp_ind for instance 280
+- [RUNNING] eps_ind for instance 280
+- [RUNNING] igd.py for instance 280
+- [RUNNING] kruskal-wallis for instance 280
+--- [Processing instance: 281]
+- [RUNNING] bound for instance 281
+- [RUNNING] normalize for instance 281
+- [RUNNING] filter for instance 281
+- [RUNNING] hyp_ind for instance 281
+- [RUNNING] eps_ind for instance 281
+- [RUNNING] igd.py for instance 281
+- [RUNNING] kruskal-wallis for instance 281
+--- [Processing instance: 282]
+- [RUNNING] bound for instance 282
+- [RUNNING] normalize for instance 282
+- [RUNNING] filter for instance 282
+- [RUNNING] hyp_ind for instance 282
+- [RUNNING] eps_ind for instance 282
+- [RUNNING] igd.py for instance 282
+- [RUNNING] kruskal-wallis for instance 282
+--- [Processing instance: 283]
+- [RUNNING] bound for instance 283
+- [RUNNING] normalize for instance 283
+- [RUNNING] filter for instance 283
+- [RUNNING] hyp_ind for instance 283
+- [RUNNING] eps_ind for instance 283
+- [RUNNING] igd.py for instance 283
+- [RUNNING] kruskal-wallis for instance 283
+--- [Processing instance: 284]
+- [RUNNING] bound for instance 284
+- [RUNNING] normalize for instance 284
+- [RUNNING] filter for instance 284
+- [RUNNING] hyp_ind for instance 284
+- [RUNNING] eps_ind for instance 284
+- [RUNNING] igd.py for instance 284
+- [RUNNING] kruskal-wallis for instance 284
+--- [Processing instance: 285]
+- [RUNNING] bound for instance 285
+- [RUNNING] normalize for instance 285
+- [RUNNING] filter for instance 285
+- [RUNNING] hyp_ind for instance 285
+- [RUNNING] eps_ind for instance 285
+- [RUNNING] igd.py for instance 285
+- [RUNNING] kruskal-wallis for instance 285
+--- [Processing instance: 286]
+- [RUNNING] bound for instance 286
+- [RUNNING] normalize for instance 286
+- [RUNNING] filter for instance 286
+- [RUNNING] hyp_ind for instance 286
+- [RUNNING] eps_ind for instance 286
+- [RUNNING] igd.py for instance 286
+- [RUNNING] kruskal-wallis for instance 286
+--- [Processing instance: 287]
+- [RUNNING] bound for instance 287
+- [RUNNING] normalize for instance 287
+- [RUNNING] filter for instance 287
+- [RUNNING] hyp_ind for instance 287
+- [RUNNING] eps_ind for instance 287
+- [RUNNING] igd.py for instance 287
+- [RUNNING] kruskal-wallis for instance 287
+--- [Processing instance: 288]
+- [RUNNING] bound for instance 288
+- [RUNNING] normalize for instance 288
+- [RUNNING] filter for instance 288
+- [RUNNING] hyp_ind for instance 288
+- [RUNNING] eps_ind for instance 288
+- [RUNNING] igd.py for instance 288
+- [RUNNING] kruskal-wallis for instance 288
+--- [Processing instance: 289]
+- [RUNNING] bound for instance 289
+- [RUNNING] normalize for instance 289
+- [RUNNING] filter for instance 289
+- [RUNNING] hyp_ind for instance 289
+- [RUNNING] eps_ind for instance 289
+- [RUNNING] igd.py for instance 289
+- [RUNNING] kruskal-wallis for instance 289
+--- [Processing instance: 29]
+- [RUNNING] bound for instance 29
+- [RUNNING] normalize for instance 29
+- [RUNNING] filter for instance 29
+- [RUNNING] hyp_ind for instance 29
+- [RUNNING] eps_ind for instance 29
+- [RUNNING] igd.py for instance 29
+- [RUNNING] kruskal-wallis for instance 29
+--- [Processing instance: 290]
+- [RUNNING] bound for instance 290
+- [RUNNING] normalize for instance 290
+- [RUNNING] filter for instance 290
+- [RUNNING] hyp_ind for instance 290
+- [RUNNING] eps_ind for instance 290
+- [RUNNING] igd.py for instance 290
+- [RUNNING] kruskal-wallis for instance 290
+--- [Processing instance: 291]
+- [RUNNING] bound for instance 291
+- [RUNNING] normalize for instance 291
+- [RUNNING] filter for instance 291
+- [RUNNING] hyp_ind for instance 291
+- [RUNNING] eps_ind for instance 291
+- [RUNNING] igd.py for instance 291
+- [RUNNING] kruskal-wallis for instance 291
+--- [Processing instance: 292]
+- [RUNNING] bound for instance 292
+- [RUNNING] normalize for instance 292
+- [RUNNING] filter for instance 292
+- [RUNNING] hyp_ind for instance 292
+- [RUNNING] eps_ind for instance 292
+- [RUNNING] igd.py for instance 292
+- [RUNNING] kruskal-wallis for instance 292
+--- [Processing instance: 293]
+- [RUNNING] bound for instance 293
+- [RUNNING] normalize for instance 293
+- [RUNNING] filter for instance 293
+- [RUNNING] hyp_ind for instance 293
+- [RUNNING] eps_ind for instance 293
+- [RUNNING] igd.py for instance 293
+- [RUNNING] kruskal-wallis for instance 293
+--- [Processing instance: 294]
+- [RUNNING] bound for instance 294
+- [RUNNING] normalize for instance 294
+- [RUNNING] filter for instance 294
+- [RUNNING] hyp_ind for instance 294
+- [RUNNING] eps_ind for instance 294
+- [RUNNING] igd.py for instance 294
+- [RUNNING] kruskal-wallis for instance 294
+--- [Processing instance: 295]
+- [RUNNING] bound for instance 295
+- [RUNNING] normalize for instance 295
+- [RUNNING] filter for instance 295
+- [RUNNING] hyp_ind for instance 295
+- [RUNNING] eps_ind for instance 295
+- [RUNNING] igd.py for instance 295
+- [RUNNING] kruskal-wallis for instance 295
+--- [Processing instance: 296]
+- [RUNNING] bound for instance 296
+- [RUNNING] normalize for instance 296
+- [RUNNING] filter for instance 296
+- [RUNNING] hyp_ind for instance 296
+- [RUNNING] eps_ind for instance 296
+- [RUNNING] igd.py for instance 296
+- [RUNNING] kruskal-wallis for instance 296
+--- [Processing instance: 297]
+- [RUNNING] bound for instance 297
+- [RUNNING] normalize for instance 297
+- [RUNNING] filter for instance 297
+- [RUNNING] hyp_ind for instance 297
+- [RUNNING] eps_ind for instance 297
+- [RUNNING] igd.py for instance 297
+- [RUNNING] kruskal-wallis for instance 297
+--- [Processing instance: 298]
+- [RUNNING] bound for instance 298
+- [RUNNING] normalize for instance 298
+- [RUNNING] filter for instance 298
+- [RUNNING] hyp_ind for instance 298
+- [RUNNING] eps_ind for instance 298
+- [RUNNING] igd.py for instance 298
+- [RUNNING] kruskal-wallis for instance 298
+--- [Processing instance: 299]
+- [RUNNING] bound for instance 299
+- [RUNNING] normalize for instance 299
+- [RUNNING] filter for instance 299
+- [RUNNING] hyp_ind for instance 299
+- [RUNNING] eps_ind for instance 299
+- [RUNNING] igd.py for instance 299
+- [RUNNING] kruskal-wallis for instance 299
+--- [Processing instance: 3]
+- [RUNNING] bound for instance 3
+- [RUNNING] normalize for instance 3
+- [RUNNING] filter for instance 3
+- [RUNNING] hyp_ind for instance 3
+- [RUNNING] eps_ind for instance 3
+- [RUNNING] igd.py for instance 3
+- [RUNNING] kruskal-wallis for instance 3
+--- [Processing instance: 30]
+- [RUNNING] bound for instance 30
+- [RUNNING] normalize for instance 30
+- [RUNNING] filter for instance 30
+- [RUNNING] hyp_ind for instance 30
+- [RUNNING] eps_ind for instance 30
+- [RUNNING] igd.py for instance 30
+- [RUNNING] kruskal-wallis for instance 30
+--- [Processing instance: 300]
+- [RUNNING] bound for instance 300
+- [RUNNING] normalize for instance 300
+- [RUNNING] filter for instance 300
+- [RUNNING] hyp_ind for instance 300
+- [RUNNING] eps_ind for instance 300
+- [RUNNING] igd.py for instance 300
+- [RUNNING] kruskal-wallis for instance 300
+--- [Processing instance: 301]
+- [RUNNING] bound for instance 301
+- [RUNNING] normalize for instance 301
+- [RUNNING] filter for instance 301
+- [RUNNING] hyp_ind for instance 301
+- [RUNNING] eps_ind for instance 301
+- [RUNNING] igd.py for instance 301
+- [RUNNING] kruskal-wallis for instance 301
+--- [Processing instance: 302]
+- [RUNNING] bound for instance 302
+- [RUNNING] normalize for instance 302
+- [RUNNING] filter for instance 302
+- [RUNNING] hyp_ind for instance 302
+- [RUNNING] eps_ind for instance 302
+- [RUNNING] igd.py for instance 302
+- [RUNNING] kruskal-wallis for instance 302
+--- [Processing instance: 303]
+- [RUNNING] bound for instance 303
+- [RUNNING] normalize for instance 303
+- [RUNNING] filter for instance 303
+- [RUNNING] hyp_ind for instance 303
+- [RUNNING] eps_ind for instance 303
+- [RUNNING] igd.py for instance 303
+- [RUNNING] kruskal-wallis for instance 303
+--- [Processing instance: 304]
+- [RUNNING] bound for instance 304
+- [RUNNING] normalize for instance 304
+- [RUNNING] filter for instance 304
+- [RUNNING] hyp_ind for instance 304
+- [RUNNING] eps_ind for instance 304
+- [RUNNING] igd.py for instance 304
+- [RUNNING] kruskal-wallis for instance 304
+--- [Processing instance: 305]
+- [RUNNING] bound for instance 305
+- [RUNNING] normalize for instance 305
+- [RUNNING] filter for instance 305
+- [RUNNING] hyp_ind for instance 305
+- [RUNNING] eps_ind for instance 305
+- [RUNNING] igd.py for instance 305
+- [RUNNING] kruskal-wallis for instance 305
+--- [Processing instance: 306]
+- [RUNNING] bound for instance 306
+- [RUNNING] normalize for instance 306
+- [RUNNING] filter for instance 306
+- [RUNNING] hyp_ind for instance 306
+- [RUNNING] eps_ind for instance 306
+- [RUNNING] igd.py for instance 306
+- [RUNNING] kruskal-wallis for instance 306
+--- [Processing instance: 307]
+- [RUNNING] bound for instance 307
+- [RUNNING] normalize for instance 307
+- [RUNNING] filter for instance 307
+- [RUNNING] hyp_ind for instance 307
+- [RUNNING] eps_ind for instance 307
+- [RUNNING] igd.py for instance 307
+- [RUNNING] kruskal-wallis for instance 307
+--- [Processing instance: 308]
+- [RUNNING] bound for instance 308
+- [RUNNING] normalize for instance 308
+- [RUNNING] filter for instance 308
+- [RUNNING] hyp_ind for instance 308
+- [RUNNING] eps_ind for instance 308
+- [RUNNING] igd.py for instance 308
+- [RUNNING] kruskal-wallis for instance 308
+--- [Processing instance: 309]
+- [RUNNING] bound for instance 309
+- [RUNNING] normalize for instance 309
+- [RUNNING] filter for instance 309
+- [RUNNING] hyp_ind for instance 309
+- [RUNNING] eps_ind for instance 309
+- [RUNNING] igd.py for instance 309
+- [RUNNING] kruskal-wallis for instance 309
+--- [Processing instance: 31]
+- [RUNNING] bound for instance 31
+- [RUNNING] normalize for instance 31
+- [RUNNING] filter for instance 31
+- [RUNNING] hyp_ind for instance 31
+- [RUNNING] eps_ind for instance 31
+- [RUNNING] igd.py for instance 31
+- [RUNNING] kruskal-wallis for instance 31
+--- [Processing instance: 310]
+- [RUNNING] bound for instance 310
+- [RUNNING] normalize for instance 310
+- [RUNNING] filter for instance 310
+- [RUNNING] hyp_ind for instance 310
+- [RUNNING] eps_ind for instance 310
+- [RUNNING] igd.py for instance 310
+- [RUNNING] kruskal-wallis for instance 310
+--- [Processing instance: 311]
+- [RUNNING] bound for instance 311
+- [RUNNING] normalize for instance 311
+- [RUNNING] filter for instance 311
+- [RUNNING] hyp_ind for instance 311
+- [RUNNING] eps_ind for instance 311
+- [RUNNING] igd.py for instance 311
+- [RUNNING] kruskal-wallis for instance 311
+--- [Processing instance: 312]
+- [RUNNING] bound for instance 312
+- [RUNNING] normalize for instance 312
+- [RUNNING] filter for instance 312
+- [RUNNING] hyp_ind for instance 312
+- [RUNNING] eps_ind for instance 312
+- [RUNNING] igd.py for instance 312
+- [RUNNING] kruskal-wallis for instance 312
+--- [Processing instance: 313]
+- [RUNNING] bound for instance 313
+- [RUNNING] normalize for instance 313
+- [RUNNING] filter for instance 313
+- [RUNNING] hyp_ind for instance 313
+- [RUNNING] eps_ind for instance 313
+- [RUNNING] igd.py for instance 313
+- [RUNNING] kruskal-wallis for instance 313
+--- [Processing instance: 314]
+- [RUNNING] bound for instance 314
+- [RUNNING] normalize for instance 314
+- [RUNNING] filter for instance 314
+- [RUNNING] hyp_ind for instance 314
+- [RUNNING] eps_ind for instance 314
+- [RUNNING] igd.py for instance 314
+- [RUNNING] kruskal-wallis for instance 314
+--- [Processing instance: 315]
+- [RUNNING] bound for instance 315
+- [RUNNING] normalize for instance 315
+- [RUNNING] filter for instance 315
+- [RUNNING] hyp_ind for instance 315
+- [RUNNING] eps_ind for instance 315
+- [RUNNING] igd.py for instance 315
+- [RUNNING] kruskal-wallis for instance 315
+--- [Processing instance: 316]
+- [RUNNING] bound for instance 316
+- [RUNNING] normalize for instance 316
+- [RUNNING] filter for instance 316
+- [RUNNING] hyp_ind for instance 316
+- [RUNNING] eps_ind for instance 316
+- [RUNNING] igd.py for instance 316
+- [RUNNING] kruskal-wallis for instance 316
+--- [Processing instance: 317]
+- [RUNNING] bound for instance 317
+- [RUNNING] normalize for instance 317
+- [RUNNING] filter for instance 317
+- [RUNNING] hyp_ind for instance 317
+- [RUNNING] eps_ind for instance 317
+- [RUNNING] igd.py for instance 317
+- [RUNNING] kruskal-wallis for instance 317
+--- [Processing instance: 318]
+- [RUNNING] bound for instance 318
+- [RUNNING] normalize for instance 318
+- [RUNNING] filter for instance 318
+- [RUNNING] hyp_ind for instance 318
+- [RUNNING] eps_ind for instance 318
+- [RUNNING] igd.py for instance 318
+- [RUNNING] kruskal-wallis for instance 318
+--- [Processing instance: 319]
+- [RUNNING] bound for instance 319
+- [RUNNING] normalize for instance 319
+- [RUNNING] filter for instance 319
+- [RUNNING] hyp_ind for instance 319
+- [RUNNING] eps_ind for instance 319
+- [RUNNING] igd.py for instance 319
+- [RUNNING] kruskal-wallis for instance 319
+--- [Processing instance: 32]
+- [RUNNING] bound for instance 32
+- [RUNNING] normalize for instance 32
+- [RUNNING] filter for instance 32
+- [RUNNING] hyp_ind for instance 32
+- [RUNNING] eps_ind for instance 32
+- [RUNNING] igd.py for instance 32
+- [RUNNING] kruskal-wallis for instance 32
+--- [Processing instance: 320]
+- [RUNNING] bound for instance 320
+- [RUNNING] normalize for instance 320
+- [RUNNING] filter for instance 320
+- [RUNNING] hyp_ind for instance 320
+- [RUNNING] eps_ind for instance 320
+- [RUNNING] igd.py for instance 320
+- [RUNNING] kruskal-wallis for instance 320
+--- [Processing instance: 321]
+- [RUNNING] bound for instance 321
+- [RUNNING] normalize for instance 321
+- [RUNNING] filter for instance 321
+- [RUNNING] hyp_ind for instance 321
+- [RUNNING] eps_ind for instance 321
+- [RUNNING] igd.py for instance 321
+- [RUNNING] kruskal-wallis for instance 321
+--- [Processing instance: 322]
+- [RUNNING] bound for instance 322
+- [RUNNING] normalize for instance 322
+- [RUNNING] filter for instance 322
+- [RUNNING] hyp_ind for instance 322
+- [RUNNING] eps_ind for instance 322
+- [RUNNING] igd.py for instance 322
+- [RUNNING] kruskal-wallis for instance 322
+--- [Processing instance: 323]
+- [RUNNING] bound for instance 323
+- [RUNNING] normalize for instance 323
+- [RUNNING] filter for instance 323
+- [RUNNING] hyp_ind for instance 323
+- [RUNNING] eps_ind for instance 323
+- [RUNNING] igd.py for instance 323
+- [RUNNING] kruskal-wallis for instance 323
+--- [Processing instance: 324]
+- [RUNNING] bound for instance 324
+- [RUNNING] normalize for instance 324
+- [RUNNING] filter for instance 324
+- [RUNNING] hyp_ind for instance 324
+- [RUNNING] eps_ind for instance 324
+- [RUNNING] igd.py for instance 324
+- [RUNNING] kruskal-wallis for instance 324
+--- [Processing instance: 325]
+- [RUNNING] bound for instance 325
+- [RUNNING] normalize for instance 325
+- [RUNNING] filter for instance 325
+- [RUNNING] hyp_ind for instance 325
+- [RUNNING] eps_ind for instance 325
+- [RUNNING] igd.py for instance 325
+- [RUNNING] kruskal-wallis for instance 325
+--- [Processing instance: 326]
+- [RUNNING] bound for instance 326
+- [RUNNING] normalize for instance 326
+- [RUNNING] filter for instance 326
+- [RUNNING] hyp_ind for instance 326
+- [RUNNING] eps_ind for instance 326
+- [RUNNING] igd.py for instance 326
+- [RUNNING] kruskal-wallis for instance 326
+--- [Processing instance: 327]
+- [RUNNING] bound for instance 327
+- [RUNNING] normalize for instance 327
+- [RUNNING] filter for instance 327
+- [RUNNING] hyp_ind for instance 327
+- [RUNNING] eps_ind for instance 327
+- [RUNNING] igd.py for instance 327
+- [RUNNING] kruskal-wallis for instance 327
+--- [Processing instance: 328]
+- [RUNNING] bound for instance 328
+- [RUNNING] normalize for instance 328
+- [RUNNING] filter for instance 328
+- [RUNNING] hyp_ind for instance 328
+- [RUNNING] eps_ind for instance 328
+- [RUNNING] igd.py for instance 328
+- [RUNNING] kruskal-wallis for instance 328
+--- [Processing instance: 329]
+- [RUNNING] bound for instance 329
+- [RUNNING] normalize for instance 329
+- [RUNNING] filter for instance 329
+- [RUNNING] hyp_ind for instance 329
+- [RUNNING] eps_ind for instance 329
+- [RUNNING] igd.py for instance 329
+- [RUNNING] kruskal-wallis for instance 329
+--- [Processing instance: 33]
+- [RUNNING] bound for instance 33
+- [RUNNING] normalize for instance 33
+- [RUNNING] filter for instance 33
+- [RUNNING] hyp_ind for instance 33
+- [RUNNING] eps_ind for instance 33
+- [RUNNING] igd.py for instance 33
+- [RUNNING] kruskal-wallis for instance 33
+--- [Processing instance: 330]
+- [RUNNING] bound for instance 330
+- [RUNNING] normalize for instance 330
+- [RUNNING] filter for instance 330
+- [RUNNING] hyp_ind for instance 330
+- [RUNNING] eps_ind for instance 330
+- [RUNNING] igd.py for instance 330
+- [RUNNING] kruskal-wallis for instance 330
+--- [Processing instance: 331]
+- [RUNNING] bound for instance 331
+- [RUNNING] normalize for instance 331
+- [RUNNING] filter for instance 331
+- [RUNNING] hyp_ind for instance 331
+- [RUNNING] eps_ind for instance 331
+- [RUNNING] igd.py for instance 331
+- [RUNNING] kruskal-wallis for instance 331
+--- [Processing instance: 332]
+- [RUNNING] bound for instance 332
+- [RUNNING] normalize for instance 332
+- [RUNNING] filter for instance 332
+- [RUNNING] hyp_ind for instance 332
+- [RUNNING] eps_ind for instance 332
+- [RUNNING] igd.py for instance 332
+- [RUNNING] kruskal-wallis for instance 332
+--- [Processing instance: 333]
+- [RUNNING] bound for instance 333
+- [RUNNING] normalize for instance 333
+- [RUNNING] filter for instance 333
+- [RUNNING] hyp_ind for instance 333
+- [RUNNING] eps_ind for instance 333
+- [RUNNING] igd.py for instance 333
+- [RUNNING] kruskal-wallis for instance 333
+--- [Processing instance: 334]
+- [RUNNING] bound for instance 334
+- [RUNNING] normalize for instance 334
+- [RUNNING] filter for instance 334
+- [RUNNING] hyp_ind for instance 334
+- [RUNNING] eps_ind for instance 334
+- [RUNNING] igd.py for instance 334
+- [RUNNING] kruskal-wallis for instance 334
+--- [Processing instance: 335]
+- [RUNNING] bound for instance 335
+- [RUNNING] normalize for instance 335
+- [RUNNING] filter for instance 335
+- [RUNNING] hyp_ind for instance 335
+- [RUNNING] eps_ind for instance 335
+- [RUNNING] igd.py for instance 335
+- [RUNNING] kruskal-wallis for instance 335
+--- [Processing instance: 336]
+- [RUNNING] bound for instance 336
+- [RUNNING] normalize for instance 336
+- [RUNNING] filter for instance 336
+- [RUNNING] hyp_ind for instance 336
+- [RUNNING] eps_ind for instance 336
+- [RUNNING] igd.py for instance 336
+- [RUNNING] kruskal-wallis for instance 336
+--- [Processing instance: 337]
+- [RUNNING] bound for instance 337
+- [RUNNING] normalize for instance 337
+- [RUNNING] filter for instance 337
+- [RUNNING] hyp_ind for instance 337
+- [RUNNING] eps_ind for instance 337
+- [RUNNING] igd.py for instance 337
+- [RUNNING] kruskal-wallis for instance 337
+--- [Processing instance: 338]
+- [RUNNING] bound for instance 338
+- [RUNNING] normalize for instance 338
+- [RUNNING] filter for instance 338
+- [RUNNING] hyp_ind for instance 338
+- [RUNNING] eps_ind for instance 338
+- [RUNNING] igd.py for instance 338
+- [RUNNING] kruskal-wallis for instance 338
+--- [Processing instance: 339]
+- [RUNNING] bound for instance 339
+- [RUNNING] normalize for instance 339
+- [RUNNING] filter for instance 339
+- [RUNNING] hyp_ind for instance 339
+- [RUNNING] eps_ind for instance 339
+- [RUNNING] igd.py for instance 339
+- [RUNNING] kruskal-wallis for instance 339
+--- [Processing instance: 34]
+- [RUNNING] bound for instance 34
+- [RUNNING] normalize for instance 34
+- [RUNNING] filter for instance 34
+- [RUNNING] hyp_ind for instance 34
+- [RUNNING] eps_ind for instance 34
+- [RUNNING] igd.py for instance 34
+- [RUNNING] kruskal-wallis for instance 34
+--- [Processing instance: 340]
+- [RUNNING] bound for instance 340
+- [RUNNING] normalize for instance 340
+- [RUNNING] filter for instance 340
+- [RUNNING] hyp_ind for instance 340
+- [RUNNING] eps_ind for instance 340
+- [RUNNING] igd.py for instance 340
+- [RUNNING] kruskal-wallis for instance 340
+--- [Processing instance: 341]
+- [RUNNING] bound for instance 341
+- [RUNNING] normalize for instance 341
+- [RUNNING] filter for instance 341
+- [RUNNING] hyp_ind for instance 341
+- [RUNNING] eps_ind for instance 341
+- [RUNNING] igd.py for instance 341
+- [RUNNING] kruskal-wallis for instance 341
+--- [Processing instance: 342]
+- [RUNNING] bound for instance 342
+- [RUNNING] normalize for instance 342
+- [RUNNING] filter for instance 342
+- [RUNNING] hyp_ind for instance 342
+- [RUNNING] eps_ind for instance 342
+- [RUNNING] igd.py for instance 342
+- [RUNNING] kruskal-wallis for instance 342
+--- [Processing instance: 343]
+- [RUNNING] bound for instance 343
+- [RUNNING] normalize for instance 343
+- [RUNNING] filter for instance 343
+- [RUNNING] hyp_ind for instance 343
+- [RUNNING] eps_ind for instance 343
+- [RUNNING] igd.py for instance 343
+- [RUNNING] kruskal-wallis for instance 343
+--- [Processing instance: 344]
+- [RUNNING] bound for instance 344
+- [RUNNING] normalize for instance 344
+- [RUNNING] filter for instance 344
+- [RUNNING] hyp_ind for instance 344
+- [RUNNING] eps_ind for instance 344
+- [RUNNING] igd.py for instance 344
+- [RUNNING] kruskal-wallis for instance 344
+--- [Processing instance: 345]
+- [RUNNING] bound for instance 345
+- [RUNNING] normalize for instance 345
+- [RUNNING] filter for instance 345
+- [RUNNING] hyp_ind for instance 345
+- [RUNNING] eps_ind for instance 345
+- [RUNNING] igd.py for instance 345
+- [RUNNING] kruskal-wallis for instance 345
+--- [Processing instance: 346]
+- [RUNNING] bound for instance 346
+- [RUNNING] normalize for instance 346
+- [RUNNING] filter for instance 346
+- [RUNNING] hyp_ind for instance 346
+- [RUNNING] eps_ind for instance 346
+- [RUNNING] igd.py for instance 346
+- [RUNNING] kruskal-wallis for instance 346
+--- [Processing instance: 347]
+- [RUNNING] bound for instance 347
+- [RUNNING] normalize for instance 347
+- [RUNNING] filter for instance 347
+- [RUNNING] hyp_ind for instance 347
+- [RUNNING] eps_ind for instance 347
+- [RUNNING] igd.py for instance 347
+- [RUNNING] kruskal-wallis for instance 347
+--- [Processing instance: 348]
+- [RUNNING] bound for instance 348
+- [RUNNING] normalize for instance 348
+- [RUNNING] filter for instance 348
+- [RUNNING] hyp_ind for instance 348
+- [RUNNING] eps_ind for instance 348
+- [RUNNING] igd.py for instance 348
+- [RUNNING] kruskal-wallis for instance 348
+--- [Processing instance: 349]
+- [RUNNING] bound for instance 349
+- [RUNNING] normalize for instance 349
+- [RUNNING] filter for instance 349
+- [RUNNING] hyp_ind for instance 349
+- [RUNNING] eps_ind for instance 349
+- [RUNNING] igd.py for instance 349
+- [RUNNING] kruskal-wallis for instance 349
+--- [Processing instance: 35]
+- [RUNNING] bound for instance 35
+- [RUNNING] normalize for instance 35
+- [RUNNING] filter for instance 35
+- [RUNNING] hyp_ind for instance 35
+- [RUNNING] eps_ind for instance 35
+- [RUNNING] igd.py for instance 35
+- [RUNNING] kruskal-wallis for instance 35
+--- [Processing instance: 350]
+- [RUNNING] bound for instance 350
+- [RUNNING] normalize for instance 350
+- [RUNNING] filter for instance 350
+- [RUNNING] hyp_ind for instance 350
+- [RUNNING] eps_ind for instance 350
+- [RUNNING] igd.py for instance 350
+- [RUNNING] kruskal-wallis for instance 350
+--- [Processing instance: 351]
+- [RUNNING] bound for instance 351
+- [RUNNING] normalize for instance 351
+- [RUNNING] filter for instance 351
+- [RUNNING] hyp_ind for instance 351
+- [RUNNING] eps_ind for instance 351
+- [RUNNING] igd.py for instance 351
+- [RUNNING] kruskal-wallis for instance 351
+--- [Processing instance: 352]
+- [RUNNING] bound for instance 352
+- [RUNNING] normalize for instance 352
+- [RUNNING] filter for instance 352
+- [RUNNING] hyp_ind for instance 352
+- [RUNNING] eps_ind for instance 352
+- [RUNNING] igd.py for instance 352
+- [RUNNING] kruskal-wallis for instance 352
+--- [Processing instance: 353]
+- [RUNNING] bound for instance 353
+- [RUNNING] normalize for instance 353
+- [RUNNING] filter for instance 353
+- [RUNNING] hyp_ind for instance 353
+- [RUNNING] eps_ind for instance 353
+- [RUNNING] igd.py for instance 353
+- [RUNNING] kruskal-wallis for instance 353
+--- [Processing instance: 354]
+- [RUNNING] bound for instance 354
+- [RUNNING] normalize for instance 354
+- [RUNNING] filter for instance 354
+- [RUNNING] hyp_ind for instance 354
+- [RUNNING] eps_ind for instance 354
+- [RUNNING] igd.py for instance 354
+- [RUNNING] kruskal-wallis for instance 354
+--- [Processing instance: 355]
+- [RUNNING] bound for instance 355
+- [RUNNING] normalize for instance 355
+- [RUNNING] filter for instance 355
+- [RUNNING] hyp_ind for instance 355
+- [RUNNING] eps_ind for instance 355
+- [RUNNING] igd.py for instance 355
+- [RUNNING] kruskal-wallis for instance 355
+--- [Processing instance: 356]
+- [RUNNING] bound for instance 356
+- [RUNNING] normalize for instance 356
+- [RUNNING] filter for instance 356
+- [RUNNING] hyp_ind for instance 356
+- [RUNNING] eps_ind for instance 356
+- [RUNNING] igd.py for instance 356
+- [RUNNING] kruskal-wallis for instance 356
+--- [Processing instance: 357]
+- [RUNNING] bound for instance 357
+- [RUNNING] normalize for instance 357
+- [RUNNING] filter for instance 357
+- [RUNNING] hyp_ind for instance 357
+- [RUNNING] eps_ind for instance 357
+- [RUNNING] igd.py for instance 357
+- [RUNNING] kruskal-wallis for instance 357
+--- [Processing instance: 358]
+- [RUNNING] bound for instance 358
+- [RUNNING] normalize for instance 358
+- [RUNNING] filter for instance 358
+- [RUNNING] hyp_ind for instance 358
+- [RUNNING] eps_ind for instance 358
+- [RUNNING] igd.py for instance 358
+- [RUNNING] kruskal-wallis for instance 358
+--- [Processing instance: 359]
+- [RUNNING] bound for instance 359
+- [RUNNING] normalize for instance 359
+- [RUNNING] filter for instance 359
+- [RUNNING] hyp_ind for instance 359
+- [RUNNING] eps_ind for instance 359
+- [RUNNING] igd.py for instance 359
+- [RUNNING] kruskal-wallis for instance 359
+--- [Processing instance: 36]
+- [RUNNING] bound for instance 36
+- [RUNNING] normalize for instance 36
+- [RUNNING] filter for instance 36
+- [RUNNING] hyp_ind for instance 36
+- [RUNNING] eps_ind for instance 36
+- [RUNNING] igd.py for instance 36
+- [RUNNING] kruskal-wallis for instance 36
+--- [Processing instance: 360]
+- [RUNNING] bound for instance 360
+- [RUNNING] normalize for instance 360
+- [RUNNING] filter for instance 360
+- [RUNNING] hyp_ind for instance 360
+- [RUNNING] eps_ind for instance 360
+- [RUNNING] igd.py for instance 360
+- [RUNNING] kruskal-wallis for instance 360
+--- [Processing instance: 361]
+- [RUNNING] bound for instance 361
+- [RUNNING] normalize for instance 361
+- [RUNNING] filter for instance 361
+- [RUNNING] hyp_ind for instance 361
+- [RUNNING] eps_ind for instance 361
+- [RUNNING] igd.py for instance 361
+- [RUNNING] kruskal-wallis for instance 361
+--- [Processing instance: 362]
+- [RUNNING] bound for instance 362
+- [RUNNING] normalize for instance 362
+- [RUNNING] filter for instance 362
+- [RUNNING] hyp_ind for instance 362
+- [RUNNING] eps_ind for instance 362
+- [RUNNING] igd.py for instance 362
+- [RUNNING] kruskal-wallis for instance 362
+--- [Processing instance: 363]
+- [RUNNING] bound for instance 363
+- [RUNNING] normalize for instance 363
+- [RUNNING] filter for instance 363
+- [RUNNING] hyp_ind for instance 363
+- [RUNNING] eps_ind for instance 363
+- [RUNNING] igd.py for instance 363
+- [RUNNING] kruskal-wallis for instance 363
+--- [Processing instance: 364]
+- [RUNNING] bound for instance 364
+- [RUNNING] normalize for instance 364
+- [RUNNING] filter for instance 364
+- [RUNNING] hyp_ind for instance 364
+- [RUNNING] eps_ind for instance 364
+- [RUNNING] igd.py for instance 364
+- [RUNNING] kruskal-wallis for instance 364
+--- [Processing instance: 365]
+- [RUNNING] bound for instance 365
+- [RUNNING] normalize for instance 365
+- [RUNNING] filter for instance 365
+- [RUNNING] hyp_ind for instance 365
+- [RUNNING] eps_ind for instance 365
+- [RUNNING] igd.py for instance 365
+- [RUNNING] kruskal-wallis for instance 365
+--- [Processing instance: 366]
+- [RUNNING] bound for instance 366
+- [RUNNING] normalize for instance 366
+- [RUNNING] filter for instance 366
+- [RUNNING] hyp_ind for instance 366
+- [RUNNING] eps_ind for instance 366
+- [RUNNING] igd.py for instance 366
+- [RUNNING] kruskal-wallis for instance 366
+--- [Processing instance: 367]
+- [RUNNING] bound for instance 367
+- [RUNNING] normalize for instance 367
+- [RUNNING] filter for instance 367
+- [RUNNING] hyp_ind for instance 367
+- [RUNNING] eps_ind for instance 367
+- [RUNNING] igd.py for instance 367
+- [RUNNING] kruskal-wallis for instance 367
+--- [Processing instance: 368]
+- [RUNNING] bound for instance 368
+- [RUNNING] normalize for instance 368
+- [RUNNING] filter for instance 368
+- [RUNNING] hyp_ind for instance 368
+- [RUNNING] eps_ind for instance 368
+- [RUNNING] igd.py for instance 368
+- [RUNNING] kruskal-wallis for instance 368
+--- [Processing instance: 369]
+- [RUNNING] bound for instance 369
+- [RUNNING] normalize for instance 369
+- [RUNNING] filter for instance 369
+- [RUNNING] hyp_ind for instance 369
+- [RUNNING] eps_ind for instance 369
+- [RUNNING] igd.py for instance 369
+- [RUNNING] kruskal-wallis for instance 369
+--- [Processing instance: 37]
+- [RUNNING] bound for instance 37
+- [RUNNING] normalize for instance 37
+- [RUNNING] filter for instance 37
+- [RUNNING] hyp_ind for instance 37
+- [RUNNING] eps_ind for instance 37
+- [RUNNING] igd.py for instance 37
+- [RUNNING] kruskal-wallis for instance 37
+--- [Processing instance: 370]
+- [RUNNING] bound for instance 370
+- [RUNNING] normalize for instance 370
+- [RUNNING] filter for instance 370
+- [RUNNING] hyp_ind for instance 370
+- [RUNNING] eps_ind for instance 370
+- [RUNNING] igd.py for instance 370
+- [RUNNING] kruskal-wallis for instance 370
+--- [Processing instance: 371]
+- [RUNNING] bound for instance 371
+- [RUNNING] normalize for instance 371
+- [RUNNING] filter for instance 371
+- [RUNNING] hyp_ind for instance 371
+- [RUNNING] eps_ind for instance 371
+- [RUNNING] igd.py for instance 371
+- [RUNNING] kruskal-wallis for instance 371
+--- [Processing instance: 372]
+- [RUNNING] bound for instance 372
+- [RUNNING] normalize for instance 372
+- [RUNNING] filter for instance 372
+- [RUNNING] hyp_ind for instance 372
+- [RUNNING] eps_ind for instance 372
+- [RUNNING] igd.py for instance 372
+- [RUNNING] kruskal-wallis for instance 372
+--- [Processing instance: 373]
+- [RUNNING] bound for instance 373
+- [RUNNING] normalize for instance 373
+- [RUNNING] filter for instance 373
+- [RUNNING] hyp_ind for instance 373
+- [RUNNING] eps_ind for instance 373
+- [RUNNING] igd.py for instance 373
+- [RUNNING] kruskal-wallis for instance 373
+--- [Processing instance: 374]
+- [RUNNING] bound for instance 374
+- [RUNNING] normalize for instance 374
+- [RUNNING] filter for instance 374
+- [RUNNING] hyp_ind for instance 374
+- [RUNNING] eps_ind for instance 374
+- [RUNNING] igd.py for instance 374
+- [RUNNING] kruskal-wallis for instance 374
+--- [Processing instance: 375]
+- [RUNNING] bound for instance 375
+- [RUNNING] normalize for instance 375
+- [RUNNING] filter for instance 375
+- [RUNNING] hyp_ind for instance 375
+- [RUNNING] eps_ind for instance 375
+- [RUNNING] igd.py for instance 375
+- [RUNNING] kruskal-wallis for instance 375
+--- [Processing instance: 376]
+- [RUNNING] bound for instance 376
+- [RUNNING] normalize for instance 376
+- [RUNNING] filter for instance 376
+- [RUNNING] hyp_ind for instance 376
+- [RUNNING] eps_ind for instance 376
+- [RUNNING] igd.py for instance 376
+- [RUNNING] kruskal-wallis for instance 376
+--- [Processing instance: 377]
+- [RUNNING] bound for instance 377
+- [RUNNING] normalize for instance 377
+- [RUNNING] filter for instance 377
+- [RUNNING] hyp_ind for instance 377
+- [RUNNING] eps_ind for instance 377
+- [RUNNING] igd.py for instance 377
+- [RUNNING] kruskal-wallis for instance 377
+--- [Processing instance: 378]
+- [RUNNING] bound for instance 378
+- [RUNNING] normalize for instance 378
+- [RUNNING] filter for instance 378
+- [RUNNING] hyp_ind for instance 378
+- [RUNNING] eps_ind for instance 378
+- [RUNNING] igd.py for instance 378
+- [RUNNING] kruskal-wallis for instance 378
+--- [Processing instance: 379]
+- [RUNNING] bound for instance 379
+- [RUNNING] normalize for instance 379
+- [RUNNING] filter for instance 379
+- [RUNNING] hyp_ind for instance 379
+- [RUNNING] eps_ind for instance 379
+- [RUNNING] igd.py for instance 379
+- [RUNNING] kruskal-wallis for instance 379
+--- [Processing instance: 38]
+- [RUNNING] bound for instance 38
+- [RUNNING] normalize for instance 38
+- [RUNNING] filter for instance 38
+- [RUNNING] hyp_ind for instance 38
+- [RUNNING] eps_ind for instance 38
+- [RUNNING] igd.py for instance 38
+- [RUNNING] kruskal-wallis for instance 38
+--- [Processing instance: 380]
+- [RUNNING] bound for instance 380
+- [RUNNING] normalize for instance 380
+- [RUNNING] filter for instance 380
+- [RUNNING] hyp_ind for instance 380
+- [RUNNING] eps_ind for instance 380
+- [RUNNING] igd.py for instance 380
+- [RUNNING] kruskal-wallis for instance 380
+--- [Processing instance: 381]
+- [RUNNING] bound for instance 381
+- [RUNNING] normalize for instance 381
+- [RUNNING] filter for instance 381
+- [RUNNING] hyp_ind for instance 381
+- [RUNNING] eps_ind for instance 381
+- [RUNNING] igd.py for instance 381
+- [RUNNING] kruskal-wallis for instance 381
+--- [Processing instance: 382]
+- [RUNNING] bound for instance 382
+- [RUNNING] normalize for instance 382
+- [RUNNING] filter for instance 382
+- [RUNNING] hyp_ind for instance 382
+- [RUNNING] eps_ind for instance 382
+- [RUNNING] igd.py for instance 382
+- [RUNNING] kruskal-wallis for instance 382
+--- [Processing instance: 383]
+- [RUNNING] bound for instance 383
+- [RUNNING] normalize for instance 383
+- [RUNNING] filter for instance 383
+- [RUNNING] hyp_ind for instance 383
+- [RUNNING] eps_ind for instance 383
+- [RUNNING] igd.py for instance 383
+- [RUNNING] kruskal-wallis for instance 383
+--- [Processing instance: 384]
+- [RUNNING] bound for instance 384
+- [RUNNING] normalize for instance 384
+- [RUNNING] filter for instance 384
+- [RUNNING] hyp_ind for instance 384
+- [RUNNING] eps_ind for instance 384
+- [RUNNING] igd.py for instance 384
+- [RUNNING] kruskal-wallis for instance 384
+--- [Processing instance: 385]
+- [RUNNING] bound for instance 385
+- [RUNNING] normalize for instance 385
+- [RUNNING] filter for instance 385
+- [RUNNING] hyp_ind for instance 385
+- [RUNNING] eps_ind for instance 385
+- [RUNNING] igd.py for instance 385
+- [RUNNING] kruskal-wallis for instance 385
+--- [Processing instance: 386]
+- [RUNNING] bound for instance 386
+- [RUNNING] normalize for instance 386
+- [RUNNING] filter for instance 386
+- [RUNNING] hyp_ind for instance 386
+- [RUNNING] eps_ind for instance 386
+- [RUNNING] igd.py for instance 386
+- [RUNNING] kruskal-wallis for instance 386
+--- [Processing instance: 387]
+- [RUNNING] bound for instance 387
+- [RUNNING] normalize for instance 387
+- [RUNNING] filter for instance 387
+- [RUNNING] hyp_ind for instance 387
+- [RUNNING] eps_ind for instance 387
+- [RUNNING] igd.py for instance 387
+- [RUNNING] kruskal-wallis for instance 387
+--- [Processing instance: 388]
+- [RUNNING] bound for instance 388
+- [RUNNING] normalize for instance 388
+- [RUNNING] filter for instance 388
+- [RUNNING] hyp_ind for instance 388
+- [RUNNING] eps_ind for instance 388
+- [RUNNING] igd.py for instance 388
+- [RUNNING] kruskal-wallis for instance 388
+--- [Processing instance: 389]
+- [RUNNING] bound for instance 389
+- [RUNNING] normalize for instance 389
+- [RUNNING] filter for instance 389
+- [RUNNING] hyp_ind for instance 389
+- [RUNNING] eps_ind for instance 389
+- [RUNNING] igd.py for instance 389
+- [RUNNING] kruskal-wallis for instance 389
+--- [Processing instance: 39]
+- [RUNNING] bound for instance 39
+- [RUNNING] normalize for instance 39
+- [RUNNING] filter for instance 39
+- [RUNNING] hyp_ind for instance 39
+- [RUNNING] eps_ind for instance 39
+- [RUNNING] igd.py for instance 39
+- [RUNNING] kruskal-wallis for instance 39
+--- [Processing instance: 390]
+- [RUNNING] bound for instance 390
+- [RUNNING] normalize for instance 390
+- [RUNNING] filter for instance 390
+- [RUNNING] hyp_ind for instance 390
+- [RUNNING] eps_ind for instance 390
+- [RUNNING] igd.py for instance 390
+- [RUNNING] kruskal-wallis for instance 390
+--- [Processing instance: 391]
+- [RUNNING] bound for instance 391
+- [RUNNING] normalize for instance 391
+- [RUNNING] filter for instance 391
+- [RUNNING] hyp_ind for instance 391
+- [RUNNING] eps_ind for instance 391
+- [RUNNING] igd.py for instance 391
+- [RUNNING] kruskal-wallis for instance 391
+--- [Processing instance: 392]
+- [RUNNING] bound for instance 392
+- [RUNNING] normalize for instance 392
+- [RUNNING] filter for instance 392
+- [RUNNING] hyp_ind for instance 392
+- [RUNNING] eps_ind for instance 392
+- [RUNNING] igd.py for instance 392
+- [RUNNING] kruskal-wallis for instance 392
+--- [Processing instance: 393]
+- [RUNNING] bound for instance 393
+- [RUNNING] normalize for instance 393
+- [RUNNING] filter for instance 393
+- [RUNNING] hyp_ind for instance 393
+- [RUNNING] eps_ind for instance 393
+- [RUNNING] igd.py for instance 393
+- [RUNNING] kruskal-wallis for instance 393
+--- [Processing instance: 394]
+- [RUNNING] bound for instance 394
+- [RUNNING] normalize for instance 394
+- [RUNNING] filter for instance 394
+- [RUNNING] hyp_ind for instance 394
+- [RUNNING] eps_ind for instance 394
+- [RUNNING] igd.py for instance 394
+- [RUNNING] kruskal-wallis for instance 394
+--- [Processing instance: 395]
+- [RUNNING] bound for instance 395
+- [RUNNING] normalize for instance 395
+- [RUNNING] filter for instance 395
+- [RUNNING] hyp_ind for instance 395
+- [RUNNING] eps_ind for instance 395
+- [RUNNING] igd.py for instance 395
+- [RUNNING] kruskal-wallis for instance 395
+--- [Processing instance: 396]
+- [RUNNING] bound for instance 396
+- [RUNNING] normalize for instance 396
+- [RUNNING] filter for instance 396
+- [RUNNING] hyp_ind for instance 396
+- [RUNNING] eps_ind for instance 396
+- [RUNNING] igd.py for instance 396
+- [RUNNING] kruskal-wallis for instance 396
+--- [Processing instance: 397]
+- [RUNNING] bound for instance 397
+- [RUNNING] normalize for instance 397
+- [RUNNING] filter for instance 397
+- [RUNNING] hyp_ind for instance 397
+- [RUNNING] eps_ind for instance 397
+- [RUNNING] igd.py for instance 397
+- [RUNNING] kruskal-wallis for instance 397
+--- [Processing instance: 398]
+- [RUNNING] bound for instance 398
+- [RUNNING] normalize for instance 398
+- [RUNNING] filter for instance 398
+- [RUNNING] hyp_ind for instance 398
+- [RUNNING] eps_ind for instance 398
+- [RUNNING] igd.py for instance 398
+- [RUNNING] kruskal-wallis for instance 398
+--- [Processing instance: 399]
+- [RUNNING] bound for instance 399
+- [RUNNING] normalize for instance 399
+- [RUNNING] filter for instance 399
+- [RUNNING] hyp_ind for instance 399
+- [RUNNING] eps_ind for instance 399
+- [RUNNING] igd.py for instance 399
+- [RUNNING] kruskal-wallis for instance 399
+--- [Processing instance: 4]
+- [RUNNING] bound for instance 4
+- [RUNNING] normalize for instance 4
+- [RUNNING] filter for instance 4
+- [RUNNING] hyp_ind for instance 4
+- [RUNNING] eps_ind for instance 4
+- [RUNNING] igd.py for instance 4
+- [RUNNING] kruskal-wallis for instance 4
+--- [Processing instance: 40]
+- [RUNNING] bound for instance 40
+- [RUNNING] normalize for instance 40
+- [RUNNING] filter for instance 40
+- [RUNNING] hyp_ind for instance 40
+- [RUNNING] eps_ind for instance 40
+- [RUNNING] igd.py for instance 40
+- [RUNNING] kruskal-wallis for instance 40
+--- [Processing instance: 400]
+- [RUNNING] bound for instance 400
+- [RUNNING] normalize for instance 400
+- [RUNNING] filter for instance 400
+- [RUNNING] hyp_ind for instance 400
+- [RUNNING] eps_ind for instance 400
+- [RUNNING] igd.py for instance 400
+- [RUNNING] kruskal-wallis for instance 400
+--- [Processing instance: 401]
+- [RUNNING] bound for instance 401
+- [RUNNING] normalize for instance 401
+- [RUNNING] filter for instance 401
+- [RUNNING] hyp_ind for instance 401
+- [RUNNING] eps_ind for instance 401
+- [RUNNING] igd.py for instance 401
+- [RUNNING] kruskal-wallis for instance 401
+--- [Processing instance: 402]
+- [RUNNING] bound for instance 402
+- [RUNNING] normalize for instance 402
+- [RUNNING] filter for instance 402
+- [RUNNING] hyp_ind for instance 402
+- [RUNNING] eps_ind for instance 402
+- [RUNNING] igd.py for instance 402
+- [RUNNING] kruskal-wallis for instance 402
+--- [Processing instance: 403]
+- [RUNNING] bound for instance 403
+- [RUNNING] normalize for instance 403
+- [RUNNING] filter for instance 403
+- [RUNNING] hyp_ind for instance 403
+- [RUNNING] eps_ind for instance 403
+- [RUNNING] igd.py for instance 403
+- [RUNNING] kruskal-wallis for instance 403
+--- [Processing instance: 404]
+- [RUNNING] bound for instance 404
+- [RUNNING] normalize for instance 404
+- [RUNNING] filter for instance 404
+- [RUNNING] hyp_ind for instance 404
+- [RUNNING] eps_ind for instance 404
+- [RUNNING] igd.py for instance 404
+- [RUNNING] kruskal-wallis for instance 404
+--- [Processing instance: 405]
+- [RUNNING] bound for instance 405
+- [RUNNING] normalize for instance 405
+- [RUNNING] filter for instance 405
+- [RUNNING] hyp_ind for instance 405
+- [RUNNING] eps_ind for instance 405
+- [RUNNING] igd.py for instance 405
+- [RUNNING] kruskal-wallis for instance 405
+--- [Processing instance: 406]
+- [RUNNING] bound for instance 406
+- [RUNNING] normalize for instance 406
+- [RUNNING] filter for instance 406
+- [RUNNING] hyp_ind for instance 406
+- [RUNNING] eps_ind for instance 406
+- [RUNNING] igd.py for instance 406
+- [RUNNING] kruskal-wallis for instance 406
+--- [Processing instance: 407]
+- [RUNNING] bound for instance 407
+- [RUNNING] normalize for instance 407
+- [RUNNING] filter for instance 407
+- [RUNNING] hyp_ind for instance 407
+- [RUNNING] eps_ind for instance 407
+- [RUNNING] igd.py for instance 407
+- [RUNNING] kruskal-wallis for instance 407
+--- [Processing instance: 408]
+- [RUNNING] bound for instance 408
+- [RUNNING] normalize for instance 408
+- [RUNNING] filter for instance 408
+- [RUNNING] hyp_ind for instance 408
+- [RUNNING] eps_ind for instance 408
+- [RUNNING] igd.py for instance 408
+- [RUNNING] kruskal-wallis for instance 408
+--- [Processing instance: 409]
+- [RUNNING] bound for instance 409
+- [RUNNING] normalize for instance 409
+- [RUNNING] filter for instance 409
+- [RUNNING] hyp_ind for instance 409
+- [RUNNING] eps_ind for instance 409
+- [RUNNING] igd.py for instance 409
+- [RUNNING] kruskal-wallis for instance 409
+--- [Processing instance: 41]
+- [RUNNING] bound for instance 41
+- [RUNNING] normalize for instance 41
+- [RUNNING] filter for instance 41
+- [RUNNING] hyp_ind for instance 41
+- [RUNNING] eps_ind for instance 41
+- [RUNNING] igd.py for instance 41
+- [RUNNING] kruskal-wallis for instance 41
+--- [Processing instance: 410]
+- [RUNNING] bound for instance 410
+- [RUNNING] normalize for instance 410
+- [RUNNING] filter for instance 410
+- [RUNNING] hyp_ind for instance 410
+- [RUNNING] eps_ind for instance 410
+- [RUNNING] igd.py for instance 410
+- [RUNNING] kruskal-wallis for instance 410
+--- [Processing instance: 411]
+- [RUNNING] bound for instance 411
+- [RUNNING] normalize for instance 411
+- [RUNNING] filter for instance 411
+- [RUNNING] hyp_ind for instance 411
+- [RUNNING] eps_ind for instance 411
+- [RUNNING] igd.py for instance 411
+- [RUNNING] kruskal-wallis for instance 411
+--- [Processing instance: 412]
+- [RUNNING] bound for instance 412
+- [RUNNING] normalize for instance 412
+- [RUNNING] filter for instance 412
+- [RUNNING] hyp_ind for instance 412
+- [RUNNING] eps_ind for instance 412
+- [RUNNING] igd.py for instance 412
+- [RUNNING] kruskal-wallis for instance 412
+--- [Processing instance: 413]
+- [RUNNING] bound for instance 413
+- [RUNNING] normalize for instance 413
+- [RUNNING] filter for instance 413
+- [RUNNING] hyp_ind for instance 413
+- [RUNNING] eps_ind for instance 413
+- [RUNNING] igd.py for instance 413
+- [RUNNING] kruskal-wallis for instance 413
+--- [Processing instance: 414]
+- [RUNNING] bound for instance 414
+- [RUNNING] normalize for instance 414
+- [RUNNING] filter for instance 414
+- [RUNNING] hyp_ind for instance 414
+- [RUNNING] eps_ind for instance 414
+- [RUNNING] igd.py for instance 414
+- [RUNNING] kruskal-wallis for instance 414
+--- [Processing instance: 415]
+- [RUNNING] bound for instance 415
+- [RUNNING] normalize for instance 415
+- [RUNNING] filter for instance 415
+- [RUNNING] hyp_ind for instance 415
+- [RUNNING] eps_ind for instance 415
+- [RUNNING] igd.py for instance 415
+- [RUNNING] kruskal-wallis for instance 415
+--- [Processing instance: 416]
+- [RUNNING] bound for instance 416
+- [RUNNING] normalize for instance 416
+- [RUNNING] filter for instance 416
+- [RUNNING] hyp_ind for instance 416
+- [RUNNING] eps_ind for instance 416
+- [RUNNING] igd.py for instance 416
+- [RUNNING] kruskal-wallis for instance 416
+--- [Processing instance: 417]
+- [RUNNING] bound for instance 417
+- [RUNNING] normalize for instance 417
+- [RUNNING] filter for instance 417
+- [RUNNING] hyp_ind for instance 417
+- [RUNNING] eps_ind for instance 417
+- [RUNNING] igd.py for instance 417
+- [RUNNING] kruskal-wallis for instance 417
+--- [Processing instance: 418]
+- [RUNNING] bound for instance 418
+- [RUNNING] normalize for instance 418
+- [RUNNING] filter for instance 418
+- [RUNNING] hyp_ind for instance 418
+- [RUNNING] eps_ind for instance 418
+- [RUNNING] igd.py for instance 418
+- [RUNNING] kruskal-wallis for instance 418
+--- [Processing instance: 419]
+- [RUNNING] bound for instance 419
+- [RUNNING] normalize for instance 419
+- [RUNNING] filter for instance 419
+- [RUNNING] hyp_ind for instance 419
+- [RUNNING] eps_ind for instance 419
+- [RUNNING] igd.py for instance 419
+- [RUNNING] kruskal-wallis for instance 419
+--- [Processing instance: 42]
+- [RUNNING] bound for instance 42
+- [RUNNING] normalize for instance 42
+- [RUNNING] filter for instance 42
+- [RUNNING] hyp_ind for instance 42
+- [RUNNING] eps_ind for instance 42
+- [RUNNING] igd.py for instance 42
+- [RUNNING] kruskal-wallis for instance 42
+--- [Processing instance: 420]
+- [RUNNING] bound for instance 420
+- [RUNNING] normalize for instance 420
+- [RUNNING] filter for instance 420
+- [RUNNING] hyp_ind for instance 420
+- [RUNNING] eps_ind for instance 420
+- [RUNNING] igd.py for instance 420
+- [RUNNING] kruskal-wallis for instance 420
+--- [Processing instance: 421]
+- [RUNNING] bound for instance 421
+- [RUNNING] normalize for instance 421
+- [RUNNING] filter for instance 421
+- [RUNNING] hyp_ind for instance 421
+- [RUNNING] eps_ind for instance 421
+- [RUNNING] igd.py for instance 421
+- [RUNNING] kruskal-wallis for instance 421
+--- [Processing instance: 422]
+- [RUNNING] bound for instance 422
+- [RUNNING] normalize for instance 422
+- [RUNNING] filter for instance 422
+- [RUNNING] hyp_ind for instance 422
+- [RUNNING] eps_ind for instance 422
+- [RUNNING] igd.py for instance 422
+- [RUNNING] kruskal-wallis for instance 422
+--- [Processing instance: 423]
+- [RUNNING] bound for instance 423
+- [RUNNING] normalize for instance 423
+- [RUNNING] filter for instance 423
+- [RUNNING] hyp_ind for instance 423
+- [RUNNING] eps_ind for instance 423
+- [RUNNING] igd.py for instance 423
+- [RUNNING] kruskal-wallis for instance 423
+--- [Processing instance: 424]
+- [RUNNING] bound for instance 424
+- [RUNNING] normalize for instance 424
+- [RUNNING] filter for instance 424
+- [RUNNING] hyp_ind for instance 424
+- [RUNNING] eps_ind for instance 424
+- [RUNNING] igd.py for instance 424
+- [RUNNING] kruskal-wallis for instance 424
+--- [Processing instance: 425]
+- [RUNNING] bound for instance 425
+- [RUNNING] normalize for instance 425
+- [RUNNING] filter for instance 425
+- [RUNNING] hyp_ind for instance 425
+- [RUNNING] eps_ind for instance 425
+- [RUNNING] igd.py for instance 425
+- [RUNNING] kruskal-wallis for instance 425
+--- [Processing instance: 426]
+- [RUNNING] bound for instance 426
+- [RUNNING] normalize for instance 426
+- [RUNNING] filter for instance 426
+- [RUNNING] hyp_ind for instance 426
+- [RUNNING] eps_ind for instance 426
+- [RUNNING] igd.py for instance 426
+- [RUNNING] kruskal-wallis for instance 426
+--- [Processing instance: 427]
+- [RUNNING] bound for instance 427
+- [RUNNING] normalize for instance 427
+- [RUNNING] filter for instance 427
+- [RUNNING] hyp_ind for instance 427
+- [RUNNING] eps_ind for instance 427
+- [RUNNING] igd.py for instance 427
+- [RUNNING] kruskal-wallis for instance 427
+--- [Processing instance: 428]
+- [RUNNING] bound for instance 428
+- [RUNNING] normalize for instance 428
+- [RUNNING] filter for instance 428
+- [RUNNING] hyp_ind for instance 428
+- [RUNNING] eps_ind for instance 428
+- [RUNNING] igd.py for instance 428
+- [RUNNING] kruskal-wallis for instance 428
+--- [Processing instance: 429]
+- [RUNNING] bound for instance 429
+- [RUNNING] normalize for instance 429
+- [RUNNING] filter for instance 429
+- [RUNNING] hyp_ind for instance 429
+- [RUNNING] eps_ind for instance 429
+- [RUNNING] igd.py for instance 429
+- [RUNNING] kruskal-wallis for instance 429
+--- [Processing instance: 43]
+- [RUNNING] bound for instance 43
+- [RUNNING] normalize for instance 43
+- [RUNNING] filter for instance 43
+- [RUNNING] hyp_ind for instance 43
+- [RUNNING] eps_ind for instance 43
+- [RUNNING] igd.py for instance 43
+- [RUNNING] kruskal-wallis for instance 43
+--- [Processing instance: 430]
+- [RUNNING] bound for instance 430
+- [RUNNING] normalize for instance 430
+- [RUNNING] filter for instance 430
+- [RUNNING] hyp_ind for instance 430
+- [RUNNING] eps_ind for instance 430
+- [RUNNING] igd.py for instance 430
+- [RUNNING] kruskal-wallis for instance 430
+--- [Processing instance: 431]
+- [RUNNING] bound for instance 431
+- [RUNNING] normalize for instance 431
+- [RUNNING] filter for instance 431
+- [RUNNING] hyp_ind for instance 431
+- [RUNNING] eps_ind for instance 431
+- [RUNNING] igd.py for instance 431
+- [RUNNING] kruskal-wallis for instance 431
+--- [Processing instance: 432]
+- [RUNNING] bound for instance 432
+- [RUNNING] normalize for instance 432
+- [RUNNING] filter for instance 432
+- [RUNNING] hyp_ind for instance 432
+- [RUNNING] eps_ind for instance 432
+- [RUNNING] igd.py for instance 432
+- [RUNNING] kruskal-wallis for instance 432
+--- [Processing instance: 433]
+- [RUNNING] bound for instance 433
+- [RUNNING] normalize for instance 433
+- [RUNNING] filter for instance 433
+- [RUNNING] hyp_ind for instance 433
+- [RUNNING] eps_ind for instance 433
+- [RUNNING] igd.py for instance 433
+- [RUNNING] kruskal-wallis for instance 433
+--- [Processing instance: 434]
+- [RUNNING] bound for instance 434
+- [RUNNING] normalize for instance 434
+- [RUNNING] filter for instance 434
+- [RUNNING] hyp_ind for instance 434
+- [RUNNING] eps_ind for instance 434
+- [RUNNING] igd.py for instance 434
+- [RUNNING] kruskal-wallis for instance 434
+--- [Processing instance: 435]
+- [RUNNING] bound for instance 435
+- [RUNNING] normalize for instance 435
+- [RUNNING] filter for instance 435
+- [RUNNING] hyp_ind for instance 435
+- [RUNNING] eps_ind for instance 435
+- [RUNNING] igd.py for instance 435
+- [RUNNING] kruskal-wallis for instance 435
+--- [Processing instance: 436]
+- [RUNNING] bound for instance 436
+- [RUNNING] normalize for instance 436
+- [RUNNING] filter for instance 436
+- [RUNNING] hyp_ind for instance 436
+- [RUNNING] eps_ind for instance 436
+- [RUNNING] igd.py for instance 436
+- [RUNNING] kruskal-wallis for instance 436
+--- [Processing instance: 437]
+- [RUNNING] bound for instance 437
+- [RUNNING] normalize for instance 437
+- [RUNNING] filter for instance 437
+- [RUNNING] hyp_ind for instance 437
+- [RUNNING] eps_ind for instance 437
+- [RUNNING] igd.py for instance 437
+- [RUNNING] kruskal-wallis for instance 437
+--- [Processing instance: 438]
+- [RUNNING] bound for instance 438
+- [RUNNING] normalize for instance 438
+- [RUNNING] filter for instance 438
+- [RUNNING] hyp_ind for instance 438
+- [RUNNING] eps_ind for instance 438
+- [RUNNING] igd.py for instance 438
+- [RUNNING] kruskal-wallis for instance 438
+--- [Processing instance: 439]
+- [RUNNING] bound for instance 439
+- [RUNNING] normalize for instance 439
+- [RUNNING] filter for instance 439
+- [RUNNING] hyp_ind for instance 439
+- [RUNNING] eps_ind for instance 439
+- [RUNNING] igd.py for instance 439
+- [RUNNING] kruskal-wallis for instance 439
+--- [Processing instance: 44]
+- [RUNNING] bound for instance 44
+- [RUNNING] normalize for instance 44
+- [RUNNING] filter for instance 44
+- [RUNNING] hyp_ind for instance 44
+- [RUNNING] eps_ind for instance 44
+- [RUNNING] igd.py for instance 44
+- [RUNNING] kruskal-wallis for instance 44
+--- [Processing instance: 440]
+- [RUNNING] bound for instance 440
+- [RUNNING] normalize for instance 440
+- [RUNNING] filter for instance 440
+- [RUNNING] hyp_ind for instance 440
+- [RUNNING] eps_ind for instance 440
+- [RUNNING] igd.py for instance 440
+- [RUNNING] kruskal-wallis for instance 440
+--- [Processing instance: 441]
+- [RUNNING] bound for instance 441
+- [RUNNING] normalize for instance 441
+- [RUNNING] filter for instance 441
+- [RUNNING] hyp_ind for instance 441
+- [RUNNING] eps_ind for instance 441
+- [RUNNING] igd.py for instance 441
+- [RUNNING] kruskal-wallis for instance 441
+--- [Processing instance: 442]
+- [RUNNING] bound for instance 442
+- [RUNNING] normalize for instance 442
+- [RUNNING] filter for instance 442
+- [RUNNING] hyp_ind for instance 442
+- [RUNNING] eps_ind for instance 442
+- [RUNNING] igd.py for instance 442
+- [RUNNING] kruskal-wallis for instance 442
+--- [Processing instance: 443]
+- [RUNNING] bound for instance 443
+- [RUNNING] normalize for instance 443
+- [RUNNING] filter for instance 443
+- [RUNNING] hyp_ind for instance 443
+- [RUNNING] eps_ind for instance 443
+- [RUNNING] igd.py for instance 443
+- [RUNNING] kruskal-wallis for instance 443
+--- [Processing instance: 444]
+- [RUNNING] bound for instance 444
+- [RUNNING] normalize for instance 444
+- [RUNNING] filter for instance 444
+- [RUNNING] hyp_ind for instance 444
+- [RUNNING] eps_ind for instance 444
+- [RUNNING] igd.py for instance 444
+- [RUNNING] kruskal-wallis for instance 444
+--- [Processing instance: 445]
+- [RUNNING] bound for instance 445
+- [RUNNING] normalize for instance 445
+- [RUNNING] filter for instance 445
+- [RUNNING] hyp_ind for instance 445
+- [RUNNING] eps_ind for instance 445
+- [RUNNING] igd.py for instance 445
+- [RUNNING] kruskal-wallis for instance 445
+--- [Processing instance: 446]
+- [RUNNING] bound for instance 446
+- [RUNNING] normalize for instance 446
+- [RUNNING] filter for instance 446
+- [RUNNING] hyp_ind for instance 446
+- [RUNNING] eps_ind for instance 446
+- [RUNNING] igd.py for instance 446
+- [RUNNING] kruskal-wallis for instance 446
+--- [Processing instance: 447]
+- [RUNNING] bound for instance 447
+- [RUNNING] normalize for instance 447
+- [RUNNING] filter for instance 447
+- [RUNNING] hyp_ind for instance 447
+- [RUNNING] eps_ind for instance 447
+- [RUNNING] igd.py for instance 447
+- [RUNNING] kruskal-wallis for instance 447
+--- [Processing instance: 448]
+- [RUNNING] bound for instance 448
+- [RUNNING] normalize for instance 448
+- [RUNNING] filter for instance 448
+- [RUNNING] hyp_ind for instance 448
+- [RUNNING] eps_ind for instance 448
+- [RUNNING] igd.py for instance 448
+- [RUNNING] kruskal-wallis for instance 448
+--- [Processing instance: 449]
+- [RUNNING] bound for instance 449
+- [RUNNING] normalize for instance 449
+- [RUNNING] filter for instance 449
+- [RUNNING] hyp_ind for instance 449
+- [RUNNING] eps_ind for instance 449
+- [RUNNING] igd.py for instance 449
+- [RUNNING] kruskal-wallis for instance 449
+--- [Processing instance: 45]
+- [RUNNING] bound for instance 45
+- [RUNNING] normalize for instance 45
+- [RUNNING] filter for instance 45
+- [RUNNING] hyp_ind for instance 45
+- [RUNNING] eps_ind for instance 45
+- [RUNNING] igd.py for instance 45
+- [RUNNING] kruskal-wallis for instance 45
+--- [Processing instance: 450]
+- [RUNNING] bound for instance 450
+- [RUNNING] normalize for instance 450
+- [RUNNING] filter for instance 450
+- [RUNNING] hyp_ind for instance 450
+- [RUNNING] eps_ind for instance 450
+- [RUNNING] igd.py for instance 450
+- [RUNNING] kruskal-wallis for instance 450
+--- [Processing instance: 451]
+- [RUNNING] bound for instance 451
+- [RUNNING] normalize for instance 451
+- [RUNNING] filter for instance 451
+- [RUNNING] hyp_ind for instance 451
+- [RUNNING] eps_ind for instance 451
+- [RUNNING] igd.py for instance 451
+- [RUNNING] kruskal-wallis for instance 451
+--- [Processing instance: 452]
+- [RUNNING] bound for instance 452
+- [RUNNING] normalize for instance 452
+- [RUNNING] filter for instance 452
+- [RUNNING] hyp_ind for instance 452
+- [RUNNING] eps_ind for instance 452
+- [RUNNING] igd.py for instance 452
+- [RUNNING] kruskal-wallis for instance 452
+--- [Processing instance: 453]
+- [RUNNING] bound for instance 453
+- [RUNNING] normalize for instance 453
+- [RUNNING] filter for instance 453
+- [RUNNING] hyp_ind for instance 453
+- [RUNNING] eps_ind for instance 453
+- [RUNNING] igd.py for instance 453
+- [RUNNING] kruskal-wallis for instance 453
+--- [Processing instance: 454]
+- [RUNNING] bound for instance 454
+- [RUNNING] normalize for instance 454
+- [RUNNING] filter for instance 454
+- [RUNNING] hyp_ind for instance 454
+- [RUNNING] eps_ind for instance 454
+- [RUNNING] igd.py for instance 454
+- [RUNNING] kruskal-wallis for instance 454
+--- [Processing instance: 455]
+- [RUNNING] bound for instance 455
+- [RUNNING] normalize for instance 455
+- [RUNNING] filter for instance 455
+- [RUNNING] hyp_ind for instance 455
+- [RUNNING] eps_ind for instance 455
+- [RUNNING] igd.py for instance 455
+- [RUNNING] kruskal-wallis for instance 455
+--- [Processing instance: 456]
+- [RUNNING] bound for instance 456
+- [RUNNING] normalize for instance 456
+- [RUNNING] filter for instance 456
+- [RUNNING] hyp_ind for instance 456
+- [RUNNING] eps_ind for instance 456
+- [RUNNING] igd.py for instance 456
+- [RUNNING] kruskal-wallis for instance 456
+--- [Processing instance: 457]
+- [RUNNING] bound for instance 457
+- [RUNNING] normalize for instance 457
+- [RUNNING] filter for instance 457
+- [RUNNING] hyp_ind for instance 457
+- [RUNNING] eps_ind for instance 457
+- [RUNNING] igd.py for instance 457
+- [RUNNING] kruskal-wallis for instance 457
+--- [Processing instance: 458]
+- [RUNNING] bound for instance 458
+- [RUNNING] normalize for instance 458
+- [RUNNING] filter for instance 458
+- [RUNNING] hyp_ind for instance 458
+- [RUNNING] eps_ind for instance 458
+- [RUNNING] igd.py for instance 458
+- [RUNNING] kruskal-wallis for instance 458
+--- [Processing instance: 459]
+- [RUNNING] bound for instance 459
+- [RUNNING] normalize for instance 459
+- [RUNNING] filter for instance 459
+- [RUNNING] hyp_ind for instance 459
+- [RUNNING] eps_ind for instance 459
+- [RUNNING] igd.py for instance 459
+- [RUNNING] kruskal-wallis for instance 459
+--- [Processing instance: 46]
+- [RUNNING] bound for instance 46
+- [RUNNING] normalize for instance 46
+- [RUNNING] filter for instance 46
+- [RUNNING] hyp_ind for instance 46
+- [RUNNING] eps_ind for instance 46
+- [RUNNING] igd.py for instance 46
+- [RUNNING] kruskal-wallis for instance 46
+--- [Processing instance: 460]
+- [RUNNING] bound for instance 460
+- [RUNNING] normalize for instance 460
+- [RUNNING] filter for instance 460
+- [RUNNING] hyp_ind for instance 460
+- [RUNNING] eps_ind for instance 460
+- [RUNNING] igd.py for instance 460
+- [RUNNING] kruskal-wallis for instance 460
+--- [Processing instance: 461]
+- [RUNNING] bound for instance 461
+- [RUNNING] normalize for instance 461
+- [RUNNING] filter for instance 461
+- [RUNNING] hyp_ind for instance 461
+- [RUNNING] eps_ind for instance 461
+- [RUNNING] igd.py for instance 461
+- [RUNNING] kruskal-wallis for instance 461
+--- [Processing instance: 462]
+- [RUNNING] bound for instance 462
+- [RUNNING] normalize for instance 462
+- [RUNNING] filter for instance 462
+- [RUNNING] hyp_ind for instance 462
+- [RUNNING] eps_ind for instance 462
+- [RUNNING] igd.py for instance 462
+- [RUNNING] kruskal-wallis for instance 462
+--- [Processing instance: 463]
+- [RUNNING] bound for instance 463
+- [RUNNING] normalize for instance 463
+- [RUNNING] filter for instance 463
+- [RUNNING] hyp_ind for instance 463
+- [RUNNING] eps_ind for instance 463
+- [RUNNING] igd.py for instance 463
+- [RUNNING] kruskal-wallis for instance 463
+--- [Processing instance: 464]
+- [RUNNING] bound for instance 464
+- [RUNNING] normalize for instance 464
+- [RUNNING] filter for instance 464
+- [RUNNING] hyp_ind for instance 464
+- [RUNNING] eps_ind for instance 464
+- [RUNNING] igd.py for instance 464
+- [RUNNING] kruskal-wallis for instance 464
+--- [Processing instance: 465]
+- [RUNNING] bound for instance 465
+- [RUNNING] normalize for instance 465
+- [RUNNING] filter for instance 465
+- [RUNNING] hyp_ind for instance 465
+- [RUNNING] eps_ind for instance 465
+- [RUNNING] igd.py for instance 465
+- [RUNNING] kruskal-wallis for instance 465
+--- [Processing instance: 466]
+- [RUNNING] bound for instance 466
+- [RUNNING] normalize for instance 466
+- [RUNNING] filter for instance 466
+- [RUNNING] hyp_ind for instance 466
+- [RUNNING] eps_ind for instance 466
+- [RUNNING] igd.py for instance 466
+- [RUNNING] kruskal-wallis for instance 466
+--- [Processing instance: 467]
+- [RUNNING] bound for instance 467
+- [RUNNING] normalize for instance 467
+- [RUNNING] filter for instance 467
+- [RUNNING] hyp_ind for instance 467
+- [RUNNING] eps_ind for instance 467
+- [RUNNING] igd.py for instance 467
+- [RUNNING] kruskal-wallis for instance 467
+--- [Processing instance: 468]
+- [RUNNING] bound for instance 468
+- [RUNNING] normalize for instance 468
+- [RUNNING] filter for instance 468
+- [RUNNING] hyp_ind for instance 468
+- [RUNNING] eps_ind for instance 468
+- [RUNNING] igd.py for instance 468
+- [RUNNING] kruskal-wallis for instance 468
+--- [Processing instance: 469]
+- [RUNNING] bound for instance 469
+- [RUNNING] normalize for instance 469
+- [RUNNING] filter for instance 469
+- [RUNNING] hyp_ind for instance 469
+- [RUNNING] eps_ind for instance 469
+- [RUNNING] igd.py for instance 469
+- [RUNNING] kruskal-wallis for instance 469
+--- [Processing instance: 47]
+- [RUNNING] bound for instance 47
+- [RUNNING] normalize for instance 47
+- [RUNNING] filter for instance 47
+- [RUNNING] hyp_ind for instance 47
+- [RUNNING] eps_ind for instance 47
+- [RUNNING] igd.py for instance 47
+- [RUNNING] kruskal-wallis for instance 47
+--- [Processing instance: 470]
+- [RUNNING] bound for instance 470
+- [RUNNING] normalize for instance 470
+- [RUNNING] filter for instance 470
+- [RUNNING] hyp_ind for instance 470
+- [RUNNING] eps_ind for instance 470
+- [RUNNING] igd.py for instance 470
+- [RUNNING] kruskal-wallis for instance 470
+--- [Processing instance: 471]
+- [RUNNING] bound for instance 471
+- [RUNNING] normalize for instance 471
+- [RUNNING] filter for instance 471
+- [RUNNING] hyp_ind for instance 471
+- [RUNNING] eps_ind for instance 471
+- [RUNNING] igd.py for instance 471
+- [RUNNING] kruskal-wallis for instance 471
+--- [Processing instance: 472]
+- [RUNNING] bound for instance 472
+- [RUNNING] normalize for instance 472
+- [RUNNING] filter for instance 472
+- [RUNNING] hyp_ind for instance 472
+- [RUNNING] eps_ind for instance 472
+- [RUNNING] igd.py for instance 472
+- [RUNNING] kruskal-wallis for instance 472
+--- [Processing instance: 473]
+- [RUNNING] bound for instance 473
+- [RUNNING] normalize for instance 473
+- [RUNNING] filter for instance 473
+- [RUNNING] hyp_ind for instance 473
+- [RUNNING] eps_ind for instance 473
+- [RUNNING] igd.py for instance 473
+- [RUNNING] kruskal-wallis for instance 473
+--- [Processing instance: 474]
+- [RUNNING] bound for instance 474
+- [RUNNING] normalize for instance 474
+- [RUNNING] filter for instance 474
+- [RUNNING] hyp_ind for instance 474
+- [RUNNING] eps_ind for instance 474
+- [RUNNING] igd.py for instance 474
+- [RUNNING] kruskal-wallis for instance 474
+--- [Processing instance: 475]
+- [RUNNING] bound for instance 475
+- [RUNNING] normalize for instance 475
+- [RUNNING] filter for instance 475
+- [RUNNING] hyp_ind for instance 475
+- [RUNNING] eps_ind for instance 475
+- [RUNNING] igd.py for instance 475
+- [RUNNING] kruskal-wallis for instance 475
+--- [Processing instance: 476]
+- [RUNNING] bound for instance 476
+- [RUNNING] normalize for instance 476
+- [RUNNING] filter for instance 476
+- [RUNNING] hyp_ind for instance 476
+- [RUNNING] eps_ind for instance 476
+- [RUNNING] igd.py for instance 476
+- [RUNNING] kruskal-wallis for instance 476
+--- [Processing instance: 477]
+- [RUNNING] bound for instance 477
+- [RUNNING] normalize for instance 477
+- [RUNNING] filter for instance 477
+- [RUNNING] hyp_ind for instance 477
+- [RUNNING] eps_ind for instance 477
+- [RUNNING] igd.py for instance 477
+- [RUNNING] kruskal-wallis for instance 477
+--- [Processing instance: 478]
+- [RUNNING] bound for instance 478
+- [RUNNING] normalize for instance 478
+- [RUNNING] filter for instance 478
+- [RUNNING] hyp_ind for instance 478
+- [RUNNING] eps_ind for instance 478
+- [RUNNING] igd.py for instance 478
+- [RUNNING] kruskal-wallis for instance 478
+--- [Processing instance: 479]
+- [RUNNING] bound for instance 479
+- [RUNNING] normalize for instance 479
+- [RUNNING] filter for instance 479
+- [RUNNING] hyp_ind for instance 479
+- [RUNNING] eps_ind for instance 479
+- [RUNNING] igd.py for instance 479
+- [RUNNING] kruskal-wallis for instance 479
+--- [Processing instance: 48]
+- [RUNNING] bound for instance 48
+- [RUNNING] normalize for instance 48
+- [RUNNING] filter for instance 48
+- [RUNNING] hyp_ind for instance 48
+- [RUNNING] eps_ind for instance 48
+- [RUNNING] igd.py for instance 48
+- [RUNNING] kruskal-wallis for instance 48
+--- [Processing instance: 480]
+- [RUNNING] bound for instance 480
+- [RUNNING] normalize for instance 480
+- [RUNNING] filter for instance 480
+- [RUNNING] hyp_ind for instance 480
+- [RUNNING] eps_ind for instance 480
+- [RUNNING] igd.py for instance 480
+- [RUNNING] kruskal-wallis for instance 480
+--- [Processing instance: 481]
+- [RUNNING] bound for instance 481
+- [RUNNING] normalize for instance 481
+- [RUNNING] filter for instance 481
+- [RUNNING] hyp_ind for instance 481
+- [RUNNING] eps_ind for instance 481
+- [RUNNING] igd.py for instance 481
+- [RUNNING] kruskal-wallis for instance 481
+--- [Processing instance: 482]
+- [RUNNING] bound for instance 482
+- [RUNNING] normalize for instance 482
+- [RUNNING] filter for instance 482
+- [RUNNING] hyp_ind for instance 482
+- [RUNNING] eps_ind for instance 482
+- [RUNNING] igd.py for instance 482
+- [RUNNING] kruskal-wallis for instance 482
+--- [Processing instance: 483]
+- [RUNNING] bound for instance 483
+- [RUNNING] normalize for instance 483
+- [RUNNING] filter for instance 483
+- [RUNNING] hyp_ind for instance 483
+- [RUNNING] eps_ind for instance 483
+- [RUNNING] igd.py for instance 483
+- [RUNNING] kruskal-wallis for instance 483
+--- [Processing instance: 484]
+- [RUNNING] bound for instance 484
+- [RUNNING] normalize for instance 484
+- [RUNNING] filter for instance 484
+- [RUNNING] hyp_ind for instance 484
+- [RUNNING] eps_ind for instance 484
+- [RUNNING] igd.py for instance 484
+- [RUNNING] kruskal-wallis for instance 484
+--- [Processing instance: 485]
+- [RUNNING] bound for instance 485
+- [RUNNING] normalize for instance 485
+- [RUNNING] filter for instance 485
+- [RUNNING] hyp_ind for instance 485
+- [RUNNING] eps_ind for instance 485
+- [RUNNING] igd.py for instance 485
+- [RUNNING] kruskal-wallis for instance 485
+--- [Processing instance: 486]
+- [RUNNING] bound for instance 486
+- [RUNNING] normalize for instance 486
+- [RUNNING] filter for instance 486
+- [RUNNING] hyp_ind for instance 486
+- [RUNNING] eps_ind for instance 486
+- [RUNNING] igd.py for instance 486
+- [RUNNING] kruskal-wallis for instance 486
+--- [Processing instance: 487]
+- [RUNNING] bound for instance 487
+- [RUNNING] normalize for instance 487
+- [RUNNING] filter for instance 487
+- [RUNNING] hyp_ind for instance 487
+- [RUNNING] eps_ind for instance 487
+- [RUNNING] igd.py for instance 487
+- [RUNNING] kruskal-wallis for instance 487
+--- [Processing instance: 488]
+- [RUNNING] bound for instance 488
+- [RUNNING] normalize for instance 488
+- [RUNNING] filter for instance 488
+- [RUNNING] hyp_ind for instance 488
+- [RUNNING] eps_ind for instance 488
+- [RUNNING] igd.py for instance 488
+- [RUNNING] kruskal-wallis for instance 488
+--- [Processing instance: 489]
+- [RUNNING] bound for instance 489
+- [RUNNING] normalize for instance 489
+- [RUNNING] filter for instance 489
+- [RUNNING] hyp_ind for instance 489
+- [RUNNING] eps_ind for instance 489
+- [RUNNING] igd.py for instance 489
+- [RUNNING] kruskal-wallis for instance 489
+--- [Processing instance: 49]
+- [RUNNING] bound for instance 49
+- [RUNNING] normalize for instance 49
+- [RUNNING] filter for instance 49
+- [RUNNING] hyp_ind for instance 49
+- [RUNNING] eps_ind for instance 49
+- [RUNNING] igd.py for instance 49
+- [RUNNING] kruskal-wallis for instance 49
+--- [Processing instance: 490]
+- [RUNNING] bound for instance 490
+- [RUNNING] normalize for instance 490
+- [RUNNING] filter for instance 490
+- [RUNNING] hyp_ind for instance 490
+- [RUNNING] eps_ind for instance 490
+- [RUNNING] igd.py for instance 490
+- [RUNNING] kruskal-wallis for instance 490
+--- [Processing instance: 491]
+- [RUNNING] bound for instance 491
+- [RUNNING] normalize for instance 491
+- [RUNNING] filter for instance 491
+- [RUNNING] hyp_ind for instance 491
+- [RUNNING] eps_ind for instance 491
+- [RUNNING] igd.py for instance 491
+- [RUNNING] kruskal-wallis for instance 491
+--- [Processing instance: 492]
+- [RUNNING] bound for instance 492
+- [RUNNING] normalize for instance 492
+- [RUNNING] filter for instance 492
+- [RUNNING] hyp_ind for instance 492
+- [RUNNING] eps_ind for instance 492
+- [RUNNING] igd.py for instance 492
+- [RUNNING] kruskal-wallis for instance 492
+--- [Processing instance: 493]
+- [RUNNING] bound for instance 493
+- [RUNNING] normalize for instance 493
+- [RUNNING] filter for instance 493
+- [RUNNING] hyp_ind for instance 493
+- [RUNNING] eps_ind for instance 493
+- [RUNNING] igd.py for instance 493
+- [RUNNING] kruskal-wallis for instance 493
+--- [Processing instance: 494]
+- [RUNNING] bound for instance 494
+- [RUNNING] normalize for instance 494
+- [RUNNING] filter for instance 494
+- [RUNNING] hyp_ind for instance 494
+- [RUNNING] eps_ind for instance 494
+- [RUNNING] igd.py for instance 494
+- [RUNNING] kruskal-wallis for instance 494
+--- [Processing instance: 495]
+- [RUNNING] bound for instance 495
+- [RUNNING] normalize for instance 495
+- [RUNNING] filter for instance 495
+- [RUNNING] hyp_ind for instance 495
+- [RUNNING] eps_ind for instance 495
+- [RUNNING] igd.py for instance 495
+- [RUNNING] kruskal-wallis for instance 495
+--- [Processing instance: 496]
+- [RUNNING] bound for instance 496
+- [RUNNING] normalize for instance 496
+- [RUNNING] filter for instance 496
+- [RUNNING] hyp_ind for instance 496
+- [RUNNING] eps_ind for instance 496
+- [RUNNING] igd.py for instance 496
+- [RUNNING] kruskal-wallis for instance 496
+--- [Processing instance: 497]
+- [RUNNING] bound for instance 497
+- [RUNNING] normalize for instance 497
+- [RUNNING] filter for instance 497
+- [RUNNING] hyp_ind for instance 497
+- [RUNNING] eps_ind for instance 497
+- [RUNNING] igd.py for instance 497
+- [RUNNING] kruskal-wallis for instance 497
+--- [Processing instance: 498]
+- [RUNNING] bound for instance 498
+- [RUNNING] normalize for instance 498
+- [RUNNING] filter for instance 498
+- [RUNNING] hyp_ind for instance 498
+- [RUNNING] eps_ind for instance 498
+- [RUNNING] igd.py for instance 498
+- [RUNNING] kruskal-wallis for instance 498
+--- [Processing instance: 499]
+- [RUNNING] bound for instance 499
+- [RUNNING] normalize for instance 499
+- [RUNNING] filter for instance 499
+- [RUNNING] hyp_ind for instance 499
+- [RUNNING] eps_ind for instance 499
+- [RUNNING] igd.py for instance 499
+- [RUNNING] kruskal-wallis for instance 499
+--- [Processing instance: 5]
+- [RUNNING] bound for instance 5
+- [RUNNING] normalize for instance 5
+- [RUNNING] filter for instance 5
+- [RUNNING] hyp_ind for instance 5
+- [RUNNING] eps_ind for instance 5
+- [RUNNING] igd.py for instance 5
+- [RUNNING] kruskal-wallis for instance 5
+--- [Processing instance: 50]
+- [RUNNING] bound for instance 50
+- [RUNNING] normalize for instance 50
+- [RUNNING] filter for instance 50
+- [RUNNING] hyp_ind for instance 50
+- [RUNNING] eps_ind for instance 50
+- [RUNNING] igd.py for instance 50
+- [RUNNING] kruskal-wallis for instance 50
+--- [Processing instance: 500]
+- [RUNNING] bound for instance 500
+- [RUNNING] normalize for instance 500
+- [RUNNING] filter for instance 500
+- [RUNNING] hyp_ind for instance 500
+- [RUNNING] eps_ind for instance 500
+- [RUNNING] igd.py for instance 500
+- [RUNNING] kruskal-wallis for instance 500
+--- [Processing instance: 501]
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/1/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/2/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/3/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/4/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/5/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/6/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/7/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/8/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/9/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/10/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/11/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/12/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/13/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/14/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/15/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/16/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/17/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/18/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/19/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/501/20/501_comolsd_1000000.txt: Arquivo ou diretório inexistente
+- [RUNNING] bound for instance 501
+- [RUNNING] normalize for instance 501
+- [RUNNING] filter for instance 501
+- [RUNNING] hyp_ind for instance 501
+error in data file 1
+- [RUNNING] eps_ind for instance 501
+error in data file
+- [RUNNING] igd.py for instance 501
+- [RUNNING] kruskal-wallis for instance 501
+--- [Processing instance: 502]
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/1/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/2/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/3/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/4/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/5/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/6/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/7/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/8/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/9/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/10/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/11/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/12/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/13/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/14/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/15/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/16/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/17/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/18/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/19/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/502/20/502_comolsd_1000000.txt: Arquivo ou diretório inexistente
+- [RUNNING] bound for instance 502
+- [RUNNING] normalize for instance 502
+- [RUNNING] filter for instance 502
+- [RUNNING] hyp_ind for instance 502
+error in data file 1
+- [RUNNING] eps_ind for instance 502
+error in data file
+- [RUNNING] igd.py for instance 502
+- [RUNNING] kruskal-wallis for instance 502
+--- [Processing instance: 503]
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/1/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/2/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/3/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/4/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/5/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/6/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/7/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/8/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/9/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/10/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/11/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/12/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/13/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/14/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/15/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/16/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/17/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/18/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/19/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/503/20/503_comolsd_1000000.txt: Arquivo ou diretório inexistente
+- [RUNNING] bound for instance 503
+- [RUNNING] normalize for instance 503
+- [RUNNING] filter for instance 503
+- [RUNNING] hyp_ind for instance 503
+error in data file 1
+- [RUNNING] eps_ind for instance 503
+error in data file
+- [RUNNING] igd.py for instance 503
+- [RUNNING] kruskal-wallis for instance 503
+--- [Processing instance: 504]
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/1/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/2/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/3/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/4/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/5/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/6/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/7/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/8/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/9/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/10/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/11/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/12/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/13/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/14/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/15/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/16/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/17/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/18/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/19/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/504/20/504_comolsd_1000000.txt: Arquivo ou diretório inexistente
+- [RUNNING] bound for instance 504
+- [RUNNING] normalize for instance 504
+- [RUNNING] filter for instance 504
+- [RUNNING] hyp_ind for instance 504
+error in data file 1
+- [RUNNING] eps_ind for instance 504
+error in data file
+- [RUNNING] igd.py for instance 504
+- [RUNNING] kruskal-wallis for instance 504
+--- [Processing instance: 505]
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/1/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/2/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/3/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/4/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/5/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/6/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/7/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/8/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/9/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/10/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/11/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/12/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/13/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/14/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/15/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/16/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/17/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/18/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/19/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+cat: /home/gustavojorge/Downloads/statisticalTestsSuit/algorithm_results/COMOLSD/505/20/505_comolsd_1000000.txt: Arquivo ou diretório inexistente
+- [RUNNING] bound for instance 505
+- [RUNNING] normalize for instance 505
+- [RUNNING] filter for instance 505
+- [RUNNING] hyp_ind for instance 505
+error in data file 1
+- [RUNNING] eps_ind for instance 505
+error in data file
+- [RUNNING] igd.py for instance 505
+- [RUNNING] kruskal-wallis for instance 505
+--- [Processing instance: 51]
+- [RUNNING] bound for instance 51
+- [RUNNING] normalize for instance 51
+- [RUNNING] filter for instance 51
+- [RUNNING] hyp_ind for instance 51
+- [RUNNING] eps_ind for instance 51
+- [RUNNING] igd.py for instance 51
+- [RUNNING] kruskal-wallis for instance 51
+--- [Processing instance: 52]
+- [RUNNING] bound for instance 52
+- [RUNNING] normalize for instance 52
+- [RUNNING] filter for instance 52
+- [RUNNING] hyp_ind for instance 52
+- [RUNNING] eps_ind for instance 52
+- [RUNNING] igd.py for instance 52
+- [RUNNING] kruskal-wallis for instance 52
+--- [Processing instance: 53]
+- [RUNNING] bound for instance 53
+- [RUNNING] normalize for instance 53
+- [RUNNING] filter for instance 53
+- [RUNNING] hyp_ind for instance 53
+- [RUNNING] eps_ind for instance 53
+- [RUNNING] igd.py for instance 53
+- [RUNNING] kruskal-wallis for instance 53
+--- [Processing instance: 54]
+- [RUNNING] bound for instance 54
+- [RUNNING] normalize for instance 54
+- [RUNNING] filter for instance 54
+- [RUNNING] hyp_ind for instance 54
+- [RUNNING] eps_ind for instance 54
+- [RUNNING] igd.py for instance 54
+- [RUNNING] kruskal-wallis for instance 54
+--- [Processing instance: 55]
+- [RUNNING] bound for instance 55
+- [RUNNING] normalize for instance 55
+- [RUNNING] filter for instance 55
+- [RUNNING] hyp_ind for instance 55
+- [RUNNING] eps_ind for instance 55
+- [RUNNING] igd.py for instance 55
+- [RUNNING] kruskal-wallis for instance 55
+--- [Processing instance: 56]
+- [RUNNING] bound for instance 56
+- [RUNNING] normalize for instance 56
+- [RUNNING] filter for instance 56
+- [RUNNING] hyp_ind for instance 56
+- [RUNNING] eps_ind for instance 56
+- [RUNNING] igd.py for instance 56
+- [RUNNING] kruskal-wallis for instance 56
+--- [Processing instance: 57]
+- [RUNNING] bound for instance 57
+- [RUNNING] normalize for instance 57
+- [RUNNING] filter for instance 57
+- [RUNNING] hyp_ind for instance 57
+- [RUNNING] eps_ind for instance 57
+- [RUNNING] igd.py for instance 57
+- [RUNNING] kruskal-wallis for instance 57
+--- [Processing instance: 58]
+- [RUNNING] bound for instance 58
+- [RUNNING] normalize for instance 58
+- [RUNNING] filter for instance 58
+- [RUNNING] hyp_ind for instance 58
+- [RUNNING] eps_ind for instance 58
+- [RUNNING] igd.py for instance 58
+- [RUNNING] kruskal-wallis for instance 58
+--- [Processing instance: 59]
+- [RUNNING] bound for instance 59
+- [RUNNING] normalize for instance 59
+- [RUNNING] filter for instance 59
+- [RUNNING] hyp_ind for instance 59
+- [RUNNING] eps_ind for instance 59
+- [RUNNING] igd.py for instance 59
+- [RUNNING] kruskal-wallis for instance 59
+--- [Processing instance: 6]
+- [RUNNING] bound for instance 6
+- [RUNNING] normalize for instance 6
+- [RUNNING] filter for instance 6
+- [RUNNING] hyp_ind for instance 6
+- [RUNNING] eps_ind for instance 6
+- [RUNNING] igd.py for instance 6
+- [RUNNING] kruskal-wallis for instance 6
+--- [Processing instance: 60]
+- [RUNNING] bound for instance 60
+- [RUNNING] normalize for instance 60
+- [RUNNING] filter for instance 60
+- [RUNNING] hyp_ind for instance 60
+- [RUNNING] eps_ind for instance 60
+- [RUNNING] igd.py for instance 60
+- [RUNNING] kruskal-wallis for instance 60
+--- [Processing instance: 61]
+- [RUNNING] bound for instance 61
+- [RUNNING] normalize for instance 61
+- [RUNNING] filter for instance 61
+- [RUNNING] hyp_ind for instance 61
+- [RUNNING] eps_ind for instance 61
+- [RUNNING] igd.py for instance 61
+- [RUNNING] kruskal-wallis for instance 61
+--- [Processing instance: 62]
+- [RUNNING] bound for instance 62
+- [RUNNING] normalize for instance 62
+- [RUNNING] filter for instance 62
+- [RUNNING] hyp_ind for instance 62
+- [RUNNING] eps_ind for instance 62
+- [RUNNING] igd.py for instance 62
+- [RUNNING] kruskal-wallis for instance 62
+--- [Processing instance: 63]
+- [RUNNING] bound for instance 63
+- [RUNNING] normalize for instance 63
+- [RUNNING] filter for instance 63
+- [RUNNING] hyp_ind for instance 63
+- [RUNNING] eps_ind for instance 63
+- [RUNNING] igd.py for instance 63
+- [RUNNING] kruskal-wallis for instance 63
+--- [Processing instance: 64]
+- [RUNNING] bound for instance 64
+- [RUNNING] normalize for instance 64
+- [RUNNING] filter for instance 64
+- [RUNNING] hyp_ind for instance 64
+- [RUNNING] eps_ind for instance 64
+- [RUNNING] igd.py for instance 64
+- [RUNNING] kruskal-wallis for instance 64
+--- [Processing instance: 65]
+- [RUNNING] bound for instance 65
+- [RUNNING] normalize for instance 65
+- [RUNNING] filter for instance 65
+- [RUNNING] hyp_ind for instance 65
+- [RUNNING] eps_ind for instance 65
+- [RUNNING] igd.py for instance 65
+- [RUNNING] kruskal-wallis for instance 65
+--- [Processing instance: 66]
+- [RUNNING] bound for instance 66
+- [RUNNING] normalize for instance 66
+- [RUNNING] filter for instance 66
+- [RUNNING] hyp_ind for instance 66
+- [RUNNING] eps_ind for instance 66
+- [RUNNING] igd.py for instance 66
+- [RUNNING] kruskal-wallis for instance 66
+--- [Processing instance: 67]
+- [RUNNING] bound for instance 67
+- [RUNNING] normalize for instance 67
+- [RUNNING] filter for instance 67
+- [RUNNING] hyp_ind for instance 67
+- [RUNNING] eps_ind for instance 67
+- [RUNNING] igd.py for instance 67
+- [RUNNING] kruskal-wallis for instance 67
+--- [Processing instance: 68]
+- [RUNNING] bound for instance 68
+- [RUNNING] normalize for instance 68
+- [RUNNING] filter for instance 68
+- [RUNNING] hyp_ind for instance 68
+- [RUNNING] eps_ind for instance 68
+- [RUNNING] igd.py for instance 68
+- [RUNNING] kruskal-wallis for instance 68
+--- [Processing instance: 69]
+- [RUNNING] bound for instance 69
+- [RUNNING] normalize for instance 69
+- [RUNNING] filter for instance 69
+- [RUNNING] hyp_ind for instance 69
+- [RUNNING] eps_ind for instance 69
+- [RUNNING] igd.py for instance 69
+- [RUNNING] kruskal-wallis for instance 69
+--- [Processing instance: 7]
+- [RUNNING] bound for instance 7
+- [RUNNING] normalize for instance 7
+- [RUNNING] filter for instance 7
+- [RUNNING] hyp_ind for instance 7
+- [RUNNING] eps_ind for instance 7
+- [RUNNING] igd.py for instance 7
+- [RUNNING] kruskal-wallis for instance 7
+--- [Processing instance: 70]
+- [RUNNING] bound for instance 70
+- [RUNNING] normalize for instance 70
+- [RUNNING] filter for instance 70
+- [RUNNING] hyp_ind for instance 70
+- [RUNNING] eps_ind for instance 70
+- [RUNNING] igd.py for instance 70
+- [RUNNING] kruskal-wallis for instance 70
+--- [Processing instance: 71]
+- [RUNNING] bound for instance 71
+- [RUNNING] normalize for instance 71
+- [RUNNING] filter for instance 71
+- [RUNNING] hyp_ind for instance 71
+- [RUNNING] eps_ind for instance 71
+- [RUNNING] igd.py for instance 71
+- [RUNNING] kruskal-wallis for instance 71
+--- [Processing instance: 72]
+- [RUNNING] bound for instance 72
+- [RUNNING] normalize for instance 72
+- [RUNNING] filter for instance 72
+- [RUNNING] hyp_ind for instance 72
+- [RUNNING] eps_ind for instance 72
+- [RUNNING] igd.py for instance 72
+- [RUNNING] kruskal-wallis for instance 72
+--- [Processing instance: 73]
+- [RUNNING] bound for instance 73
+- [RUNNING] normalize for instance 73
+- [RUNNING] filter for instance 73
+- [RUNNING] hyp_ind for instance 73
+- [RUNNING] eps_ind for instance 73
+- [RUNNING] igd.py for instance 73
+- [RUNNING] kruskal-wallis for instance 73
+--- [Processing instance: 74]
+- [RUNNING] bound for instance 74
+- [RUNNING] normalize for instance 74
+- [RUNNING] filter for instance 74
+- [RUNNING] hyp_ind for instance 74
+- [RUNNING] eps_ind for instance 74
+- [RUNNING] igd.py for instance 74
+- [RUNNING] kruskal-wallis for instance 74
+--- [Processing instance: 75]
+- [RUNNING] bound for instance 75
+- [RUNNING] normalize for instance 75
+- [RUNNING] filter for instance 75
+- [RUNNING] hyp_ind for instance 75
+- [RUNNING] eps_ind for instance 75
+- [RUNNING] igd.py for instance 75
+- [RUNNING] kruskal-wallis for instance 75
+--- [Processing instance: 76]
+- [RUNNING] bound for instance 76
+- [RUNNING] normalize for instance 76
+- [RUNNING] filter for instance 76
+- [RUNNING] hyp_ind for instance 76
+- [RUNNING] eps_ind for instance 76
+- [RUNNING] igd.py for instance 76
+- [RUNNING] kruskal-wallis for instance 76
+--- [Processing instance: 77]
+- [RUNNING] bound for instance 77
+- [RUNNING] normalize for instance 77
+- [RUNNING] filter for instance 77
+- [RUNNING] hyp_ind for instance 77
+- [RUNNING] eps_ind for instance 77
+- [RUNNING] igd.py for instance 77
+- [RUNNING] kruskal-wallis for instance 77
+--- [Processing instance: 78]
+- [RUNNING] bound for instance 78
+- [RUNNING] normalize for instance 78
+- [RUNNING] filter for instance 78
+- [RUNNING] hyp_ind for instance 78
+- [RUNNING] eps_ind for instance 78
+- [RUNNING] igd.py for instance 78
+- [RUNNING] kruskal-wallis for instance 78
+--- [Processing instance: 79]
+- [RUNNING] bound for instance 79
+- [RUNNING] normalize for instance 79
+- [RUNNING] filter for instance 79
+- [RUNNING] hyp_ind for instance 79
+- [RUNNING] eps_ind for instance 79
+- [RUNNING] igd.py for instance 79
+- [RUNNING] kruskal-wallis for instance 79
+--- [Processing instance: 8]
+- [RUNNING] bound for instance 8
+- [RUNNING] normalize for instance 8
+- [RUNNING] filter for instance 8
+- [RUNNING] hyp_ind for instance 8
+- [RUNNING] eps_ind for instance 8
+- [RUNNING] igd.py for instance 8
+- [RUNNING] kruskal-wallis for instance 8
+--- [Processing instance: 80]
+- [RUNNING] bound for instance 80
+- [RUNNING] normalize for instance 80
+- [RUNNING] filter for instance 80
+- [RUNNING] hyp_ind for instance 80
+- [RUNNING] eps_ind for instance 80
+- [RUNNING] igd.py for instance 80
+- [RUNNING] kruskal-wallis for instance 80
+--- [Processing instance: 81]
+- [RUNNING] bound for instance 81
+- [RUNNING] normalize for instance 81
+- [RUNNING] filter for instance 81
+- [RUNNING] hyp_ind for instance 81
+- [RUNNING] eps_ind for instance 81
+- [RUNNING] igd.py for instance 81
+- [RUNNING] kruskal-wallis for instance 81
+--- [Processing instance: 82]
+- [RUNNING] bound for instance 82
+- [RUNNING] normalize for instance 82
+- [RUNNING] filter for instance 82
+- [RUNNING] hyp_ind for instance 82
+- [RUNNING] eps_ind for instance 82
+- [RUNNING] igd.py for instance 82
+- [RUNNING] kruskal-wallis for instance 82
+--- [Processing instance: 83]
+- [RUNNING] bound for instance 83
+- [RUNNING] normalize for instance 83
+- [RUNNING] filter for instance 83
+- [RUNNING] hyp_ind for instance 83
+- [RUNNING] eps_ind for instance 83
+- [RUNNING] igd.py for instance 83
+- [RUNNING] kruskal-wallis for instance 83
+--- [Processing instance: 84]
+- [RUNNING] bound for instance 84
+- [RUNNING] normalize for instance 84
+- [RUNNING] filter for instance 84
+- [RUNNING] hyp_ind for instance 84
+- [RUNNING] eps_ind for instance 84
+- [RUNNING] igd.py for instance 84
+- [RUNNING] kruskal-wallis for instance 84
+--- [Processing instance: 85]
+- [RUNNING] bound for instance 85
+- [RUNNING] normalize for instance 85
+- [RUNNING] filter for instance 85
+- [RUNNING] hyp_ind for instance 85
+- [RUNNING] eps_ind for instance 85
+- [RUNNING] igd.py for instance 85
+- [RUNNING] kruskal-wallis for instance 85
+--- [Processing instance: 86]
+- [RUNNING] bound for instance 86
+- [RUNNING] normalize for instance 86
+- [RUNNING] filter for instance 86
+- [RUNNING] hyp_ind for instance 86
+- [RUNNING] eps_ind for instance 86
+- [RUNNING] igd.py for instance 86
+- [RUNNING] kruskal-wallis for instance 86
+--- [Processing instance: 87]
+- [RUNNING] bound for instance 87
+- [RUNNING] normalize for instance 87
+- [RUNNING] filter for instance 87
+- [RUNNING] hyp_ind for instance 87
+- [RUNNING] eps_ind for instance 87
+- [RUNNING] igd.py for instance 87
+- [RUNNING] kruskal-wallis for instance 87
+--- [Processing instance: 88]
+- [RUNNING] bound for instance 88
+- [RUNNING] normalize for instance 88
+- [RUNNING] filter for instance 88
+- [RUNNING] hyp_ind for instance 88
+- [RUNNING] eps_ind for instance 88
+- [RUNNING] igd.py for instance 88
+- [RUNNING] kruskal-wallis for instance 88
+--- [Processing instance: 89]
+- [RUNNING] bound for instance 89
+- [RUNNING] normalize for instance 89
+- [RUNNING] filter for instance 89
+- [RUNNING] hyp_ind for instance 89
+- [RUNNING] eps_ind for instance 89
+- [RUNNING] igd.py for instance 89
+- [RUNNING] kruskal-wallis for instance 89
+--- [Processing instance: 9]
+- [RUNNING] bound for instance 9
+- [RUNNING] normalize for instance 9
+- [RUNNING] filter for instance 9
+- [RUNNING] hyp_ind for instance 9
+- [RUNNING] eps_ind for instance 9
+- [RUNNING] igd.py for instance 9
+- [RUNNING] kruskal-wallis for instance 9
+--- [Processing instance: 90]
+- [RUNNING] bound for instance 90
+- [RUNNING] normalize for instance 90
+- [RUNNING] filter for instance 90
+- [RUNNING] hyp_ind for instance 90
+- [RUNNING] eps_ind for instance 90
+- [RUNNING] igd.py for instance 90
+- [RUNNING] kruskal-wallis for instance 90
+--- [Processing instance: 91]
+- [RUNNING] bound for instance 91
+- [RUNNING] normalize for instance 91
+- [RUNNING] filter for instance 91
+- [RUNNING] hyp_ind for instance 91
+- [RUNNING] eps_ind for instance 91
+- [RUNNING] igd.py for instance 91
+- [RUNNING] kruskal-wallis for instance 91
+--- [Processing instance: 92]
+- [RUNNING] bound for instance 92
+- [RUNNING] normalize for instance 92
+- [RUNNING] filter for instance 92
+- [RUNNING] hyp_ind for instance 92
+- [RUNNING] eps_ind for instance 92
+- [RUNNING] igd.py for instance 92
+- [RUNNING] kruskal-wallis for instance 92
+--- [Processing instance: 93]
+- [RUNNING] bound for instance 93
+- [RUNNING] normalize for instance 93
+- [RUNNING] filter for instance 93
+- [RUNNING] hyp_ind for instance 93
+- [RUNNING] eps_ind for instance 93
+- [RUNNING] igd.py for instance 93
+- [RUNNING] kruskal-wallis for instance 93
+--- [Processing instance: 94]
+- [RUNNING] bound for instance 94
+- [RUNNING] normalize for instance 94
+- [RUNNING] filter for instance 94
+- [RUNNING] hyp_ind for instance 94
+- [RUNNING] eps_ind for instance 94
+- [RUNNING] igd.py for instance 94
+- [RUNNING] kruskal-wallis for instance 94
+--- [Processing instance: 95]
+- [RUNNING] bound for instance 95
+- [RUNNING] normalize for instance 95
+- [RUNNING] filter for instance 95
+- [RUNNING] hyp_ind for instance 95
+- [RUNNING] eps_ind for instance 95
+- [RUNNING] igd.py for instance 95
+- [RUNNING] kruskal-wallis for instance 95
+--- [Processing instance: 96]
+- [RUNNING] bound for instance 96
+- [RUNNING] normalize for instance 96
+- [RUNNING] filter for instance 96
+- [RUNNING] hyp_ind for instance 96
+- [RUNNING] eps_ind for instance 96
+- [RUNNING] igd.py for instance 96
+- [RUNNING] kruskal-wallis for instance 96
+--- [Processing instance: 97]
+- [RUNNING] bound for instance 97
+- [RUNNING] normalize for instance 97
+- [RUNNING] filter for instance 97
+- [RUNNING] hyp_ind for instance 97
+- [RUNNING] eps_ind for instance 97
+- [RUNNING] igd.py for instance 97
+- [RUNNING] kruskal-wallis for instance 97
+--- [Processing instance: 98]
+- [RUNNING] bound for instance 98
+- [RUNNING] normalize for instance 98
+- [RUNNING] filter for instance 98
+- [RUNNING] hyp_ind for instance 98
+- [RUNNING] eps_ind for instance 98
+- [RUNNING] igd.py for instance 98
+- [RUNNING] kruskal-wallis for instance 98
+--- [Processing instance: 99]
+- [RUNNING] bound for instance 99
+- [RUNNING] normalize for instance 99
+- [RUNNING] filter for instance 99
+- [RUNNING] hyp_ind for instance 99
+- [RUNNING] eps_ind for instance 99
+- [RUNNING] igd.py for instance 99
+- [RUNNING] kruskal-wallis for instance 99
+--- [Processing instance: A]
+- [RUNNING] bound for instance A
+- [RUNNING] normalize for instance A
+- [RUNNING] filter for instance A
+- [RUNNING] hyp_ind for instance A
+- [RUNNING] eps_ind for instance A
+- [RUNNING] igd.py for instance A
+- [RUNNING] kruskal-wallis for instance A
+--- [Processing instance: B]
+- [RUNNING] bound for instance B
+- [RUNNING] normalize for instance B
+- [RUNNING] filter for instance B
+- [RUNNING] hyp_ind for instance B
+- [RUNNING] eps_ind for instance B
+- [RUNNING] igd.py for instance B
+- [RUNNING] kruskal-wallis for instance B
+--- [Processing instance: C]
+- [RUNNING] bound for instance C
+- [RUNNING] normalize for instance C
+- [RUNNING] filter for instance C
+- [RUNNING] hyp_ind for instance C
+- [RUNNING] eps_ind for instance C
+- [RUNNING] igd.py for instance C
+- [RUNNING] kruskal-wallis for instance C
+--- [Processing instance: D]
+- [RUNNING] bound for instance D
+- [RUNNING] normalize for instance D
+- [RUNNING] filter for instance D
+- [RUNNING] hyp_ind for instance D
+- [RUNNING] eps_ind for instance D
+- [RUNNING] igd.py for instance D
+- [RUNNING] kruskal-wallis for instance D
+--- [Processing instance: E]
+- [RUNNING] bound for instance E
+- [RUNNING] normalize for instance E
+- [RUNNING] filter for instance E
+- [RUNNING] hyp_ind for instance E
+- [RUNNING] eps_ind for instance E
+- [RUNNING] igd.py for instance E
+- [RUNNING] kruskal-wallis for instance E
+--- [Processing instance: F]
+- [RUNNING] bound for instance F
+- [RUNNING] normalize for instance F
+- [RUNNING] filter for instance F
+- [RUNNING] hyp_ind for instance F
+- [RUNNING] eps_ind for instance F
+- [RUNNING] igd.py for instance F
+- [RUNNING] kruskal-wallis for instance F
+--- [Processing instance: G]
+- [RUNNING] bound for instance G
+- [RUNNING] normalize for instance G
+- [RUNNING] filter for instance G
+- [RUNNING] hyp_ind for instance G
+- [RUNNING] eps_ind for instance G
+- [RUNNING] igd.py for instance G
+- [RUNNING] kruskal-wallis for instance G
+--- [Processing instance: H]
+- [RUNNING] bound for instance H
+- [RUNNING] normalize for instance H
+- [RUNNING] filter for instance H
+- [RUNNING] hyp_ind for instance H
+- [RUNNING] eps_ind for instance H
+- [RUNNING] igd.py for instance H
+- [RUNNING] kruskal-wallis for instance H
+--- [Processing instance: I]
+- [RUNNING] bound for instance I
+- [RUNNING] normalize for instance I
+- [RUNNING] filter for instance I
+- [RUNNING] hyp_ind for instance I
+- [RUNNING] eps_ind for instance I
+- [RUNNING] igd.py for instance I
+- [RUNNING] kruskal-wallis for instance I
+--- [Processing instance: J]
+- [RUNNING] bound for instance J
+- [RUNNING] normalize for instance J
+- [RUNNING] filter for instance J
+- [RUNNING] hyp_ind for instance J
+- [RUNNING] eps_ind for instance J
+- [RUNNING] igd.py for instance J
+- [RUNNING] kruskal-wallis for instance J
+ 
+--- List of processed instances saved in /home/gustavojorge/Downloads/statisticalTestsSuit/analysis/processed_instances.txt
