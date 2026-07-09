@@ -1,0 +1,130 @@
+================================================================================
+RELATORIO DE PERFIS DOS CLUSTERS (EXPLICABILIDADE)
+================================================================================
+Total de Instancias: 516
+Total de Features Analisadas: 104
+
+--------------------------------------------------------------------------------
+Cluster 0 (n = 42 instancias)
+--------------------------------------------------------------------------------
+Top 5 características marcantes (maior desvio positivo em relacao a media global):
+  1. Feature: pareto_aw_INC_sk
+     Media no Cluster: 0.280376 | Media Global: -0.089678
+     Desvio Positivo: +412.65%
+
+  2. Feature: decomp_rw_FV_sk_avg
+     Media no Cluster: 0.012642 | Media Global: -0.006870
+     Desvio Positivo: +284.01%
+
+  3. Feature: pareto_rw_INC_sk
+     Media no Cluster: 0.023313 | Media Global: 0.008400
+     Desvio Positivo: +177.55%
+
+  4. Feature: decomp_aw_FD_kr_sd
+     Media no Cluster: 0.757212 | Media Global: 0.305758
+     Desvio Positivo: +147.65%
+
+  5. Feature: decomp_rw_IN_r1_avg
+     Media no Cluster: 0.434700 | Media Global: 0.182090
+     Desvio Positivo: +138.73%
+
+
+--------------------------------------------------------------------------------
+Cluster 1 (n = 169 instancias)
+--------------------------------------------------------------------------------
+Top 5 características marcantes (maior desvio positivo em relacao a media global):
+  1. Feature: decomp_rw_FD_avg_avg
+     Media no Cluster: 0.000001 | Media Global: -0.000001
+     Desvio Positivo: +366.17%
+
+  2. Feature: pareto_rw_IND_r1
+     Media no Cluster: 0.077443 | Media Global: 0.047795
+     Desvio Positivo: +62.03%
+
+  3. Feature: decomp_rw_FD_sk_avg
+     Media no Cluster: 0.008621 | Media Global: 0.005535
+     Desvio Positivo: +55.76%
+
+  4. Feature: decomp_rw_FV_sd_sd
+     Media no Cluster: 0.001568 | Media Global: 0.001144
+     Desvio Positivo: +37.06%
+
+  5. Feature: decomp_rw_FV_sd_avg
+     Media no Cluster: 0.002190 | Media Global: 0.001620
+     Desvio Positivo: +35.18%
+
+
+--------------------------------------------------------------------------------
+Cluster 2 (n = 33 instancias)
+--------------------------------------------------------------------------------
+Top 5 características marcantes (maior desvio positivo em relacao a media global):
+  1. Feature: decomp_rw_FD_sd_sd
+     Media no Cluster: 0.000159 | Media Global: 0.000034
+     Desvio Positivo: +362.10%
+
+  2. Feature: decomp_rw_FD_sd_avg
+     Media no Cluster: 0.000254 | Media Global: 0.000055
+     Desvio Positivo: +359.31%
+
+  3. Feature: decomp_rw_FD_avg_sd
+     Media no Cluster: 0.000183 | Media Global: 0.000041
+     Desvio Positivo: +347.84%
+
+  4. Feature: pareto_rw_IND_r1
+     Media no Cluster: 0.193209 | Media Global: 0.047795
+     Desvio Positivo: +304.25%
+
+  5. Feature: decomp_aw_FD_sd_sd
+     Media no Cluster: 0.000568 | Media Global: 0.000144
+     Desvio Positivo: +294.09%
+
+
+--------------------------------------------------------------------------------
+Cluster 3 (n = 1 instancias)
+--------------------------------------------------------------------------------
+Top 5 características marcantes (maior desvio positivo em relacao a media global):
+  1. Feature: decomp_rw_FD_sd_avg
+     Media no Cluster: 0.003040 | Media Global: 0.000055
+     Desvio Positivo: +5398.88%
+
+  2. Feature: decomp_rw_FD_sd_sd
+     Media no Cluster: 0.001870 | Media Global: 0.000034
+     Desvio Positivo: +5327.58%
+
+  3. Feature: decomp_rw_FD_avg_avg
+     Media no Cluster: 0.000018 | Media Global: -0.000001
+     Desvio Positivo: +3604.29%
+
+  4. Feature: decomp_aw_FV_r1_sd
+     Media no Cluster: 0.364783 | Media Global: 0.011331
+     Desvio Positivo: +3119.44%
+
+  5. Feature: decomp_aw_FD_sd_sd
+     Media no Cluster: 0.004615 | Media Global: 0.000144
+     Desvio Positivo: +3102.81%
+
+
+--------------------------------------------------------------------------------
+Cluster 4 (n = 271 instancias)
+--------------------------------------------------------------------------------
+Top 5 características marcantes (maior desvio positivo em relacao a media global):
+  1. Feature: decomp_rw_IN_sk_avg
+     Media no Cluster: 0.002447 | Media Global: 0.000737
+     Desvio Positivo: +232.13%
+
+  2. Feature: decomp_aw_FD_avg_avg
+     Media no Cluster: -0.000211 | Media Global: -0.000535
+     Desvio Positivo: +60.54%
+
+  3. Feature: pareto_rw_INC_sk
+     Media no Cluster: 0.013153 | Media Global: 0.008400
+     Desvio Positivo: +56.59%
+
+  4. Feature: total_area_km2
+     Media no Cluster: 591.467939 | Media Global: 421.101522
+     Desvio Positivo: +40.46%
+
+  5. Feature: total_available_points
+     Media no Cluster: 21765.723247 | Media Global: 15509.474806
+     Desvio Positivo: +40.34%
+
