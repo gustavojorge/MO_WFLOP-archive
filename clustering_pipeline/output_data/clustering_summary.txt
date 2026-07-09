@@ -1,0 +1,43 @@
+============================================================
+  RELATÓRIO DO PIPELINE DE CLUSTERING — MO-WFLOP
+============================================================
+
+--- Análise de Componentes Principais (PCA) ---
+
+  PC1  :  24.7600%  de variância explicada
+  PC2  :  8.1474%  de variância explicada
+  PC3  :  7.7777%  de variância explicada
+
+  Variância Acumulada (PC1+PC2+PC3): 40.6851%
+
+--- Distribuição dos Clusters (516 instâncias) ---
+
+  Cluster 0:  42 instâncias  (8.1%)
+  Cluster 1: 169 instâncias  (32.8%)
+  Cluster 2:  33 instâncias  (6.4%)
+  Cluster 3:   1 instâncias  (0.2%)
+  Cluster 4: 271 instâncias  (52.5%)
+
+  Total: 516 instâncias
+
+--- Amostragem Estratificada (Fallback Proporcional) ---
+
+  Meta inicial por cluster          : 60
+  Clusters pequenos (N<=60)         : usadas todas as instâncias disponíveis
+  Clusters grandes  (N>60)          : cota ajustada proporcionalmente
+  Total amostrado                   : 300 (exato)
+
+  Distribuição da amostra por cluster:
+    Cluster 0: 42 instâncias
+    Cluster 1: 86 instâncias
+    Cluster 2: 33 instâncias
+    Cluster 3: 1 instâncias
+    Cluster 4: 138 instâncias
+
+--- Parâmetros do Pipeline ---
+
+  PCA n_components : 3
+  K-Means K        : 5
+  random_state     : 42
+  Scaler           : StandardScaler
+  Imputer          : SimpleImputer (strategy=median)
