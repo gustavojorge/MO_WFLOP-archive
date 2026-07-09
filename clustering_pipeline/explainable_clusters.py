@@ -5,7 +5,7 @@ import numpy as np
 def main():
     # Caminhos dos arquivos
     input_file = "clustering_pipeline/output_data/master_instances_clustered.csv"
-    output_dir = "clustering_analysis/output_data"
+    output_dir = "clustering_pipeline/output_data"
     output_file = os.path.join(output_dir, "cluster_profiles.txt")
 
     # Garante que o diretório de saída exista
